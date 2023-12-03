@@ -1,0 +1,14 @@
+---
+name: luna_pinyin.mydict    # 词库名称，与文件名一致
+version: "1.0"                # 版本号，任填
+sort: by_weight               # 排序依据，by_weight表示按权重（词频）排序
+use_preset_vocabulary: true   # 是否使用预置发音，一般选true
+# 此处为扩充词库默认一并载入的词库
+import_tables:
+  - luna_pinyin               # 预置的朙月拼音词库
+  - luna_pinyin.sogou         # 搜狗标准词库+高中常考古诗词+网络流行新词
+  - luna_pinyin.baidu         # 百度词库成语大全+动漫作品词库+网络用语
+  - luna_pinyin.sogou_chemistry # 搜狗化工词库石油专业词汇+化工产品名+化工原料名称+石油石化专业术语词库+阿里巴巴产品词汇－化工
+  - luna_pinyin.sogou_computer  # 搜狗计算机网络工程词库+开发大神专用词库+计算机专业词库+计算机名词+计算机词汇大全+电脑专业术语+电脑词汇大全+程序猿词库
+  - luna_pinyin.cn_en         # 常用的中英混和词语
+---

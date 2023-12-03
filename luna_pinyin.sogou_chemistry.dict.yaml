@@ -1,0 +1,4459 @@
+---
+name: luna_pinyin.sogou_chemistry
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+氨基树脂	an ji shu zhi	1
+胺类	an lei	1
+氨纶	an lun	1
+氨气	an qi	1
+安全阀	an quan fa	1
+板式塔	ban shi ta	1
+曝气设备	bao qi she bei	1
+钡氧化物	bei yang hua wu	1
+苯醌	ben kun	1
+吡啶	bi ding	1
+吡咯	bi luo	1
+比色皿	bi se min	1
+滗水器	bi shui qi	1
+丙纶	bing lun	1
+丙烯酸树脂	bing xi suan shu zhi	1
+冰洲石	bing zhou shi	1
+玻璃	bo li	1
+玻璃机械	bo li ji xie	1
+玻璃加工	bo li jia gong	1
+不饱和聚酯树脂	bu bao he ju zhi shu zhi	1
+槽式反应器	cao shi fan ying qi	1
+长石	chang shi	1
+沉淀池	chen dian chi	1
+齿轮泵	chi lun beng	1
+储罐	chu guan	1
+除沫器	chu mo qi	1
+储运容器	chu yun rong qi	1
+储运设备	chu yun she bei	1
+传热设备	chuan re she bei	1
+传质设备	chuan zhi she bei	1
+醇类	chun lei	1
+磁力泵	ci li beng	1
+萃取设备	cui qu she bei	1
+带式干燥设备	dai shi gan zao she bei	1
+氮气	dan qi	1
+单向阀	dan xiang fa	1
+单质	dan zhi	1
+底阀	di fa	1
+滴管	di guan	1
+涤纶	di lun	1
+电磁阀	dian ci fa	1
+碘化物	dian hua wu	1
+电解槽	dian jie cao	1
+电气石	dian qi shi	1
+蝶阀	die fa	1
+蒽醌	en kun	1
+二手化工设备	er shou hua gong she bei	1
+二氧化氮	er yang hua dan	1
+二氧化碳	er yang hua tan	1
+二元醇	er yuan chun	1
+发酵提取设备	fa jiao ti qu she bei	1
+阀门	fa men	1
+阀体	fa ti	1
+反应釜	fan ying fu	1
+反应设备	fan ying she bei	1
+方解石	fang jie shi	1
+放料阀	fang liao fa	1
+芳香烃	fang xiang ting	1
+废催化剂	fei cui hua ji	1
+废海绵	fei hai mian	1
+非金属矿产	fei jin shu kuang chan	1
+废尼龙	fei ni long	1
+废气处理成套设备	fei qi chu li cheng tao she bei	1
+废气吸附装置	fei qi xi fu zhuang zhi	1
+沸石	fei shi	1
+废塑料	fei su liao	1
+沸腾干燥机	fei teng gan zao ji	1
+废橡胶	fei xiang jiao	1
+酚类	fen lei	1
+分离设备	fen li she bei	1
+分凝器	fen ning qi	1
+酚醛树脂	fen quan shu zhi	1
+分散机	fen san ji	1
+粉碎机	fen sui ji	1
+粉碎设备	fen sui she bei	1
+分析试剂	fen xi shi ji	1
+砜类	feng lei	1
+氟化物	fu hua wu	1
+呋喃	fu nan	1
+呋喃树脂	fu nan shu zhi	1
+钙氧化物	gai yang hua wu	1
+坩埚	gan guo	1
+干燥设备	gan zao she bei	1
+高岭土	gao ling tu	1
+高压泵	gao ya beng	1
+隔膜泵	ge mo beng	1
+隔膜阀	ge mo fa	1
+铬氧化物	ge yang hua wu	1
+功能纤维	gong neng xian wei	1
+工业淀粉	gong ye dian fen	1
+鼓风机	gu feng ji	1
+钴氧化物	gu yang hua wu	1
+管道泵	guan dao beng	1
+管式反应器	guan shi fan ying qi	1
+硅灰石	gui hui shi	1
+贵金属盐废料	gui jin shu yan fei liao	1
+硅酸盐	gui suan yan	1
+硅氧化物	gui yang hua wu	1
+硅藻土	gui zao tu	1
+滚筒刮板干燥机	gun tong gua ban gan zao ji	1
+过滤材料	guo lv cai liao	1
+过滤机	guo lv ji	1
+过滤器	guo lv qi	1
+果糖	guo tang	1
+氦气	hai qi	1
+合成树脂	he cheng shu zhi	1
+红柱石	hong zhu shi	1
+化工产品加工	hua gong chan pin jia gong	1
+化工成套设备	hua gong cheng tao she bei	1
+化工成型设备	hua gong cheng xing she bei	1
+化工废料	hua gong fei liao	1
+化工管道及配件	hua gong guan dao ji pei jian	1
+化工设备	hua gong she bei	1
+化工设备代理	hua gong she bei dai li	1
+化工设备配件	hua gong she bei pei jian	1
+化工实验设备	hua gong shi yan she bei	1
+化工项目合作	hua gong xiang mu he zuo	1
+化工仪表	hua gong yi biao	1
+化工原料代理	hua gong yuan liao dai li	1
+滑石	hua shi	1
+化学试剂	hua xue shi ji	1
+化学纤维	hua xue xian wei	1
+换热器	huan re qi	1
+换向阀	huan xiang fa	1
+环氧树脂	huan yang shu zhi	1
+磺酸	huang suan	1
+磺酸衍生物	huang suan yan sheng wu	1
+混合机	hun he ji	1
+混合气	hun he qi	1
+混合设备	hun he she bei	1
+混流泵	hun liu beng	1
+火工产品	huo gong chan pin	1
+计量泵	ji liang beng	1
+加料机	jia liao ji	1
+加热器	jia re qi	1
+减压阀	jian ya fa	1
+搅拌机	jiao ban ji	1
+角阀	jiao fa	1
+脚踏阀	jiao ta fa	1
+结晶设备	jie jing she bei	1
+节流阀	jie liu fa	1
+截止阀	jie zhi fa	1
+锦纶	jin lun	1
+金属单质	jin shu dan zhi	1
+腈类	jing lei	1
+腈纶	jing lun	1
+酒精灯	jiu jing deng	1
+聚氨酯树脂	ju an zhi shu zhi	1
+聚合物	ju he wu	1
+聚酰胺树脂	ju xian an shu zhi	1
+均质设备	jun zhi she bei	1
+氪气	ke qi	1
+空分设备	kong fen she bei	1
+空气净化器	kong qi jing hua qi	1
+空气净化装置	kong qi jing hua zhuang zhi	1
+空调泵	kong tiao beng	1
+空心桨叶干燥机	kong xin jiang ye gan zao ji	1
+库存化工设备	ku cun hua gong she bei	1
+库存化工原料	ku cun hua gong yuan liao	1
+醌类	kun lei	1
+蓝晶石	lan jing shi	1
+冷冻机	leng dong ji	1
+冷凝器	leng ning qi	1
+冷却器	leng que qi	1
+冷却塔	leng que ta	1
+冷水机	leng shui ji	1
+锂辉石	li hui shi	1
+离心泵	li xin beng	1
+离心机	li xin ji	1
+离子交换树脂	li zi jiao huan shu zhi	1
+炼化设备	lian hua she bei	1
+量杯	liang bei	1
+量筒	liang tong	1
+淋水装置	lin shui zhuang zhi	1
+磷酸	lin suan	1
+磷酸盐	lin suan yan	1
+磷氧化物	lin yang hua wu	1
+流程泵	liu cheng beng	1
+硫醇	liu chun	1
+流化床干燥设备	liu hua chuang gan zao she bei	1
+硫化物	liu hua wu	1
+硫磺	liu huang	1
+硫矿	liu kuang	1
+流量控制阀	liu liang kong zhi fa	1
+硫酸	liu suan	1
+硫酸盐	liu suan yan	1
+卤代烃	lu dai ting	1
+卤酸盐	lu suan yan	1
+氯化物	lv hua wu	1
+氯气	lv qi	1
+铝氧化物	lv yang hua wu	1
+麦饭石	mai fan shi	1
+麦芽糖	mai ya tang	1
+镁氧化物	mei yang hua wu	1
+锰氧化物	meng yang hua wu	1
+嘧啶	mi ding	1
+醚类	mi lei	1
+咪唑	mi zuo	1
+耐腐蚀泵	nai fu shi beng	1
+萘醌	nai kun	1
+氖气	nai qi	1
+脲醛树脂	niao quan shu zhi	1
+捏合机	nie he ji	1
+偶氮化合物	ou dan hua he wu	1
+排气阀	pai qi fa	1
+排污泵	pai wu beng	1
+排污阀	pai wu fa	1
+盘式干燥机	pan shi gan zao ji	1
+喷雾干燥机	pen wu gan zao ji	1
+膨润土	peng run tu	1
+硼酸	peng suan	1
+膨胀阀	peng zhang fa	1
+嘌呤	piao ling	1
+屏蔽泵	ping bi beng	1
+瓶体	ping ti	1
+破碎机	po sui ji	1
+葡萄糖	pu tao tang	1
+普通玻璃	pu tong bo li	1
+气动阀	qi dong fa	1
+气浮设备	qi fu she bei	1
+气流干燥设备	qi liu gan zao she bei	1
+其他泵	qi ta beng	1
+其他玻璃	qi ta bo li	1
+其他储运设备	qi ta chu yun she bei	1
+其他传热设备	qi ta chuan re she bei	1
+其他传质设备	qi ta chuan zhi she bei	1
+其他醇类	qi ta chun lei	1
+其他单质	qi ta dan zhi	1
+其他阀门	qi ta fa men	1
+其他反应设备	qi ta fan ying she bei	1
+其他非金属矿产	qi ta fei jin shu kuang chan	1
+其他分离设备	qi ta fen li she bei	1
+其他粉碎设备	qi ta fen sui she bei	1
+其他干燥设备	qi ta gan zao she bei	1
+其他合成树脂	qi ta he cheng shu zhi	1
+其他化工废料	qi ta hua gong fei liao	1
+其他化学试剂	qi ta hua xue shi ji	1
+其他化学纤维	qi ta hua xue xian wei	1
+其他混合设备	qi ta hun he she bei	1
+其他建筑玻璃	qi ta jian zhu bo li	1
+其他聚合物	qi ta ju he wu	1
+其他空气净化装置	qi ta kong qi jing hua zhuang zhi	1
+其他醌类	qi ta kun lei	1
+其他气体	qi ta qi ti	1
+其他实验室用品	qi ta shi yan shi yong pin	1
+其他石油加工设备	qi ta shi you jia gong she bei	1
+其他输送设备	qi ta shu song she bei	1
+其他羧酸衍生物	qi ta suo suan yan sheng wu	1
+其他碳水化合物	qi ta tan shui hua he wu	1
+其他烃类	qi ta ting lei	1
+其他无机碱	qi ta wu ji jian	1
+其他无机酸	qi ta wu ji suan	1
+其他无机盐	qi ta wu ji yan	1
+其他污水处理设备	qi ta wu shui chu li she bei	1
+其他氧化物	qi ta yang hua wu	1
+其他杂环化合物	qi ta za huan hua he wu	1
+其他制冷设备	qi ta zhi leng she bei	1
+气体	qi ti	1
+潜水泵	qian shui beng	1
+铅氧化物	qian yang hua wu	1
+切片	qie pian	1
+氢氟酸	qing fu suan	1
+氰化物	qing hua wu	1
+氢气	qing qi	1
+氢溴酸	qing xiu suan	1
+氢氧化钡	qing yang hua bei	1
+氢氧化钙	qing yang hua gai	1
+氢氧化钾	qing yang hua jia	1
+氢氧化铝	qing yang hua lv	1
+氢氧化镁	qing yang hua mei	1
+氢氧化钠	qing yang hua na	1
+氢氧化铜	qing yang hua tong	1
+氢氧化锌	qing yang hua xin	1
+球阀	qiu fa	1
+球磨机	qiu mo ji	1
+醛类	quan lei	1
+炔烃	que ting	1
+燃气阀	ran qi fa	1
+热风炉	re feng lu	1
+人造纤维	ren zao xian wei	1
+容量瓶	rong liang ping	1
+乳化机	ru hua ji	1
+噻吩	sai fen	1
+噻唑	sai zuo	1
+三元醇	san yuan chun	1
+砂磨机	sha mo ji	1
+筛分设备	shai fen she bei	1
+烧杯	shao bei	1
+烧瓶	shao ping	1
+深加工玻璃	shen jia gong bo li	1
+生化试剂	sheng hua shi ji	1
+石膏矿	shi gao kuang	1
+试管	shi guan	1
+石灰石	shi hui shi	1
+石棉	shi mian	1
+石墨	shi mo	1
+试压泵	shi ya beng	1
+实验室用品	shi yan shi yong pin	1
+石英	shi ying	1
+石油加工设备	shi you jia gong she bei	1
+手动阀	shou dong fa	1
+疏水阀	shu shui fa	1
+输送机	shu song ji	1
+输送设备	shu song she bei	1
+水镁石	shui mei shi	1
+四氧化二氮	si yang hua er dan	1
+酸酐	suan gan	1
+酸雾净化器	suan wu jing hua qi	1
+羧酸	suo suan	1
+羧酸盐	suo suan yan	1
+羧酸衍生物	suo suan yan sheng wu	1
+塔式反应器	ta shi fan ying qi	1
+钛氧化物	tai yang hua wu	1
+碳水化合物	tan shui hua he wu	1
+碳酸盐	tan suan yan	1
+陶瓷	tao ci	1
+陶瓷加工	tao ci jia gong	1
+特种玻璃	te zhong bo li	1
+提升机	ti sheng ji	1
+锑氧化物	ti yang hua wu	1
+填料	tian liao	1
+填料塔	tian liao ta	1
+天然树脂	tian ran shu zhi	1
+调节阀	tiao jie fa	1
+铁氧化物	tie yang hua wu	1
+烃类	ting lei	1
+通风机	tong feng ji	1
+酮类	tong lei	1
+铜氧化物	tong yang hua wu	1
+通用无机试剂	tong yong wu ji shi ji	1
+通用有机试剂	tong yong you ji shi ji	1
+透闪石	tou shan shi	1
+脱硫除尘设备	tuo liu chu chen she bei	1
+烷烃	wan ting	1
+往复泵	wang fu beng	1
+微波干燥设备	wei bo gan zao she bei	1
+维纶	wei lun	1
+尾气处理装置	wei qi chu li zhuang zhi	1
+涡流泵	wo liu beng	1
+无机化工原料	wu ji hua gong yuan liao	1
+无机碱	wu ji jian	1
+无机酸	wu ji suan	1
+无机盐	wu ji yan	1
+污泥处理设备	wu ni chu li she bei	1
+污水泵	wu shui beng	1
+污水处理成套设备	wu shui chu li cheng tao she bei	1
+污水处理设备	wu shui chu li she bei	1
+钨酸	wu suan	1
+吸收器	xi shou qi	1
+烯烃	xi ting	1
+硒氧化物	xi yang hua wu	1
+酰胺	xian an	1
+酰卤	xian lu	1
+氙气	xian qi	1
+纤维素	xian wei su	1
+箱式干燥设备	xiang shi gan zao she bei	1
+箱体	xiang ti	1
+消防泵	xiao fang beng	1
+硝基化合物	xiao ji hua he wu	1
+硝酸	xiao suan	1
+硝酸盐	xiao suan yan	1
+锌氧化物	xin yang hua wu	1
+溴化物	xiu hua wu	1
+旋塞阀	xuan sai fa	1
+漩涡泵	xuan wo beng	1
+亚磷酸	ya lin suan	1
+压滤设备	ya lv she bei	1
+氩气	ya qi	1
+压缩机	ya suo ji	1
+研磨机	yan mo ji	1
+盐酸	yan suan	1
+氧化物	yang hua wu	1
+氧气	yang qi	1
+仪表阀	yi biao fa	1
+一氧化二氮	yi yang hua er dan	1
+一氧化碳	yi yang hua tan	1
+一元醇	yi yuan chun	1
+吲哚	yin duo	1
+萤石	ying shi	1
+油泵	you beng	1
+有机硅树脂	you ji gui shu zhi	1
+有机化工原料	you ji hua gong yuan liao	1
+油水分离设备	you shui fen li she bei	1
+油烟净化设备	you yan jing hua she bei	1
+云母	yun mu	1
+杂环化合物	za huan hua he wu	1
+杂质泵	za zhi beng	1
+再沸器	zai fei qi	1
+增压泵	zeng ya beng	1
+闸阀	zha fa	1
+蔗糖	zhe tang	1
+针阀	zhen fa	1
+真空泵	zhen kong beng	1
+真空干燥机	zhen kong gan zao ji	1
+珍珠岩	zhen zhu yan	1
+蒸发器	zheng fa qi	1
+蒸馏器	zheng liu qi	1
+蒸馏设备	zheng liu she bei	1
+脂环烃	zhi huan ting	1
+止回阀	zhi hui fa	1
+酯类	zhi lei	1
+制冷设备	zhi leng she bei	1
+制冷压缩机	zhi leng ya suo ji	1
+制粒干燥设备	zhi li gan zao she bei	1
+蛭石	zhi shi	1
+重氮化合物	zhong dan hua he wu	1
+重晶石	zhong jing shi	1
+轴流泵	zhou liu beng	1
+柱塞泵	zhu sai beng	1
+柱塞阀	zhu sai fa	1
+转子泵	zhuan zi beng	1
+自吸泵	zi xi beng	1
+钻采设备	zuan cai she bei	1
+氨气	an qi	1
+板式塔	ban shi ta	1
+比色皿	bi se min	1
+冰洲石	bing zhou shi	1
+齿轮泵	chi lun beng	1
+磁力泵	ci li beng	1
+氮气	dan qi	1
+单向阀	dan xiang fa	1
+滴管	di guan	1
+电气石	dian qi shi	1
+方解石	fang jie shi	1
+放料阀	fang liao fa	1
+分凝器	fen ning qi	1
+分散机	fen san ji	1
+粉碎机	fen sui ji	1
+坩埚	gan guo	1
+高岭土	gao ling tu	1
+高压泵	gao ya beng	1
+隔膜泵	ge mo beng	1
+汞	gong	1
+鼓风机	gu feng ji	1
+管道泵	guan dao beng	1
+硅藻土	gui zao tu	1
+氦气	hai qi	1
+红柱石	hong zhu shi	1
+换热器	huan re qi	1
+混合机	hun he ji	1
+混流泵	hun liu beng	1
+计量泵	ji liang beng	1
+加料机	jia liao ji	1
+加热器	jia re qi	1
+搅拌机	jiao ban ji	1
+角阀	jiao fa	1
+脚踏阀	jiao ta fa	1
+酒精灯	jiu jing deng	1
+氪气	ke qi	1
+空调泵	kong tiao beng	1
+矿烷	kuang wan	1
+蓝晶石	lan jing shi	1
+冷冻机	leng dong ji	1
+冷凝器	leng ning qi	1
+冷却器	leng que qi	1
+冷却塔	leng que ta	1
+冷水机	leng shui ji	1
+锂辉石	li hui shi	1
+离心泵	li xin beng	1
+量杯	liang bei	1
+量筒	liang tong	1
+磷	lin	1
+磷酸	lin suan	1
+流程泵	liu cheng beng	1
+硫磺	liu huang	1
+硫酸	liu suan	1
+硫酸盐	liu suan yan	1
+卤酸盐	lu suan yan	1
+氯化物	lv hua wu	1
+氯气	lv qi	1
+麦饭石	mai fan shi	1
+氖气	nai qi	1
+捏合机	nie he ji	1
+排气阀	pai qi fa	1
+排污泵	pai wu beng	1
+硼酸	peng suan	1
+膨胀阀	peng zhang fa	1
+屏蔽泵	ping bi beng	1
+破碎机	po sui ji	1
+气动阀	qi dong fa	1
+潜水泵	qian shui beng	1
+氢氟酸	qing fu suan	1
+氢气	qing qi	1
+氢溴酸	qing xiu suan	1
+球磨机	qiu mo ji	1
+燃气阀	ran qi fa	1
+容量瓶	rong liang ping	1
+乳化机	ru hua ji	1
+砂磨机	sha mo ji	1
+烧杯	shao bei	1
+烧瓶	shao ping	1
+石膏	shi gao	1
+试管	shi guan	1
+石灰石	shi hui shi	1
+试压泵	shi ya beng	1
+石英	shi ying	1
+手动阀	shou dong fa	1
+输送机	shu song ji	1
+水镁石	shui mei shi	1
+碳	tan	1
+碳酸盐	tan suan yan	1
+提升机	ti sheng ji	1
+填料塔	tian liao ta	1
+通风机	tong feng ji	1
+透闪石	tou shan shi	1
+往复泵	wang fu beng	1
+涡流泵	wo liu beng	1
+污水泵	wu shui beng	1
+钨酸	wu suan	1
+吸收器	xi shou qi	1
+氙气	xian qi	1
+消防泵	xiao fang beng	1
+硝酸	xiao suan	1
+硝酸盐	xiao suan yan	1
+溴化物	xiu hua wu	1
+漩涡泵	xuan wo beng	1
+亚磷酸	ya lin suan	1
+氩气	ya qi	1
+压缩机	ya suo ji	1
+研磨机	yan mo ji	1
+盐酸	yan suan	1
+氧气	yang qi	1
+油泵	you beng	1
+云母	yun mu	1
+杂质泵	za zhi beng	1
+再沸器	zai fei qi	1
+增压泵	zeng ya beng	1
+针阀	zhen fa	1
+真空泵	zhen kong beng	1
+珍珠岩	zhen zhu yan	1
+蒸发器	zheng fa qi	1
+蒸馏器	zheng liu qi	1
+轴流泵	zhou liu beng	1
+柱塞泵	zhu sai beng	1
+转子泵	zhuan zi beng	1
+自吸泵	zi xi beng	1
+氨水	an shui	1
+丙酮	bing tong	1
+醋酸甲酯	cu suan jia zhi	1
+对甲基苯磺酸	dui jia ji ben huang suan	1
+硅藻土	gui zao tu	1
+环氧氯丙烷	huan yang lv bing wan	1
+甲苯	jia ben	1
+甲醇	jia chun	1
+壬基酚	ren ji fen	1
+三聚氰胺	san ju qing an	1
+三磷酸	san lin suan	1
+三乙醇胺	san yi chun an	1
+水剂甲醛	shui ji jia quan	1
+桐油	tong you	1
+溴化乙基三苯基膦	xiu hua yi ji san ben ji lin	1
+液碱	ye jian	1
+乙胺	yi an	1
+乙二醇	yi er chun	1
+正丁醇	zheng ding chun	1
+暗点	an dian	1
+安全卡瓦	an quan ka wa	1
+安全泄压阀	an quan xie ya fa	1
+岸台网络	an tai wang luo	1
+胺型表面活性剂	an xing biao mian huo xing ji	1
+氨氧化催化剂	an yang hua cui hua ji	1
+奥利烷	ao li wan	1
+凹陷	ao xian	1
+百米桩	bai mi zhuang	1
+白土精制	bai tu jing zhi	1
+白云岩	bai yun yan	1
+半合成沸石裂化催化剂	ban he cheng fei shi lie hua cui hua ji	1
+板块构造学	ban kuai gou zao xue	1
+半潜式多用工作船	ban qian shi duo yong gong zuo chuan	1
+伴热输送	ban re shu song	1
+半乳甘露聚糖	ban ru gan lu ju tang	1
+半深海相	ban shen hai xiang	1
+板式换热器	ban shi huan re qi	1
+薄层调谐	bao ceng tiao xie	1
+报废井	bao fei jing	1
+饱和度指数	bao he du zhi shu	1
+饱和凝析油	bao he ning xi you	1
+饱和潜水系统	bao he qian shui xi tong	1
+饱和压力	bao he ya li	1
+保径钻头	bao jing zuan tou	1
+爆炸机	bao zha ji	1
+爆炸灭火法	bao zha mie huo fa	1
+爆炸松扣	bao zha song kou	1
+背斜理论	bei xie li lun	1
+苯胺点	ben an dian	1
+苯加氢	ben jia qing	1
+苯与乙烯烷基化	ben yu yi xi wan ji hua	1
+泵冲速	beng chong su	1
+泵后加砂装置	beng hou jia sha zhuang zhi	1
+泵理论排量	beng li lun pai liang	1
+泵送性	beng song xing	1
+闭合方位	bi he fang wei	1
+闭合面	bi he mian	1
+壁厚千分卡	bi hou qian fen ka	1
+变动水位式	bian dong shui wei shi	1
+变换	bian huan	1
+扁平电缆	bian ping dian lan	1
+边水	bian shui	1
+变向器	bian xiang qi	1
+边缘海	bian yuan hai	1
+表层多次波	biao ceng duo ci bo	1
+表层速度异常	biao ceng su du yi chang	1
+标定罐	biao ding guan	1
+表观粘度	biao guan nian du	1
+表面活性剂体系	biao mian huo xing ji ti xi	1
+表面活性剂型防蜡剂	biao mian huo xing ji xing fang la ji	1
+宾厄姆流体	bin e mu liu ti	1
+丙二醇	bing er chun	1
+并联管网	bing lian guan wang	1
+丙烷脱沥青	bing wan tuo li qing	1
+丙烯氨解氧化流化床反应器	bing xi an jie yang hua liu hua chuang fan ying qi	1
+丙烯醇	bing xi chun	1
+丙烯腈苯乙烯树脂	bing xi jing ben yi xi shu zhi	1
+丙烯歧化	bing xi qi hua	1
+丙烯气相法聚合	bing xi qi xiang fa ju he	1
+丙烯水合	bing xi shui he	1
+丙烯酸酯化	bing xi suan zhi hua	1
+丙烯酰胺	bing xi xian an	1
+薄互层	bo hu ceng	1
+波浪流	bo lang liu	1
+波前法	bo qian fa	1
+博斯蒂克反演	bo si di ke fan yan	1
+波纹塔板	bo wen ta ban	1
+波形曲线显示	bo xing qu xian xian shi	1
+博研石油论坛	bo yan shi you lun tan	1
+步长	bu chang	1
+补偿地层密度测井	bu chang di ceng mi du ce jing	1
+布格校正	bu ge jiao zheng	1
+布格异常	bu ge yi chang	1
+不极化电极	bu ji hua dian ji	1
+捕液器	bu ye qi	1
+不整合	bu zheng he	1
+采出程度	cai chu cheng du	1
+彩色显示	cai se xian shi	1
+采样保持单元	cai yang bao chi dan yuan	1
+采样率	cai yang lv	1
+采油强度	cai you qiang du	1
+采油曲线	cai you qu xian	1
+采油树导向喇叭口	cai you shu dao xiang la ba kou	1
+采油速率	cai you su lv	1
+参比电极	can bi dian ji	1
+参数集总	can shu ji zong	1
+参数井	can shu jing	1
+舱底水泵	cang di shui beng	1
+舱底污水井	cang di wu shui jing	1
+操作控制系统	cao zuo kong zhi xi tong	1
+侧反射	ce fan she	1
+测罐内油高	ce guan nei you gao	1
+测井技术	ce jing ji shu	1
+测井数据处理	ce jing shu ju chu li	1
+测井速度	ce jing su du	1
+测井响应方程	ce jing xiang ying fang cheng	1
+测量深度	ce liang shen du	1
+测深管	ce shen guan	1
+测试阀	ce shi fa	1
+测线偏离效应	ce xian pian li xiao ying	1
+侧向泄油井	ce xiang xie you jing	1
+侧向运移	ce xiang yun yi	1
+测压面	ce ya mian	1
+侧压系数	ce ya xi shu	1
+层间窜流	ceng jian cuan liu	1
+层间多次波	ceng jian duo ci bo	1
+层内干扰	ceng nei gan rao	1
+层内运移	ceng nei yun yi	1
+层替换	ceng ti huan	1
+层析地震成象	ceng xi di zhen cheng xiang	1
+层状介质	ceng zhuang jie zhi	1
+层状油气藏	ceng zhuang you qi cang	1
+插入式注水泥接箍	cha ru shi zhu shui ni jie gu	1
+差压控制阀	cha ya kong zhi fa	1
+差异分离	cha yi fen li	1
+柴油过滤净化装置	chai you guo lv jing hua zhuang zhi	1
+产量指数递减	chan liang zhi shu di jian	1
+常规岩心分析	chang gui yan xin fen xi	1
+长筒取心	chang tong qu xin	1
+常压舱	chang ya cang	1
+常压重馏分油	chang ya zhong liu fen you	1
+超层序	chao ceng xu	1
+潮差	chao cha	1
+超长电极距测井	chao chang dian ji ju ce jing	1
+超低密度聚乙烯	chao di mi du ju yi xi	1
+超短曲率半径水平井	chao duan qu lv ban jing shui ping jing	1
+超高压变压器油	chao gao ya bian ya qi you	1
+超宽组合	chao kuan zu he	1
+超毛细管空隙	chao mao xi guan kong xi	1
+潮上带	chao shang dai	1
+超声波成象仪	chao sheng bo cheng xiang yi	1
+超压保护	chao ya bao hu	1
+超越离合器	chao yue li he qi	1
+车辆齿轮油	che liang chi lun you	1
+车用汽油	che yong qi you	1
+车装式钻机	che zhuang shi zuan ji	1
+沉垫	chen dian	1
+沉积环境	chen ji huan jing	1
+沉积物和底水	chen ji wu he di shui	1
+沉积岩	chen ji yan	1
+沉降罐	chen jiang guan	1
+成膜型缓蚀剂	cheng mo xing huan shi ji	1
+成熟作用	cheng shu zuo yong	1
+程序液压控制系统	cheng xu ye ya kong zhi xi tong	1
+承压区	cheng ya qu	1
+承压水头	cheng ya shui tou	1
+成岩裂缝	cheng yan lie feng	1
+齿轮传动钻机	chi lun chuan dong zuan ji	1
+齿轮试验机	chi lun shi yan ji	1
+吃水标尺	chi shui biao chi	1
+赤铁矿	chi tie kuang	1
+重叠法	chong die fa	1
+冲激响应	chong ji xiang ying	1
+充气差异电池	chong qi cha yi dian chi	1
+冲砂	chong sha	1
+充填工具	chong tian gong ju	1
+充油丁苯橡胶	chong you ding ben xiang jiao	1
+冲桩	chong zhuang	1
+冲桩管线	chong zhuang guan xian	1
+稠化水驱	chou hua shui qu	1
+稠化水压裂液	chou hua shui ya lie ye	1
+稠化酸	chou hua suan	1
+抽油杆接箍	chou you gan jie gu	1
+抽油杆钳	chou you gan qian	1
+抽油杆悬挂器	chou you gan xuan gua qi	1
+抽油机平衡方式	chou you ji ping heng fang shi	1
+抽油机效率	chou you ji xiao lv	1
+抽油机最大扭矩	chou you ji zui da niu ju	1
+抽油井诊断技术	chou you jing zhen duan ji shu	1
+稠油开采蒸汽发生器	chou you kai cai zheng qi fa sheng qi	1
+触变性流体	chu bian xing liu ti	1
+储层地质学	chu ceng di zhi xue	1
+除钙剂	chu gai ji	1
+除垢剂	chu gou ji	1
+储集岩	chu ji yan	1
+储气罐	chu qi guan	1
+储气库	chu qi ku	1
+除砂	chu sha	1
+出砂层	chu sha ceng	1
+储油罐	chu you guan	1
+出油管导向喇叭口	chu you guan dao xiang la ba kou	1
+储油平台	chu you ping tai	1
+传播效应	chuan bo xiao ying	1
+传热介质油装载泵	chuan re jie zhi you zhuang zai beng	1
+船生噪声	chuan sheng zao sheng	1
+船首绞车	chuan shou jiao che	1
+船用柴油机油	chuan yong chai you ji you	1
+垂直磁力仪	chui zhi ci li yi	1
+垂直叠加	chui zhi die jia	1
+磁暴	ci bao	1
+磁法勘探	ci fa kan tan	1
+磁方位	ci fang wei	1
+磁鼓	ci gu	1
+磁化干扰	ci hua gan rao	1
+磁记录器	ci ji lu qi	1
+磁力低	ci li di	1
+磁力分离器	ci li fen li qi	1
+磁倾角	ci qing jiao	1
+次生孔隙度	ci sheng kong xi du	1
+磁势	ci shi	1
+次石墨	ci shi mo	1
+磁通量	ci tong liang	1
+磁性柱塞抽油泵	ci xing zhu sai chou you beng	1
+丛式井口	cong shi jing kou	1
+促进剂	cu jin ji	1
+催化重整	cui hua chong zheng	1
+催化裂化	cui hua lie hua	1
+脆化温度	cui hua wen du	1
+催化蒸馏	cui hua zheng liu	1
+脆性岩石	cui xing yan shi	1
+存水率	cun shui lv	1
+大地电磁法	da di dian ci fa	1
+大地滤波	da di lv bo	1
+大钩	da gou	1
+打捞工具	da lao gong ju	1
+打捞震击器	da lao zhen ji qi	1
+打捞钻柱	da lao zuan zhu	1
+大陆漂移	da lu piao yi	1
+大钳	da qian	1
+大水量灭火系统	da shui liang mie huo xi tong	1
+打桩船	da zhuang chuan	1
+带式刹车	dai shi sha che	1
+单程距离	dan cheng ju li	1
+单齿额定升降能力	dan chi e ding sheng jiang neng li	1
+单储系数	dan chu xi shu	1
+单点系泊	dan dian ji bo	1
+单井控制储量	dan jing kong zhi chu liang	1
+单井设计	dan jing she ji	1
+单井卫星采油树	dan jing wei xing cai you shu	1
+单舌法撕破强力试验方法	dan she fa si po qiang li shi yan fang fa	1
+淡水钻井液	dan shui zuan jing ye	1
+单斜	dan xie	1
+单元环涡流	dan yuan huan wo liu	1
+单元码	dan yuan ma	1
+单轴绞车	dan zhou jiao che	1
+当量循环密度	dang liang xun huan mi du	1
+挡土墙	dang tu qiang	1
+导管架吊耳	dao guan jia diao er	1
+导管架固定	dao guan jia gu ding	1
+导管架下水	dao guan jia xia shui	1
+导轨油	dao gui you	1
+导缆器	dao lan qi	1
+导向误差	dao xiang wu cha	1
+导向钻头	dao xiang zuan tou	1
+倒装钻具	dao zhuang zuan ju	1
+等浮电缆故障寻找器	deng fu dian lan gu zhang xun zhao qi	1
+等浮电缆图象	deng fu dian lan tu xiang	1
+等渗透率图	deng shen tou lv tu	1
+等效烷烃碳数	deng xiao wan ting tan shu	1
+灯用煤油	deng yong mei you	1
+地层反褶积	di ceng fan zhe ji	1
+地层焦化固砂	di ceng jiao hua gu sha	1
+地层流体压力	di ceng liu ti ya li	1
+地层倾角测井	di ceng qing jiao ce jing	1
+地层视电阻率	di ceng shi dian zu lv	1
+地层水电阻率	di ceng shui dian zu lv	1
+地层微电阻扫描测井	di ceng wei dian zu sao miao ce jing	1
+地层油气藏	di ceng you qi cang	1
+底超	di chao	1
+地磁场	di ci chang	1
+地电剖面	di dian pou mian	1
+低分子烃	di fen zi ting	1
+地基残留冻土层	di ji can liu dong tu ceng	1
+递减系数	di jian xi shu	1
+低截滤波器	di jie lv bo qi	1
+迪克斯公式	di ke si gong shi	1
+地块	di kuai	1
+地垒	di lei	1
+地裂运动	di lie yun dong	1
+滴流床反应器	di liu chuang fan ying qi	1
+地幔隆起	di man long qi	1
+地面示功图	di mian shi gong tu	1
+底漆	di qi	1
+地壳均衡说	di qiao jun heng shuo	1
+地球物理测井学	di qiu wu li ce jing xue	1
+地球资源技术卫星	di qiu zi yuan ji shu wei xing	1
+底水驱动	di shui qu dong	1
+低水位体系域	di shui wei ti xi yu	1
+底水锥进	di shui zhui jin	1
+低通滤波器	di tong lv bo qi	1
+底图	di tu	1
+地下聚焦效应	di xia ju jiao xiao ying	1
+低压报警器	di ya bao jing qi	1
+低压火炬	di ya huo ju	1
+低压凝析油罐	di ya ning xi you guan	1
+低压气净化器	di ya qi jing hua qi	1
+低造浆粘土	di zao jiang nian tu	1
+地震测深	di zhen ce shen	1
+地震记录仪	di zhen ji lu yi	1
+地震相分析	di zhen xiang fen xi	1
+地震钻机	di zhen zuan ji	1
+地质录井	di zhi lu jing	1
+地质模型	di zhi mo xing	1
+地质剖面	di zhi pou mian	1
+滴状油罐	di zhuang you guan	1
+电磁测厚仪	dian ci ce hou yi	1
+电磁刹车	dian ci sha che	1
+电磁振动筛	dian ci zhen dong shai	1
+电动绞盘	dian dong jiao pan	1
+电法勘探	dian fa kan tan	1
+电弧钻井	dian hu zuan jing	1
+电化学保护	dian hua xue bao hu	1
+电化学腐蚀	dian hua xue fu shi	1
+电极排列	dian ji pai lie	1
+电解法防海生物污着系统	dian jie fa fang hai sheng wu wu zhuo xi tong	1
+电缆测井服务	dian lan ce jing fu wu	1
+电缆头	dian lan tou	1
+电离层干扰	dian li ceng gan rao	1
+电潜单螺杆泵	dian qian dan luo gan beng	1
+电潜离心泵机组	dian qian li xin beng ji zu	1
+电热清蜡	dian re qing la	1
+电阻率测井	dian zu lv ce jing	1
+掉格	diao ge	1
+吊卡	diao ka	1
+叠加速度	die jia su du	1
+叠前偏移	die qian pian yi	1
+叠瓦状结构	die wa zhuang jie gou	1
+顶部压井法	ding bu ya jing fa	1
+丁二烯苯乙烯嵌段共聚	ding er xi ben yi xi qian duan gong ju	1
+丁腈橡胶	ding jing xiang jiao	1
+定期检验	ding qi jian yan	1
+丁烷脱氢	ding wan tuo qing	1
+丁烯氧化	ding xi yang hua	1
+定向井	ding xiang jing	1
+定向药包	ding xiang yao bao	1
+定向钻井	ding xiang zuan jing	1
+冻胶型调剖剂	dong jiao xing tiao pou ji	1
+动力定位半潜式钻井船	dong li ding wei ban qian shi zuan jing chuan	1
+动力定位模拟控制器	dong li ding wei mo ni kong zhi qi	1
+动力机冷却系统	dong li ji leng que xi tong	1
+动力软管卷盘	dong li ruan guan juan pan	1
+动力仪	dong li yi	1
+动滤失量	dong lv shi liang	1
+动态裂缝尺寸	dong tai lie feng chi cun	1
+动稳性力臂	dong wen xing li bi	1
+动用储量	dong yong chu liang	1
+读卡仪	du ka yi	1
+堵漏垫	du lou dian	1
+短抽油杆	duan chou you gan	1
+短电位	duan dian wei	1
+段塞流	duan sai liu	1
+短弯钻铤	duan wan zuan ting	1
+短涡轮钻具	duan wo lun zuan ju	1
+短源距	duan yuan ju	1
+对苯二甲酸二甲酯	dui ben er jia suan er jia zhi	1
+对比曲线	dui bi qu xian	1
+对比温度	dui bi wen du	1
+对比折射法	dui bi zhe she fa	1
+堆放台	dui fang tai	1
+对口	dui kou	1
+对数比例	dui shu bi li	1
+多触点套管井径仪	duo chu dian tao guan jing jing yi	1
+多道滤波器	duo dao lv bo qi	1
+多级抽油杆柱	duo ji chou you gan zhu	1
+多井分析	duo jing fen xi	1
+多孔隔板法	duo kong ge ban fa	1
+多流量试井	duo liu liang shi jing	1
+多路解编	duo lu jie bian	1
+多相流	duo xiang liu	1
+多效润滑脂	duo xiao run hua zhi	1
+多效添加剂	duo xiao tian jia ji	1
+多用户作业	duo yong hu zuo ye	1
+厄特沃什效应	e te wo shi xiao ying	1
+二层台高度	er ceng tai gao du	1
+二次场电位差	er ci chang dian wei cha	1
+二次生油	er ci sheng you	1
+二维地震	er wei di zhen	1
+二维两相渗流	er wei liang xiang shen liu	1
+二氧化碳驱	er yang hua tan qu	1
+二乙二醇	er yi er chun	1
+发泡剂	fa pao ji	1
+阀体	fa ti	1
+法向入射	fa xiang ru she	1
+阀座拉拔器	fa zuo la ba qi	1
+钒钝化剂	fan dun hua ji	1
+钒镍比	fan nie bi	1
+反射率	fan she lv	1
+反射强度	fan she qiang du	1
+反投影	fan tou ying	1
+反循环	fan xun huan	1
+反循环打捞篮	fan xun huan da lao lan	1
+反演	fan yan	1
+反应器	fan ying qi	1
+反褶积	fan zhe ji	1
+翻转法抢装井口	fan zhuan fa qiang zhuang jing kou	1
+反转凝析现象	fan zhuan ning xi xian xiang	1
+防爆设备	fang bao she bei	1
+防毒面具	fang du mian ju	1
+防风墙	fang feng qiang	1
+防腐层抗流淌温度	fang fu ceng kang liu tang wen du	1
+防火堤	fang huo di	1
+防焦剂	fang jiao ji	1
+防老剂	fang lao ji	1
+防磨接头	fang mo jie tou	1
+防喷器控制系统	fang pen qi kong zhi xi tong	1
+防喷器通径	fang pen qi tong jing	1
+防喷器组	fang pen qi zu	1
+防砂砾石	fang sha li shi	1
+芳烃抽提	fang ting chou ti	1
+方位校正	fang wei jiao zheng	1
+方位控制	fang wei kong zhi	1
+防雾剂	fang wu ji	1
+方向渗透率	fang xiang shen tou lv	1
+方向特性图	fang xiang te xing tu	1
+防锈添加剂	fang xiu tian jia ji	1
+防淤渣剂	fang yu zha ji	1
+方钻杆旋扣器	fang zuan gan xuan kou qi	1
+方钻铤	fang zuan ting	1
+非常规油气资源	fei chang gui you qi zi yuan	1
+非达西渗流	fei da xi shen liu	1
+非混相驱替	fei hun xiang qu ti	1
+非活塞式驱替	fei huo sai shi qu ti	1
+非离子型表面活性剂	fei li zi xing biao mian huo xing ji	1
+分辨率	fen bian lv	1
+分馏	fen liu	1
+分流方程	fen liu fang cheng	1
+分流器	fen liu qi	1
+粪甾烷	fen zai wan	1
+封堵器	feng du qi	1
+封隔液	feng ge ye	1
+风险系数	feng xian xi shu	1
+副标准燃料	fu biao zhun ran liao	1
+浮顶升降试验	fu ding sheng jiang shi yan	1
+覆盖百分比	fu gai bai fen bi	1
+覆盖层	fu gai ceng	1
+负荷磨损指数	fu he mo sun zhi shu	1
+复合平衡抽油机	fu he ping heng chou you ji	1
+腐煤型天然气	fu mei xing tian ran qi	1
+腐泥化作用	fu ni hua zuo yong	1
+辐射力	fu she li	1
+辐射炉	fu she lu	1
+浮式储油装置	fu shi chu you zhuang zhi	1
+腐蚀深度	fu shi shen du	1
+复式涡轮钻具	fu shi wo lun zuan ju	1
+浮筒	fu tong	1
+复位开关	fu wei kai guan	1
+负压闪蒸	fu ya shan zheng	1
+负异常	fu yi chang	1
+复杂岩性	fu za yan xing	1
+腐殖型裂解气	fu zhi xing lie jie qi	1
+钙基润滑脂	gai ji run hua zhi	1
+钙膨润土	gai peng run tu	1
+干点	gan dian	1
+干粉灭火器	gan fen mie huo qi	1
+干酪根	gan lao gen	1
+干酪根降解论	gan lao gen jiang jie lun	1
+干酪根降解数学模拟法	gan lao gen jiang jie shu xue mo ni fa	1
+干喷射	gan pen she	1
+干扰测试	gan rao ce shi	1
+干扰沉降	gan rao chen jiang	1
+干式采油树	gan shi cai you shu	1
+干式自动喷洒灭火系统	gan shi zi dong pen sa mie huo xi tong	1
+干燥剂	gan zao ji	1
+杆状图	gan zhuang tu	1
+钢丝绳防喷器	gang si sheng fang pen qi	1
+钢丝绳直径	gang si sheng zhi jing	1
+高氮沥青	gao dan li qing	1
+高含水油层	gao han shui you ceng	1
+高级地球资源观测系统	gao ji di qiu zi yuan guan ce xi tong	1
+高速层	gao su ceng	1
+高碳青质	gao tan qing zhi	1
+高碳脂肪胺	gao tan zhi fang an	1
+高碳脂肪烃	gao tan zhi fang ting	1
+高温起泡剂	gao wen qi pao ji	1
+高温润滑脂	gao wen run hua zhi	1
+高辛烷值汽油	gao xin wan zhi qi you	1
+高压报警器	gao ya bao jing qi	1
+高压火炬	gao ya huo ju	1
+高压气分液器	gao ya qi fen ye qi	1
+隔离液	ge li ye	1
+隔热层	ge re ceng	1
+隔热管柱	ge re guan zhu	1
+割铣解卡法	ge xi jie ka fa	1
+各向异性系数	ge xiang yi xing xi shu	1
+根部焊道	gen bu han dao	1
+庚烷值	geng wan zhi	1
+工程地质船	gong cheng di zhi chuan	1
+共存水饱和度	gong cun shui bao he du	1
+拱顶油罐	gong ding you guan	1
+共反射点道集	gong fan she dian dao ji	1
+工具面方位	gong ju mian fang wei	1
+功能选单	gong neng xuan dan	1
+供氢裂化	gong qing lie hua	1
+工业凡士林	gong ye fan shi lin	1
+公锥	gong zhui	1
+工作段	gong zuo duan	1
+工作梯	gong zuo ti	1
+沟边组装	gou bian zu zhuang	1
+构造类型	gou zao lei xing	1
+构造旋回	gou zao xuan hui	1
+构造作用	gou zao zuo yong	1
+构造作用力	gou zao zuo yong li	1
+古地磁地层学	gu di ci di ceng xue	1
+固定床反应器	gu ding chuang fan ying qi	1
+固井设备舱	gu jing she bei cang	1
+固控指数	gu kong zhi shu	1
+固砂技术	gu sha ji shu	1
+固砂树脂	gu sha shu zhi	1
+古生物鉴定	gu sheng wu jian ding	1
+固体潮	gu ti chao	1
+固相侵入	gu xiang qin ru	1
+古植物鉴定	gu zhi wu jian ding	1
+刮蜡片	gua la pian	1
+刮蜡器	gua la qi	1
+观测系统	guan ce xi tong	1
+观测现场	guan ce xian chang	1
+管道穿越	guan dao chuan yue	1
+管道定位器	guan dao ding wei qi	1
+管道结蜡	guan dao jie la	1
+管道通过权	guan dao tong guo quan	1
+管拱	guan gong	1
+关井钻杆压力	guan jing zuan gan ya li	1
+管路纵断面图	guan lu zong duan mian tu	1
+管式泵	guan shi beng	1
+管网	guan wang	1
+贯眼完井	guan yan wan jing	1
+灌油栓	guan you shuan	1
+管柱	guan zhu	1
+光纤等浮电缆	guang xian deng fu dian lan	1
+广义互换法	guang yi hu huan fa	1
+硅油	gui you	1
+滚轮方补心	gun lun fang bu xin	1
+滚筒高速离合器	gun tong gao su li he qi	1
+滚筒轴	gun tong zhou	1
+过渡带	guo du dai	1
+过渡带地震勘探	guo du dai di zhen kan tan	1
+过渡流	guo du liu	1
+过油管射孔	guo you guan she kong	1
+海沟	hai gou	1
+海面浮油分散剂	hai mian fu you fen san ji	1
+海上测井拖撬	hai shang ce jing tuo qiao	1
+海上地球物理勘探	hai shang di qiu wu li kan tan	1
+海上结构	hai shang jie gou	1
+海上生产测试设备	hai shang sheng chan ce shi she bei	1
+海上生产系统	hai shang sheng chan xi tong	1
+海上油气勘探	hai shang you qi kan tan	1
+海水泥浆	hai shui ni jiang	1
+海水提升泵	hai shui ti sheng beng	1
+海水脱盐装置	hai shui tuo yan zhuang zhi	1
+海洋测井拖撬	hai yang ce jing tuo qiao	1
+海洋石油技术	hai yang shi you ji shu	1
+海洋重力仪	hai yang zhong li yi	1
+含氮化合物	han dan hua he wu	1
+含气边界	han qi bian jie	1
+含气面积	han qi mian ji	1
+含氢指数	han qing zhi shu	1
+含水率仪	han shui lv yi	1
+含油气大区	han you qi da qu	1
+含油污水舱	han you wu shui cang	1
+含油污水处理设施	han you wu shui chu li she shi	1
+航空液压油	hang kong ye ya you	1
+航空重力测量	hang kong zhong li ce liang	1
+行列注水	hang lie zhu shui	1
+毫秒炉	hao miao lu	1
+核爆炸压裂	he bao zha ya lie	1
+合成表面活性剂	he cheng biao mian huo xing ji	1
+合成聚合物	he cheng ju he wu	1
+合成气	he cheng qi	1
+合成橡胶	he cheng xiang jiao	1
+合成液压液	he cheng ye ya ye	1
+核磁测井	he ci ce jing	1
+核磁共振技术	he ci gong zhen ji shu	1
+合注井	he zhu jing	1
+核子旋进磁力仪	he zi xuan jin ci li yi	1
+黑白图象	hei bai tu xiang	1
+恒流量控制阀	heng liu liang kong zhi fa	1
+横向预测	heng xiang yu ce	1
+红外吸收光谱法	hong wai xi shou guang pu fa	1
+虹吸测斜仪	hong xi ce xie yi	1
+喉道	hou dao	1
+后绘图	hou hui tu	1
+后冷器	hou leng qi	1
+湖底扇	hu di shan	1
+护航船	hu hang chuan	1
+互换位置法	hu huan wei zhi fa	1
+互换原理	hu huan yuan li	1
+弧间盆地	hu jian pen di	1
+湖泊相	hu po xiang	1
+互溶剂	hu rong ji	1
+互溶性	hu rong xing	1
+滑塌相	hua ta xiang	1
+滑套取样器	hua tao qu yang qi	1
+滑脱	hua tuo	1
+滑脱效应	hua tuo xiao ying	1
+化学堵水	hua xue du shui	1
+化学剂注入组块	hua xue ji zhu ru zu kuai	1
+化学清蜡	hua xue qing la	1
+化学示踪剂	hua xue shi zong ji	1
+化学脱盐	hua xue tuo yan	1
+缓冲接头	huan chong jie tou	1
+环带侵入剖面	huan dai qin ru pou mian	1
+环己酮	huan ji tong	1
+环空压力	huan kong ya li	1
+环空闸板	huan kong zha ban	1
+缓慢沉积剖面	huan man chen ji pou mian	1
+缓凝	huan ning	1
+缓凝剂	huan ning ji	1
+环烷烃指数	huan wan ting zhi shu	1
+环线法	huan xian fa	1
+环氧乙烷氨化	huan yang yi wan an hua	1
+还原硫	huan yuan liu	1
+环晕效应	huan yun xiao ying	1
+环状注水	huan zhuang zhu shui	1
+磺化钛氰钴脱硫醇	huang hua tai qing gu tuo liu chun	1
+磺甲基酚醛树脂	huang jia ji fen quan shu zhi	1
+磺酸盐型表面活性剂	huang suan yan xing biao mian huo xing ji	1
+汇点反映法	hui dian fan ying fa	1
+灰度	hui du	1
+回复力矩	hui fu li ju	1
+恢复循环	hui fu xun huan	1
+辉光值	hui guang zhi	1
+回接工具	hui jie gong ju	1
+回接工具外套筒	hui jie gong ju wai tao tong	1
+灰量调节阀	hui liang tiao jie fa	1
+回流冷凝器	hui liu leng ning qi	1
+回填	hui tian	1
+混合泵	hun he beng	1
+混合器	hun he qi	1
+混合润湿性	hun he run shi xing	1
+混凝土加重层	hun ning tu jia zhong ceng	1
+混凝土平台	hun ning tu ping tai	1
+混相驱	hun xiang qu	1
+混油界面	hun you jie mian	1
+混油乳化钻井液	hun you ru hua zuan jing ye	1
+活动基础	huo dong ji chu	1
+活化液	huo hua ye	1
+活塞超行程	huo sai chao xing cheng	1
+活塞式保护器	huo sai shi bao hu qi	1
+火山丘地震相	huo shan qiu di zhen xiang	1
+极板型下井仪	ji ban xing xia jing yi	1
+系泊导管架	ji bo dao guan jia	1
+系泊刚臂	ji bo gang bi	1
+系泊缆绳	ji bo lan sheng	1
+系泊羊角	ji bo yang jiao	1
+吉布斯现象	ji bu si xian xiang	1
+挤出成型法	ji chu cheng xing fa	1
+挤出机	ji chu ji	1
+激动井	ji dong jing	1
+激发极化	ji fa ji hua	1
+极化处理	ji hua chu li	1
+计量分离器关断盘	ji liang fen li qi guan duan pan	1
+己内酰胺	ji nei xian an	1
+奇偶校验	ji ou jiao yan	1
+基盘调平工具	ji pan tiao ping gong ju	1
+集气站	ji qi zhan	1
+挤水泥	ji shui ni	1
+挤水泥封隔器	ji shui ni feng ge qi	1
+计算长度	ji suan chang du	1
+计算机化动力仪	ji suan ji hua dong li yi	1
+己烯	ji xi	1
+极限产量	ji xian chan liang	1
+极限含水率	ji xian han shui lv	1
+基线校正	ji xian jiao zheng	1
+机械传动	ji xie chuan dong	1
+机械堵水	ji xie du shui	1
+机械加压割断岩心	ji xie jia ya ge duan yan xin	1
+机械油	ji xie you	1
+机械钻速	ji xie zuan su	1
+极性逆转	ji xing ni zhuan	1
+挤压背斜油气藏	ji ya bei xie you qi cang	1
+挤压聚乙烯防腐层	ji ya ju yi xi fang fu ceng	1
+基岩油气藏	ji yan you qi cang	1
+记忆分量	ji yi fen liang	1
+激振器	ji zhen qi	1
+集中处理站	ji zhong chu li zhan	1
+甲苯	jia ben	1
+甲苯氧化	jia ben yang hua	1
+加长喷嘴钻头	jia chang pen zui zuan tou	1
+甲醇氨脱水	jia chun an tuo shui	1
+甲基叔丁基醚	jia ji shu ding ji mi	1
+甲基异丁基酮	jia ji yi ding ji tong	1
+甲基异丁基酮蜡脱油	jia ji yi ding ji tong la tuo you	1
+加密井	jia mi jing	1
+加强筋	jia qiang jin	1
+加氢补充精制	jia qing bu chong jing zhi	1
+加氢裂化催化剂	jia qing lie hua cui hua ji	1
+加氢脱烷基催化剂	jia qing tuo wan ji cui hua ji	1
+甲醛	jia quan	1
+甲醛和乙醛醛醇缩合	jia quan he yi quan quan chun suo he	1
+加热盘管	jia re pan guan	1
+加热输送	jia re shu song	1
+加速老化试验	jia su lao hua shi yan	1
+甲乙酮脱蜡	jia yi tong tuo la	1
+间苯二酚	jian ben er fen	1
+检查片	jian cha pian	1
+检查样片	jian cha yang pian	1
+间二甲苯	jian er jia ben	1
+间二甲苯裂趸	jian er jia ben lie dun	1
+间隔基盘	jian ge ji pan	1
+间接解释标志	jian jie jie shi biao zhi	1
+监控和数据采集系统	jian kong he shu ju cai ji xi tong	1
+检流计	jian liu ji	1
+检流计系统	jian liu ji xi tong	1
+碱木质素	jian mu zhi su	1
+建设性三角洲	jian she xing san jiao zhou	1
+监视记录	jian shi ji lu	1
+碱洗	jian xi	1
+碱洗塔	jian xi ta	1
+间歇抽油	jian xie chou you	1
+间歇气举	jian xie qi ju	1
+间歇注水	jian xie zhu shui	1
+间歇自喷	jian xie zi pen	1
+减压馏程	jian ya liu cheng	1
+减压渣油	jian ya zha you	1
+减粘裂化	jian zhan lie hua	1
+碱值	jian zhi	1
+降频扫描	jiang pin sao miao	1
+桨式搅拌器	jiang shi jiao ban qi	1
+降斜	jiang xie	1
+浆液反应器	jiang ye fan ying qi	1
+降甾烷	jiang zai wan	1
+绞车	jiao che	1
+绞车猫头	jiao che mao tou	1
+交代作用	jiao dai zuo yong	1
+校后时距曲线	jiao hou shi ju qu xian	1
+交会图技术	jiao hui tu ji shu	1
+胶结指数	jiao jie zhi shu	1
+铰接柱	jiao jie zhu	1
+胶结作用	jiao jie zuo yong	1
+角砾岩	jiao li yan	1
+交联	jiao lian	1
+交流电法	jiao liu dian fa	1
+交流腐蚀	jiao liu fu shi	1
+交流干扰	jiao liu gan rao	1
+角鲨烷	jiao sha wan	1
+胶体安定性	jiao ti an ding xing	1
+胶质	jiao zhi	1
+校直试验	jiao zhi shi yan	1
+接触胶结	jie chu jiao jie	1
+接触角滞后	jie chu jiao zhi hou	1
+阶地	jie di	1
+接地垫	jie di dian	1
+节点系统分析	jie dian xi tong fen xi	1
+介杆	jie gan	1
+解卡浸泡液	jie ka jin pao ye	1
+节流压力	jie liu ya li	1
+节流致冷	jie liu zhi leng	1
+接收点	jie shou dian	1
+接收机动态范围	jie shou ji dong tai fan wei	1
+近场	jin chang	1
+近程定位系统	jin cheng ding wei xi tong	1
+紧密距	jin mi ju	1
+浸蚀	jin shi	1
+金属钝化剂	jin shu dun hua ji	1
+井壁取心	jing bi qu xin	1
+井壁污染	jing bi wu ran	1
+井底定向接头	jing di ding xiang jie tou	1
+静电积累	jing dian ji lei	1
+净化	jing hua	1
+净化水缓冲罐	jing hua shui huan chong guan	1
+井架	jing jia	1
+井架安装车	jing jia an zhuang che	1
+井架公称高度	jing jia gong cheng gao du	1
+井架下底尺寸	jing jia xia di chi cun	1
+晶间腐蚀	jing jian fu shi	1
+井间示踪剂测试	jing jian shi zong ji ce shi	1
+静校正量	jing jiao zheng liang	1
+井控模拟器	jing kong mo ni qi	1
+井口连接器	jing kou lian jie qi	1
+井口帽	jing kou mao	1
+井口模块	jing kou mo kuai	1
+井口时间校正	jing kou shi jian jiao zheng	1
+净气	jing qi	1
+精确定层	jing que ding ceng	1
+静水压力	jing shui ya li	1
+井网密度	jing wang mi du	1
+井位	jing wei	1
+井位标	jing wei biao	1
+井下安全阀	jing xia an quan fa	1
+井下测量	jing xia ce liang	1
+井下磁力仪	jing xia ci li yi	1
+井下电子压力计	jing xia dian zi ya li ji	1
+井下流量计	jing xia liu liang ji	1
+井下配产器	jing xia pei chan qi	1
+井下配水嘴	jing xia pei shui zui	1
+井下声波电视测井	jing xia sheng bo dian shi ce jing	1
+井下轴流涡轮泵	jing xia zhou liu wo lun beng	1
+径向微差井温测井	jing xiang wei cha jing wen ce jing	1
+井斜测量	jing xie ce liang	1
+井斜平面图	jing xie ping mian tu	1
+静压梯度	jing ya ti du	1
+井眼	jing yan	1
+井眼条件	jing yan tiao jian	1
+镜质组反射率	jing zhi zu fan she lv	1
+镜质组反射率测定	jing zhi zu fan she lv ce ding	1
+井组动态分析	jing zu dong tai fen xi	1
+救生艇	jiu sheng ting	1
+救生艇登乘处	jiu sheng ting deng cheng chu	1
+聚丙烯酸酯	ju bing xi suan zhi	1
+聚丙烯无规共聚物	ju bing xi wu gui gong ju wu	1
+局部图象放大	ju bu tu xiang fang da	1
+聚对苯二甲酸丁二醇酯	ju dui ben er jia suan ding er chun zhi	1
+聚二甲基硅氧烷	ju er jia ji gui yang wan	1
+聚合催化剂	ju he cui hua ji	1
+聚合剂加入器	ju he ji jia ru qi	1
+聚合物减阻	ju he wu jian zu	1
+聚季铵盐	ju ji an yan	1
+聚氯乙烯纤维	ju lv yi xi xian wei	1
+聚能射孔弹	ju neng she kong dan	1
+聚酰胺纤维	ju xian an xian wei	1
+局限海	ju xian hai	1
+聚氧乙烯烷基醇醚	ju yang yi xi wan ji chun mi	1
+聚氧乙烯酰胺	ju yang yi xi xian an	1
+聚已二酰已二胺	ju yi er xian yi er an	1
+聚乙烯	ju yi xi	1
+聚酯	ju zhi	1
+绝对渗透率	jue dui shen tou lv	1
+绝对无阻流量	jue dui wu zu liu liang	1
+绝缘胶冻裂点	jue yuan jiao dong lie dian	1
+卡瓦	ka wa	1
+卡西尼重力公式	ka xi ni zhong li gong shi	1
+开发层系	kai fa ceng xi	1
+开发储量	kai fa chu liang	1
+开发方式	kai fa fang shi	1
+开发先导试验区	kai fa xian dao shi yan qu	1
+开发钻井	kai fa zuan jing	1
+开关柜与电机控制中心模块	kai guan gui yu dian ji kong zhi zhong xin mo kuai	1
+开式油气收集工艺	kai shi you qi shou ji gong yi	1
+勘探成本	kan tan cheng ben	1
+抗滑稳性	kang hua wen xing	1
+抗磨添加剂	kang mo tian jia ji	1
+抗磨性	kang mo xing	1
+康氏残炭测定仪	kang shi can tan ce ding yi	1
+可动油图	ke dong you tu	1
+刻度井	ke du jing	1
+可纺性	ke fang xing	1
+可解脱式系泊系统	ke jie tuo shi ji bo xi tong	1
+可控硅整流直流电驱动钻机	ke kong gui zheng liu zhi liu dian qu dong zuan ji	1
+可控源声频大地电磁法	ke kong yuan sheng pin da di dian ci fa	1
+可控震源法	ke kong zhen yuan fa	1
+克拉通	ke la tong	1
+可燃度极限	ke ran du ji xian	1
+可燃气探测系统	ke ran qi tan ce xi tong	1
+可染性	ke ran xing	1
+可燃有机岩	ke ran you ji yan	1
+可退开的捞矛	ke tui kai de lao mao	1
+可移式底座	ke yi shi di zuo	1
+坑蚀	keng shi	1
+空船排水量	kong chuan pai shui liang	1
+孔腹	kong fu	1
+空气钻井	kong qi zuan jing	1
+孔隙大小分布	kong xi da xiao fen bu	1
+孔隙结构	kong xi jie gou	1
+孔隙结构各向异性	kong xi jie gou ge xiang yi xing	1
+孔隙型储集层	kong xi xing chu ji ceng	1
+库埃特流	ku ai te liu	1
+扩散深度	kuo san shen du	1
+喇叭口短节	la ba kou duan jie	1
+蜡堵	la du	1
+捞锚钩	lao mao gou	1
+姥植比	lao zhi bi	1
+勒夫波	le fu bo	1
+累积生产气油比	lei ji sheng chan qi you bi	1
+累积注水量	lei ji zhu shui liang	1
+类异戊二烯	lei yi wu er xi	1
+冷工作业	leng gong zuo ye	1
+冷凝液罐	leng ning ye guan	1
+冷却器	leng que qi	1
+里德蒸气压	li de zheng qi ya	1
+粒度累积分布曲线	li du lei ji fen bu qu xian	1
+立管	li guan	1
+沥青测量	li qing ce liang	1
+沥青脉	li qing mai	1
+沥青溶解度	li qing rong jie du	1
+沥青塞封闭油藏	li qing sai feng bi you cang	1
+历史拟合	li shi ni he	1
+立体异构化	li ti yi gou hua	1
+离心过滤机	li xin guo lv ji	1
+链尺定距	lian chi ding ju	1
+连接盒	lian jie he	1
+联井	lian jing	1
+联立解法	lian li jie fa	1
+链条并车箱	lian tiao bing che xiang	1
+链条抽油机	lian tiao chou you ji	1
+连续催化重整	lian xu cui hua chong zheng	1
+连续气举设备	lian xu qi ju she bei	1
+两相流	liang xiang liu	1
+两翼刮刀钻头	liang yi gua dao zuan tou	1
+裂缝孔隙度分布指数	lie feng kong xi du fen bu zhi shu	1
+裂缝强度指数	lie feng qiang du zhi shu	1
+裂缝延伸	lie feng yan shen	1
+裂缝延伸长度	lie feng yan shen chang du	1
+裂缝油气藏	lie feng you qi cang	1
+裂缝指数	lie feng zhi shu	1
+裂解焦油	lie jie jiao you	1
+邻层影响	lin ceng ying xiang	1
+邻二甲苯	lin er jia ben	1
+临界点	lin jie dian	1
+临界距离	lin jie ju li	1
+临界压力	lin jie ya li	1
+临界盐度	lin jie yan du	1
+临界阻尼	lin jie zu ni	1
+膦酸盐防垢剂	lin suan yan fang gou ji	1
+零长	ling chang	1
+流变行为指数	liu bian xing wei zhi shu	1
+流变学	liu bian xue	1
+馏程	liu cheng	1
+流出动态曲线	liu chu dong tai qu xian	1
+流动度控制剂	liu dong du kong zhi ji	1
+流动势	liu dong shi	1
+六方钻杆	liu fang zuan gan	1
+硫化物应力开裂	liu hua wu ying li kai lie	1
+硫容量	liu rong liang	1
+流体参数	liu ti can shu	1
+流体密度	liu ti mi du	1
+流线型抽油泵	liu xian xing chou you beng	1
+流型	liu xing	1
+鲁茨流量计	lu ci liu liang ji	1
+露点曲线	lu dian qu xian	1
+卤化烃喷嘴	lu hua ting pen zui	1
+卤化烃瓶	lu hua ting ping	1
+卤化烃释放报警铃	lu hua ting shi fang bao jing ling	1
+陆壳型盆地	lu ke xing pen di	1
+露天甲板	lu tian jia ban	1
+陆相	lu xiang	1
+轮数	lun shu	1
+螺杆	luo gan	1
+罗经段	luo jing duan	1
+螺纹牙高量表	luo wen ya gao liang biao	1
+裸眼单封隔器测试管柱	luo yan dan feng ge qi ce shi guan zhu	1
+裸眼封隔器	luo yan feng ge qi	1
+裸眼井	luo yan jing	1
+裸眼井测井	luo yan jing ce jing	1
+氯苯	lv ben	1
+滤饼	lv bing	1
+滤饼厚度	lv bing hou du	1
+氯仿沥青	lv fang li qing	1
+氯化石蜡	lv hua shi la	1
+铝基润滑脂	lv ji run hua zhi	1
+滤液酚酞碱度	lv ye fen tai jian du	1
+氯乙烯乳液聚合	lv yi xi ru ye ju he	1
+马达法辛烷值	ma da fa xin wan zhi	1
+马达驱动稳定器	ma da qu dong wen ding qi	1
+马斯卡特法	ma si ka te fa	1
+脉冲反褶积	mai chong fan zhe ji	1
+脉冲宽度调制	mai chong kuan du tiao zhi	1
+幔源气	man yuan qi	1
+锚标	mao biao	1
+冒地斜棱柱体	mao di xie leng zhu ti	1
+锚架	mao jia	1
+锚链张紧器	mao lian zhang jin qi	1
+毛细管粘度计	mao xi guan nian du ji	1
+毛细管压力曲线	mao xi guan ya li qu xian	1
+毛细管阈压	mao xi guan yu ya	1
+煤成气	mei cheng qi	1
+蒙特卡洛法	meng te ka luo fa	1
+密闭输送流程	mi bi shu song liu cheng	1
+密度测井刻度块	mi du ce jing ke du kuai	1
+密度温度系数	mi du wen du xi shu	1
+密封适应性	mi feng shi ying xing	1
+醚化剂	mi hua ji	1
+幂律流体	mi lv liu ti	1
+弥散流	mi san liu	1
+面积波及系数	mian ji bo ji xi shu	1
+面元划分	mian yuan hua fen	1
+鸣震	ming zhen	1
+鸣震波	ming zhen bo	1
+末端阀	mo duan fa	1
+模拟移动床分离器	mo ni yi dong chuang fen li qi	1
+磨铣工具	mo xi gong ju	1
+模型模拟	mo xing mo ni	1
+模型预演	mo xing yu yan	1
+摩阻损失	mo zu sun shi	1
+摩阻系数	mo zu xi shu	1
+目标自动识别	mu biao zi dong shi bie	1
+木质	mu zhi	1
+奈奎斯特频率	nai kui si te pin lv	1
+耐摩擦色牢度	nai mo ca se lao du	1
+耐气候色牢度	nai qi hou se lao du	1
+耐液体性	nai ye ti xing	1
+耐油性	nai you xing	1
+内波纹管隔热管	nei bo wen guan ge re guan	1
+内对口器	nei dui kou qi	1
+内克拉通盆地	nei ke la tong pen di	1
+内涂层油管	nei tu ceng you guan	1
+内涂层钻杆	nei tu ceng zuan gan	1
+能油比	neng you bi	1
+泥火山气	ni huo shan qi	1
+泥浆波	ni jiang bo	1
+泥浆池容积	ni jiang chi rong ji	1
+泥浆池液面指示器	ni jiang chi ye mian zhi shi qi	1
+泥浆池液体增量	ni jiang chi ye ti zeng liang	1
+泥浆处理系统	ni jiang chu li xi tong	1
+泥浆电阻率	ni jiang dian zu lv	1
+泥浆罐	ni jiang guan	1
+泥浆搅拌器	ni jiang jiao ban qi	1
+泥浆流	ni jiang liu	1
+泥浆气体分离器	ni jiang qi ti fen li qi	1
+泥石流沉积	ni shi liu chen ji	1
+逆时偏移	ni shi pian yi	1
+泥线悬挂器	ni xian xuan gua qi	1
+拟压力	ni ya li	1
+泥岩	ni yan	1
+泥质指示	ni zhi zhi shi	1
+年产量	nian chan liang	1
+年代地层学	nian dai di ceng xue	1
+粘度指数改进剂	nian du zhi shu gai jin ji	1
+粘合剂	nian he ji	1
+粘土防膨剂	nian tu fang peng ji	1
+粘土膨胀	nian tu peng zhang	1
+粘土侵	nian tu qin	1
+脲醛树脂	niao quan shu zhi	1
+凝固时间	ning gu shi jian	1
+凝析气	ning xi qi	1
+凝析气油比	ning xi qi you bi	1
+牛轭湖沉积	niu e hu chen ji	1
+扭曲形结构	niu qu xing jie gou	1
+扭压盆地	niu ya pen di	1
+偶极矩	ou ji ju	1
+偶极子反射率	ou ji zi fan she lv	1
+排出空气包	pai chu kong qi bao	1
+排放罐	pai fang guan	1
+排量	pai liang	1
+排列系数	pai lie xi shu	1
+排驱	pai qu	1
+排替压力	pai ti ya li	1
+泡点曲线	pao dian qu xian	1
+炮井	pao jing	1
+泡帽塔	pao mao ta	1
+泡沫发生器	pao mo fa sheng qi	1
+泡沫灭火器	pao mo mie huo qi	1
+泡沫炮遥控盘	pao mo pao yao kong pan	1
+泡沫水泥	pao mo shui ni	1
+泡沫水枪	pao mo shui qiang	1
+泡沫站	pao mo zhan	1
+泡沫钻井液	pao mo zuan jing ye	1
+抛绳装置	pao sheng zhuang zhi	1
+抛丸	pao wan	1
+炮眼充填	pao yan chong tian	1
+配产配注	pei chan pei zhu	1
+盆地分析	pen di fen xi	1
+盆底扇	pen di shan	1
+喷淋塔	pen lin ta	1
+喷砂嘴	pen sha zui	1
+喷射泵	pen she beng	1
+喷射钻井	pen she zuan jing	1
+喷嘴	pen zui	1
+碰固定口	peng gu ding kou	1
+膨润土罐	peng run tu guan	1
+碰压接箍	peng ya jie gu	1
+膨胀水泥	peng zhang shui ni	1
+皮肤毒性	pi fu du xing	1
+披覆褶皱	pi fu zhe zhou	1
+披盖背斜油气藏	pi gai bei xie you qi cang	1
+批量控制器	pi liang kong zhi qi	1
+皮碗式封隔器	pi wan shi feng ge qi	1
+偏苯三甲酸三辛酯	pian ben san jia suan san xin zhi	1
+偏离	pian li	1
+偏心短节	pian xin duan jie	1
+偏心配水器	pian xin pei shui qi	1
+偏心器	pian xin qi	1
+偏移不足	pian yi bu zu	1
+偏移校正剖面	pian yi jiao zheng pou mian	1
+偏重钻铤	pian zhong zuan ting	1
+漂浮软管	piao fu ruan guan	1
+频带宽度	pin dai kuan du	1
+频率效应百分数	pin lv xiao ying bai fen shu	1
+频率域测深	pin lv yu ce shen	1
+频散关系	pin san guan xi	1
+屏蔽电极	ping bi dian ji	1
+平衡点	ping heng dian	1
+平衡井底压力法	ping heng jing di ya li fa	1
+平衡流速	ping heng liu su	1
+平衡正切法	ping heng zheng qie fa	1
+屏流比	ping liu bi	1
+平面波分解	ping mian bo fen jie	1
+平面径向流	ping mian jing xiang liu	1
+平面偏振	ping mian pian zhen	1
+平台海岸无线电系统	ping tai hai an wu xian dian xi tong	1
+平行结构	ping xing jie gou	1
+平行油管柱装置	ping xing you guan zhu zhuang zhi	1
+破冰船	po bing chuan	1
+破损稳性	po sun wen xing	1
+剖面形式	pou mian xing shi	1
+气藏气	qi cang qi	1
+气测井	qi ce jing	1
+七侧向测井	qi ce xiang ce jing	1
+弃船	qi chuan	1
+气顶驱动	qi ding qu dong	1
+气动动力钳	qi dong dong li qian	1
+气动摩擦离合器	qi dong mo ca li he qi	1
+气动平衡	qi dong ping heng	1
+气灰分离器	qi hui fen li qi	1
+气井产能	qi jing chan neng	1
+气举成沟法	qi ju cheng gou fa	1
+气举阀	qi ju fa	1
+气举管柱	qi ju guan zhu	1
+气举启动压力	qi ju qi dong ya li	1
+汽轮机油	qi lun ji you	1
+气苗	qi miao	1
+漆膜	qi mo	1
+起泡	qi pao	1
+气泡	qi pao	1
+气泡比	qi pao bi	1
+气泡流	qi pao liu	1
+气枪控制器	qi qiang kong zhi qi	1
+气枪震源	qi qiang zhen yuan	1
+气砂锚	qi sha mao	1
+汽蚀	qi shi	1
+气锁	qi suo	1
+气锁水泥	qi suo shui ni	1
+气体净化	qi ti jing hua	1
+气体净化催化剂	qi ti jing hua cui hua ji	1
+汽提塔	qi ti ta	1
+气田集气流程	qi tian ji qi liu cheng	1
+气团流	qi tuan liu	1
+起下钻泥浆罐	qi xia zuan ni jiang guan	1
+气相饱和度	qi xiang bao he du	1
+气液两相流	qi ye liang xiang liu	1
+汽油机油	qi you ji you	1
+起钻	qi zuan	1
+浅海地震勘探	qian hai di zhen kan tan	1
+前积反射结构	qian ji fan she jie gou	1
+浅埋阳极地床	qian mai yang ji di chuang	1
+潜水面	qian shui mian	1
+浅滩	qian tan	1
+前缘走廊	qian yuan zou lang	1
+潜在胶质	qian zai jiao zhi	1
+潜在酸	qian zai suan	1
+前置式游梁抽油机	qian zhi shi you liang chou you ji	1
+羟烷基羧甲基化	qiang wan ji suo jia ji hua	1
+羟乙基化	qiang yi ji hua	1
+强隐式法	qiang yin shi fa	1
+强制电流	qiang zhi dian liu	1
+强制排流	qiang zhi pai liu	1
+切削油	qie xiao you	1
+侵入校正	qin ru jiao zheng	1
+侵入直径	qin ru zhi jing	1
+轻柴油	qing chai you	1
+倾覆力臂	qing fu li bi	1
+清管器收发装置	qing guan qi shou fa zhuang zhi	1
+清焦	qing jiao	1
+氢氰酸	qing qing suan	1
+氢碳原子比	qing tan yuan zi bi	1
+氢同位素	qing tong wei su	1
+倾向滑动断层	qing xiang hua dong duan ceng	1
+倾斜距离	qing xie ju li	1
+倾斜式修井机	qing xie shi xiu jing ji	1
+轻质可燃气体探测器	qing zhi ke ran qi ti tan ce qi	1
+球罐散装法	qiu guan san zhuang fa	1
+球接头	qiu jie tou	1
+球面波	qiu mian bo	1
+曲柄	qu bing	1
+曲柄偏置角	qu bing pian zhi jiao	1
+驱动机组底座	qu dong ji zu di zuo	1
+去交混回响	qu jiao hun hui xiang	1
+曲流河沉积	qu liu he chen ji	1
+曲线网格	qu xian wang ge	1
+取心钻压	qu xin zuan ya	1
+区域场校正	qu yu chang jiao zheng	1
+区域地震地层学	qu yu di zhen di ceng xue	1
+区域评价	qu yu ping jia	1
+圈闭	quan bi	1
+圈闭发现率	quan bi fa xian lv	1
+圈闭容积	quan bi rong ji	1
+确定性反褶积	que ding xing fan zhe ji	1
+炔烃加氢反应器	que ting jia qing fan ying qi	1
+群速度	qun su du	1
+裙桩	qun zhuang	1
+燃料型炼油厂	ran liao xing lian you chang	1
+燃料油	ran liao you	1
+燃料油排放罐	ran liao you pai fang guan	1
+绕射波层析成象	rao she bo ceng xi cheng xiang	1
+绕射反射波	rao she fan she bo	1
+绕射求和	rao she qiu he	1
+热补偿器	re bu chang qi	1
+热采方法	re cai fang fa	1
+热传导液	re chuan dao ye	1
+热解色谱法	re jie se pu fa	1
+热酸处理	re suan chu li	1
+热稳定性	re wen ding xing	1
+热稳聚晶金刚石钻头	re wen ju jing jin gang shi zuan tou	1
+热油清蜡车	re you qing la che	1
+热油循环	re you xun huan	1
+热运转	re yun zhuan	1
+人机交互联作解释	ren ji jiao hu lian zuo jie shi	1
+人字架	ren zi jia	1
+溶洞	rong dong	1
+溶剂抽提塔	rong ji chou ti ta	1
+溶剂段塞驱	rong ji duan sai qu	1
+溶解气油比	rong jie qi you bi	1
+溶解烃	rong jie ting	1
+溶孔	rong kong	1
+熔融指数	rong rong zhi shu	1
+柔软剂	rou ruan ji	1
+乳化型液压液	ru hua xing ye ya ye	1
+乳化油输送泵	ru hua you shu song beng	1
+入级检验	ru ji jian yan	1
+铷蒸气磁力仪	ru zheng qi ci li yi	1
+软磁化	ruan ci hua	1
+软管起升吊机	ruan guan qi sheng diao ji	1
+软管束	ruan guan shu	1
+润滑油	run hua you	1
+润滑油氧化安定性测定仪	run hua you yang hua an ding xing ce ding yi	1
+润滑脂	run hua zhi	1
+润滑脂滚筒安定性测定仪	run hua zhi gun tong an ding xing ce ding yi	1
+塞流反应器	sai liu fan ying qi	1
+三次采油	san ci cai you	1
+三分量检波器	san fen liang jian bo qi	1
+三缸单作用泵	san gang dan zuo yong beng	1
+三距交汇	san ju jiao hui	1
+三氯乙烷	san lv yi wan	1
+三氯乙烯	san lv yi xi	1
+伞式流量计	san shi liu liang ji	1
+三萜类	san tie lei	1
+扫描电镜	sao miao dian jing	1
+色谱分析	se pu fen xi	1
+刹带	sha dai	1
+砂滤装置	sha lv zhuang zhi	1
+沙漠相	sha mo xiang	1
+砂桥卡钻	sha qiao ka zuan	1
+砂岩百分含量	sha yan bai fen han liang	1
+筛面倾角	shai mian qing jiao	1
+筛网	shai wang	1
+筛析	shai xi	1
+闪点	shan dian	1
+山前拗陷盆地	shan qian niu xian pen di	1
+扇三角洲相	shan san jiao zhou xiang	1
+扇形滤波器	shan xing lv bo qi	1
+闪蒸	shan zheng	1
+上超	shang chao	1
+上覆岩层压力	shang fu yan ceng ya li	1
+上胶塞	shang jiao sai	1
+上行波	shang xing bo	1
+上游相对渗透率	shang you xiang dui shen tou lv	1
+烧焦试验	shao jiao shi yan	1
+射孔穿透深度	she kong chuan tou shen du	1
+射孔液	she kong ye	1
+射流冲击力	she liu chong ji li	1
+射流等速核	she liu deng su he	1
+射线参数	she xian can shu	1
+射线理论	she xian li lun	1
+深度基准	shen du ji zhun	1
+深度加工	shen du jia gong	1
+深感应测井	shen gan ying ce jing	1
+深冷分离	shen leng fen li	1
+渗流雷诺数	shen liu lei nuo shu	1
+渗漏地层	shen lou di ceng	1
+深水顶超	shen shui ding chao	1
+渗透剂	shen tou ji	1
+渗析作用	shen xi zuo yong	1
+声波变密度测井	sheng bo bian mi du ce jing	1
+声波测井	sheng bo ce jing	1
+生产测井	sheng chan ce jing	1
+生产分离器	sheng chan fen li qi	1
+生产管汇	sheng chan guan hui	1
+生产管柱	sheng chan guan zhu	1
+生产甲板	sheng chan jia ban	1
+生产井	sheng chan jing	1
+生产系列控制盘	sheng chan xi lie kong zhi pan	1
+升沉补偿器	sheng chen bu chang qi	1
+升沉补偿装置	sheng chen bu chang zhuang zhi	1
+生存条件	sheng cun tiao jian	1
+升降条件	sheng jiang tiao jian	1
+生物骨架孔隙	sheng wu gu jia kong xi	1
+生物化学生气阶段	sheng wu hua xue sheng qi jie duan	1
+生物葡聚糖	sheng wu pu ju tang	1
+声响信号器	sheng xiang xin hao qi	1
+生油率	sheng you lv	1
+生油指标	sheng you zhi biao	1
+剩余静校正	sheng yu jing jiao zheng	1
+剩余偏移	sheng yu pian yi	1
+声阻抗差	sheng zu kang cha	1
+视表皮系数	shi biao pi xi shu	1
+时间分辨率	shi jian fen bian lv	1
+试井车	shi jing che	1
+试井解释图版	shi jing jie shi tu ban	1
+视觉三色原理	shi jue san se yuan li	1
+石蜡含油量	shi la han you liang	1
+十六烷值	shi liu wan zhi	1
+视密度	shi mi du	1
+石脑油脱硫装置	shi nao you tuo liu zhuang zhi	1
+石脑油蒸汽裂解	shi nao you zheng qi lie jie	1
+视倾角	shi qing jiao	1
+时深转换	shi shen zhuan huan	1
+实时处理	shi shi chu li	1
+视衰减	shi shuai jian	1
+实验室分析	shi yan shi fen xi	1
+试油	shi you	1
+石油地质	shi you di zhi	1
+石油化工厂	shi you hua gong chang	1
+石油及天然气地质学	shi you ji tian ran qi di zhi xue	1
+石油焦	shi you jiao	1
+石油沥青防腐层	shi you li qing fang fu ceng	1
+石油沥青延伸度测定仪	shi you li qing yan shen du ce ding yi	1
+石油论坛	shi you lun tan	1
+石油树脂	shi you shu zhi	1
+石油酸类	shi you suan lei	1
+石油专业词汇	shi you zhuan ye ci hui	1
+石油浊点测定仪	shi you zhuo dian ce ding yi	1
+试注	shi zhu	1
+十字排列装置	shi zi pai lie zhuang zhi	1
+示踪剂	shi zong ji	1
+示踪剂突破时间	shi zong ji tu po shi jian	1
+首波	shou bo	1
+收发油损耗	shou fa you sun hao	1
+艏尖压载舱	shou jian ya zai cang	1
+收敛压力	shou lian ya li	1
+售油立管	shou you li guan	1
+束缚水	shu fu shui	1
+数据采集单元	shu ju cai ji dan yuan	1
+数据链	shu ju lian	1
+输气管道	shu qi guan dao	1
+输送顺序	shu song shun xu	1
+输油末站	shu you mo zhan	1
+数字传输	shu zi chuan shu	1
+数字磁带测井记录仪	shu zi ci dai ce jing ji lu yi	1
+数字记录测井仪	shu zi ji lu ce jing yi	1
+数字型钻杆接头	shu zi xing zuan gan jie tou	1
+双边离开排列	shuang bian li kai pai lie	1
+双层取心筒	shuang ceng qu xin tong	1
+双根	shuang gen	1
+双金属重整催化剂	shuang jin shu chong zheng cui hua ji	1
+双金属缸套	shuang jin shu gang tao	1
+双矿物模型	shuang kuang wu mo xing	1
+双缆单源法	shuang lan dan yuan fa	1
+双螺杆挤出机	shuang luo gan ji chu ji	1
+双盘浮船	shuang pan fu chuan	1
+双曲线方式	shuang qu xian fang shi	1
+双水模型	shuang shui mo xing	1
+双筒井	shuang tong jing	1
+双线控制井下安全阀	shuang xian kong zhi jing xia an quan fa	1
+双液法调剖剂	shuang ye fa tiao pou ji	1
+双翼控制头	shuang yi kong zhi tou	1
+双油管采油井口	shuang you guan cai you jing kou	1
+双闸板防喷器	shuang zha ban fang pen qi	1
+双作用抽油泵	shuang zuo yong chou you beng	1
+双作用式水力活塞泵	shuang zuo yong shi shui li huo sai beng	1
+水包油型清蜡剂	shui bao you xing qing la ji	1
+水底拖管法	shui di tuo guan fa	1
+水动力圈闭	shui dong li quan bi	1
+水封	shui feng	1
+水灰比	shui hui bi	1
+水基钻井液	shui ji zuan jing ye	1
+水净化	shui jing hua	1
+水力活塞泵	shui li huo sai beng	1
+水力效率	shui li xiao lv	1
+水力压缩式封隔器	shui li ya suo shi feng ge qi	1
+水龙头	shui long tou	1
+水龙头额定工作载荷	shui long tou e ding gong zuo zai he	1
+水龙头中心管	shui long tou zhong xin guan	1
+水敏性评价	shui min xing ping jia	1
+水泥池	shui ni chi	1
+水泥窜槽	shui ni cuan cao	1
+水泥减轻外掺料	shui ni jian qing wai chan liao	1
+水泥浆	shui ni jiang	1
+水泥浆流变学	shui ni jiang liu bian xue	1
+水泥浆泥浆隔离液配伍性	shui ni jiang ni jiang ge li ye pei wu xing	1
+水泥膨胀剂	shui ni peng zhang ji	1
+水泥砂浆	shui ni sha jiang	1
+水泥外加剂	shui ni wai jia ji	1
+水泥造浆量	shui ni zao jiang liang	1
+水平定向钻机	shui ping ding xiang zuan ji	1
+水平极性	shui ping ji xing	1
+水平裂缝	shui ping lie feng	1
+水枪	shui qiang	1
+水侵	shui qin	1
+水侵系数	shui qin xi shu	1
+水驱比	shui qu bi	1
+水渠发送道	shui qu fa song dao	1
+水驱气藏	shui qu qi cang	1
+水系格局	shui xi ge ju	1
+水下安装	shui xia an zhuang	1
+水下常压工作站	shui xia chang ya gong zuo zhan	1
+水下出油管线	shui xia chu you guan xian	1
+水下系泊装置	shui xia ji bo zhuang zhi	1
+水下粘合	shui xia nian he	1
+水下摄象机起下装置	shui xia she xiang ji qi xia zhuang zhi	1
+水下释放塞注水泥系统	shui xia shi fang sai zhu shui ni xi tong	1
+水压驱动	shui ya qu dong	1
+水淹气井	shui yan qi jing	1
+水质标准	shui zhi biao zhun	1
+瞬变磁场	shun bian ci chang	1
+顺磁磁化率	shun ci ci hua lv	1
+瞬时浮点增益	shun shi fu dian zeng yi	1
+瞬时属性	shun shi shu xing	1
+顺应式结构	shun ying shi jie gou	1
+四环萜烷	si huan tie wan	1
+丝扣粘结剂	si kou nian jie ji	1
+死绳固定器	si sheng gu ding qi	1
+丝质体	si zhi ti	1
+司钻房	si zuan fang	1
+司钻控制台	si zuan kong zhi tai	1
+速度检波器	su du jian bo qi	1
+速度门值	su du men zhi	1
+速度谱	su du pu	1
+速度深度模型	su du shen du mo xing	1
+速度下拉	su du xia la	1
+酸化压裂泵	suan hua ya lie beng	1
+酸基压裂液	suan ji ya lie ye	1
+酸溶性完井液	suan rong xing wan jing ye	1
+酸岩反应静态试验	suan yan fan ying jing tai shi yan	1
+酸岩反应速率	suan yan fan ying su lv	1
+算子	suan zi	1
+随机噪声	sui ji zao sheng	1
+碎屑岩	sui xie yan	1
+碎屑岩类储集层	sui xie yan lei chu ji ceng	1
+随钻测量	sui zuan ce liang	1
+随钻测量仪	sui zuan ce liang yi	1
+羧甲基淀粉	suo jia ji dian fen	1
+羧甲基纤维素	suo jia ji xian wei su	1
+塔顶馏出物	ta ding liu chu wu	1
+台背斜	tai bei xie	1
+台地前缘斜坡相	tai di qian yuan xie po xiang	1
+钛铁矿	tai tie kuang	1
+弹簧加压气举阀	tan huang jia ya qi ju fa	1
+弹性介质	tan xing jie zhi	1
+碳质沥青	tan zhi li qing	1
+滩状地震相	tan zhuang di zhen xiang	1
+套管补贴	tao guan bu tie	1
+套管长圆螺纹	tao guan chang yuan luo wen	1
+套管灌泥浆装置	tao guan guan ni jiang zhuang zhi	1
+套管接箍	tao guan jie gu	1
+套筒气枪	tao tong qi qiang	1
+特大油气田	te da you qi tian	1
+提环	ti huan	1
+提捞	ti lao	1
+替载电阻	ti zai dian zu	1
+天车台	tian che tai	1
+天然金刚石取心钻头	tian ran jin gang shi qu xin zuan tou	1
+天然聚合物	tian ran ju he wu	1
+天然气	tian ran qi	1
+天然气成因类型	tian ran qi cheng yin lei xing	1
+天然气导热系数	tian ran qi dao re xi shu	1
+天然气密度	tian ran qi mi du	1
+天然气热裂解	tian ran qi re lie jie	1
+天然气压缩系数	tian ran qi ya suo xi shu	1
+天然气引射器	tian ran qi yin she qi	1
+调节剂	tiao jie ji	1
+调向叠加	tiao xiang die jia	1
+铁磁性岩墙侵入体	tie ci xing yan qiang qin ru ti	1
+烃相	ting xiang	1
+同期运移	tong qi yun yi	1
+同生作用	tong sheng zuo yong	1
+同态滤波	tong tai lv bo	1
+同相轴	tong xiang zhou	1
+同相轴合并	tong xiang zhou he bing	1
+通信集成管	tong xin ji cheng guan	1
+同心圆观测	tong xin yuan guan ce	1
+通用导向架	tong yong dao xiang jia	1
+通用聚苯乙烯	tong yong ju ben yi xi	1
+通用内燃机油	tong yong nei ran ji you	1
+透光率	tou guang lv	1
+透镜状结构	tou jing zhuang jie gou	1
+透平膨胀机	tou ping peng zhang ji	1
+突变压实阶段	tu bian ya shi jie duan	1
+涂漆	tu qi	1
+土壤电阻率	tu rang dian zu lv	1
+土壤腐蚀	tu rang fu shi	1
+土壤盐测量	tu rang yan ce liang	1
+推测储量	tui ce chu liang	1
+退汞效率	tui gong xiao lv	1
+脱模剂	tuo mo ji	1
+脱砂压力	tuo sha ya li	1
+脱水器	tuo shui qi	1
+脱氧塔	tuo yang ta	1
+脱乙烷	tuo yi wan	1
+挖掘效应	wa jue xiao ying	1
+外部边界	wai bu bian jie	1
+外加厚油管	wai jia hou you guan	1
+外加厚油管螺纹	wai jia hou you guan luo wen	1
+外加厚钻杆	wai jia hou zuan gan	1
+外接套总成	wai jie tao zong cheng	1
+外螺纹钻杆接头	wai luo wen zuan gan jie tou	1
+顽磁性	wan ci xing	1
+完井测试	wan jing ce shi	1
+弯螺杆钻具	wan luo gan zuan ju	1
+弯曲井眼	wan qu jing yan	1
+万有引力常量	wan you yin li chang liang	1
+完钻	wan zuan	1
+网格法	wang ge fa	1
+微波定位	wei bo ding wei	1
+微差井径曲线	wei cha jing jing qu xian	1
+微地震测井	wei di zhen ce jing	1
+微电极测井	wei dian ji ce jing	1
+尾端校正	wei duan jiao zheng	1
+尾管	wei guan	1
+尾管悬挂器	wei guan xuan gua qi	1
+微晶高岭土	wei jing gao ling tu	1
+微晶蜡	wei jing la	1
+微球形聚焦测井	wei qiu xing ju jiao ce jing	1
+微乳驱	wei ru qu	1
+微生物采油	wei sheng wu cai you	1
+未熟期	wei shu qi	1
+危险区划分	wei xian qu hua fen	1
+卫星平台	wei xing ping tai	1
+微形旋流器	wei xing xuan liu qi	1
+围油栅卷筒	wei you zha juan tong	1
+稳定渗流	wen ding shen liu	1
+稳心	wen xin	1
+稳性消失角	wen xing xiao shi jiao	1
+涡流消除器	wo liu xiao chu qi	1
+沃伦鲁特模型	wo lun lu te mo xing	1
+涡轮钻具	wo lun zuan ju	1
+无导绳重返井口加强喇叭口	wu dao sheng chong fan jing kou jia qiang la ba kou	1
+雾笛	wu di	1
+五点法注水	wu dian fa zhu shui	1
+无反射结构	wu fan she jie gou	1
+无机碳分析	wu ji tan fen xi	1
+无机盐类分解气	wu ji yan lei fen jie qi	1
+无结构镜质体	wu jie gou jing zhi ti	1
+无接箍套管	wu jie gu tao guan	1
+五十年一遇	wu shi nian yi yu	1
+无水采收率	wu shui cai shou lv	1
+戊烯	wu xi	1
+无线电定位系统	wu xian dian ding wei xi tong	1
+无线电遥测地震数据采集	wu xian dian yao ce di zhen shu ju cai ji	1
+无游梁抽油机	wu you liang chou you ji	1
+污渣磨碎机	wu zha mo sui ji	1
+物质平衡法	wu zhi ping heng fa	1
+洗舱机	xi cang ji	1
+吸附水	xi fu shui	1
+析蜡点	xi la dian	1
+吸入口滤器	xi ru kou lv qi	1
+吸入压力	xi ru ya li	1
+牺牲剂	xi sheng ji	1
+牺牲阳极电流效率	xi sheng yang ji dian liu xiao lv	1
+吸收边界条件	xi shou bian jie tiao jian	1
+吸水层段	xi shui ceng duan	1
+吸水能力	xi shui neng li	1
+吸水指数	xi shui zhi shu	1
+烯烃	xi ting	1
+系统试井	xi tong shi jing	1
+铣鞋	xi xie	1
+下冲断层	xia chong duan ceng	1
+下相微乳	xia xiang wei ru	1
+下行测井	xia xing ce jing	1
+现场测定	xian chang ce ding	1
+限流法压裂	xian liu fa ya lie	1
+先期砾石充填筛管	xian qi li shi chong tian shai guan	1
+线圈系	xian quan xi	1
+显式算子	xian shi suan zi	1
+显微光度法	xian wei guang du fa	1
+纤维支数	xian wei zhi shu	1
+显微组分	xian wei zu fen	1
+线性组合	xian xing zu he	1
+线质量	xian zhi liang	1
+镶齿钻头	xiang chi zuan tou	1
+相对磁导率	xiang dui ci dao lv	1
+相对吸水量	xiang dui xi shui liang	1
+相干性	xiang gan xing	1
+相干噪声	xiang gan zao sheng	1
+相关虚象	xiang guan xu xiang	1
+相模式	xiang mo shi	1
+巷识别	xiang shi bie	1
+箱式干燥器	xiang shi gan zao qi	1
+箱式显示	xiang shi xian shi	1
+箱式装置	xiang shi zhuang zhi	1
+详探井	xiang tan jing	1
+相位	xiang wei	1
+相位滞后	xiang wei zhi hou	1
+消防控制盘	xiao fang kong zhi pan	1
+消防炮	xiao fang pao	1
+消防水增压泵	xiao fang shui zeng ya beng	1
+小鼠洞	xiao shu dong	1
+硝酸纤维素	xiao suan xian wei su	1
+斜杆	xie gan	1
+斜井钻机	xie jing zuan ji	1
+泄油半径	xie you ban jing	1
+楔状前积体	xie zhuang qian ji ti	1
+楔状相	xie zhuang xiang	1
+信标	xin biao	1
+心滩沉积	xin tan chen ji	1
+型剖面	xing pou mian	1
+修正率	xiu zheng lv	1
+溴指数	xiu zhi shu	1
+蓄热炉热裂解	xu re lu re lie jie	1
+悬点静载荷	xuan dian jing zai he	1
+悬点最大载荷	xuan dian zui da zai he	1
+旋回式生储盖组合	xuan hui shi sheng chu gai zu he	1
+悬链锚腿系泊	xuan lian mao tui ji bo	1
+旋流分离器	xuan liu fen li qi	1
+选排	xuan pai	1
+悬绳器	xuan sheng qi	1
+旋升式底座	xuan sheng shi di zuo	1
+选择加氢催化剂	xuan ze jia qing cui hua ji	1
+选择性润湿	xuan ze xing run shi	1
+选择性压裂	xuan ze xing ya lie	1
+悬重	xuan zhong	1
+旋转粘度计	xuan zhuan nian du ji	1
+旋转燃烧器	xuan zhuan ran shao qi	1
+旋转式气体分离器	xuan zhuan shi qi ti fen li qi	1
+旋转头总成	xuan zhuan tou zong cheng	1
+旋转性孔隙结构	xuan zhuan xing kong xi jie gou	1
+旋转钻机	xuan zhuan zuan ji	1
+雪松烷	xue song wan	1
+循环阀	xun huan fa	1
+循环注气	xun huan zhu qi	1
+牙齿磨损系数	ya chi mo sun xi shu	1
+压井阀	ya jing fa	1
+压井液	ya jing ye	1
+压力降落法试井	ya li jiang luo fa shi jing	1
+压力梯度	ya li ti du	1
+压裂车	ya lie che	1
+压裂管柱	ya lie guan zhu	1
+压裂混砂机	ya lie hun sha ji	1
+压裂液降滤失剂	ya lie ye jiang lv shi ji	1
+压裂液利用效率	ya lie ye li yong xiao lv	1
+压裂液滤失性	ya lie ye lv shi xing	1
+压扭作用	ya niu zuo yong	1
+压实校正	ya shi jiao zheng	1
+压缩系数	ya suo xi shu	1
+亚铁磁性	ya tie ci xing	1
+牙形石鉴定	ya xing shi jian ding	1
+牙形石色变指数	ya xing shi se bian zhi shu	1
+沿层切片	yan ceng qie pian	1
+烟点	yan dian	1
+岩电地层单位	yan dian di ceng dan wei	1
+盐构造作用	yan gou zao zuo yong	1
+严密性试验	yan mi xing shi yan	1
+岩石表面破碎	yan shi biao mian po sui	1
+岩石泊松比	yan shi bo song bi	1
+岩石基质孔隙度	yan shi ji zhi kong xi du	1
+岩石抗压强度	yan shi kang ya qiang du	1
+岩石可钻性	yan shi ke zuan xing	1
+岩石孔隙压缩系数	yan shi kong xi ya suo xi shu	1
+岩石热导率	yan shi re dao lv	1
+盐水顶替	yan shui ding ti	1
+盐水钻井液	yan shui zuan jing ye	1
+烟雾探测报警系统	yan wu tan ce bao jing xi tong	1
+岩相	yan xiang	1
+岩屑运移比	yan xie yun yi bi	1
+岩心直径	yan xin zhi jing	1
+岩性对比	yan xing dui bi	1
+岩性透镜体油气藏	yan xing tou jing ti you qi cang	1
+仰冲	yang chong	1
+氧化还原催化剂	yang hua huan yuan cui hua ji	1
+氧化热裂化	yang hua re lie hua	1
+氧化塔	yang hua ta	1
+氧化型缓蚀剂	yang hua xing huan shi ji	1
+氧化型杀菌剂	yang hua xing sha jun ji	1
+阳离子非离子型表面活性剂	yang li zi fei li zi xing biao mian huo xing ji	1
+阳离子型表面活性剂	yang li zi xing biao mian huo xing ji	1
+阳离子型聚合物	yang li zi xing ju he wu	1
+氧指数	yang zhi shu	1
+遥测地震仪	yao ce di zhen yi	1
+液化天然气运输船	ye hua tian ran qi yun shu chuan	1
+液硫脱气	ye liu tuo qi	1
+叶片式混砂器	ye pian shi hun sha qi	1
+液态窗	ye tai chuang	1
+液体密度计	ye ti mi du ji	1
+野外装备	ye wai zhuang bei	1
+液相聚合釜	ye xiang ju he fu	1
+液压管线	ye ya guan xian	1
+液压控制采油树	ye ya kong zhi cai you shu	1
+液压主控盘	ye ya zhu kong pan	1
+异丙苯	yi bing ben	1
+一步法三维偏移	yi bu fa san wei pian yi	1
+异常	yi chang	1
+异常低压	yi chang di ya	1
+乙醇	yi chun	1
+异丁烷正丁烷比	yi ding wan zheng ding wan bi	1
+异丁烯	yi ding xi	1
+异丁烯分离	yi ding xi fen li	1
+移动式钻井平台	yi dong shi zuan jing ping tai	1
+乙二醇单乙醚	yi er chun dan yi mi	1
+倚方位速度	yi fang wei su du	1
+异构化	yi gou hua	1
+伊利石	yi li shi	1
+仪器接口	yi qi jie kou	1
+已燃区	yi ran qu	1
+乙酸	yi suan	1
+乙烯高压法聚合	yi xi gao ya fa ju he	1
+乙烯基醚	yi xi ji mi	1
+乙烯精馏塔	yi xi jing liu ta	1
+乙烯氧化	yi xi yang hua	1
+乙烯氧氯化	yi xi yang lv hua	1
+一氧化碳助燃剂	yi yang hua tan zhu ran ji	1
+溢油	yi you	1
+阴极保护站	yin ji bao hu zhan	1
+印染助剂	yin ran zhu ji	1
+引鞋	yin xie	1
+饮用水舱	yin yong shui cang	1
+荧光沥青	ying guang li qing	1
+荧光显微镜	ying guang xian wei jing	1
+应急灯	ying ji deng	1
+硬沥青	ying li qing	1
+影区	ying qu	1
+永磁性	yong ci xing	1
+永久导向基盘	yong jiu dao xiang ji pan	1
+永久性完井	yong jiu xing wan jing	1
+油包水乳状液破乳剂	you bao shui ru zhuang ye po ru ji	1
+油藏电模型	you cang dian mo xing	1
+油藏管理测井	you cang guan li ce jing	1
+油藏描述	you cang miao shu	1
+油藏模拟器	you cang mo ni qi	1
+油藏模型	you cang mo xing	1
+油藏数学模型	you cang shu xue mo xing	1
+油藏油	you cang you	1
+油藏总压降	you cang zong ya jiang	1
+油层产出水结垢	you ceng chan chu shui jie gou	1
+油层水力压裂	you ceng shui li ya lie	1
+油层酸处理	you ceng suan chu li	1
+游动阀	you dong fa	1
+有杆抽油装置	you gan chou you zhuang zhi	1
+油管打捞矛	you guan da lao mao	1
+油管堵塞器	you guan du se qi	1
+油管锚	you guan mao	1
+油管压力	you guan ya li	1
+油管柱	you guan zhu	1
+有机成因论	you ji cheng yin lun	1
+油基堵水剂	you ji du shui ji	1
+油基压裂液	you ji ya lie ye	1
+有机质变生作用	you ji zhi bian sheng zuo yong	1
+油浆	you jiang	1
+油井产能方程	you jing chan neng fang cheng	1
+油井清蜡设备	you jing qing la she bei	1
+油井压力产量曲线	you jing ya li chan liang qu xian	1
+油井折算半径	you jing zhe suan ban jing	1
+油泥	you ni	1
+油品里德蒸气压测定仪	you pin li de zheng qi ya ce ding yi	1
+油品调合	you pin tiao he	1
+油品蒸馏测定仪	you pin zheng liu ce ding yi	1
+油气藏	you qi cang	1
+油气藏高度	you qi cang gao du	1
+油气地质勘探	you qi di zhi kan tan	1
+油漆房	you qi fang	1
+油气分离	you qi fen li	1
+油气田	you qi tian	1
+油气田勘探	you qi tian kan tan	1
+油势分析	you shi fen xi	1
+油水界面的非活塞推进	you shui jie mian de fei huo sai tui jin	1
+油田设备	you tian she bei	1
+有效排烃厚度	you xiao pai ting hou du	1
+有效渗透率	you xiao shen tou lv	1
+油源层系	you yuan ceng xi	1
+预白化	yu bai hua	1
+预测间隔	yu ce jian ge	1
+预测误差滤波器	yu ce wu cha lv bo qi	1
+预精制	yu jing zhi	1
+迂曲度	yu qu du	1
+羽扇烷	yu shan wan	1
+预探	yu tan	1
+遇险手持红光信号	yu xian shou chi hong guang xin hao	1
+预压载舱	yu ya zai cang	1
+宇宙论	yu zhou lun	1
+远道变弱效应	yuan dao bian ruo xiao ying	1
+原地成酸体系	yuan di cheng suan ti xi	1
+远地点	yuan di dian	1
+远方参考站	yuan fang can kao zhan	1
+圆弧法	yuan hu fa	1
+原料气压缩机	yuan liao qi ya suo ji	1
+原料油	yuan liao you	1
+原生孔隙	yuan sheng kong xi	1
+原生悬浮物	yuan sheng xuan fu wu	1
+原生油气藏	yuan sheng you qi cang	1
+原始大洋裂谷盆地	yuan shi da yang lie gu pen di	1
+原始规	yuan shi gui	1
+元素对比	yuan su dui bi	1
+原油	yuan you	1
+原油地质储量	yuan you di zhi chu liang	1
+原油分析	yuan you fen xi	1
+原油乳化降粘剂	yuan you ru hua jiang nian ji	1
+原油抑泡剂	yuan you yi pao ji	1
+运移距离	yun yi ju li	1
+孕甾烷	yun zai wan	1
+造扣	zao kou	1
+藻类体	zao lei ti	1
+早期生产系统	zao qi sheng chan xi tong	1
+造山运动	zao shan yun dong	1
+噪声观测剖面	zao sheng guan ce pou mian	1
+造斜点	zao xie dian	1
+造斜工具	zao xie gong ju	1
+增溶参数	zeng rong can shu	1
+憎水	zeng shui	1
+增塑剂	zeng su ji	1
+增斜	zeng xie	1
+增压泵	zeng ya beng	1
+增压风机	zeng ya feng ji	1
+增益道	zeng yi dao	1
+增益恢复	zeng yi hui fu	1
+渣油催化裂化	zha you cui hua lie hua	1
+渣滓油泵	zha zi you beng	1
+站间试压	zhan jian shi ya	1
+粘温系数	zhan wen xi shu	1
+障壁岛	zhang bi dao	1
+张力腿平台	zhang li tui ping tai	1
+张量阻抗	zhang liang zu kang	1
+张应力	zhang ying li	1
+照相录制	zhao xiang lu zhi	1
+折叠式井架	zhe die shi jing jia	1
+褶积	zhe ji	1
+折射静校正量	zhe she jing jiao zheng liang	1
+折算油藏压力	zhe suan you cang ya li	1
+震次	zhen ci	1
+诊断检测	zhen duan jian ce	1
+振幅	zhen fu	1
+真接触角	zhen jie chu jiao	1
+针孔	zhen kong	1
+真空泵油	zhen kong beng you	1
+真空除气器	zhen kong chu qi qi	1
+真空封脂	zhen kong feng zhi	1
+真空干燥器	zhen kong gan zao qi	1
+真空消除器	zhen kong xiao chu qi	1
+针入度比	zhen ru du bi	1
+真速度	zhen su du	1
+震源组合	zhen yuan zu he	1
+真振幅保持	zhen zhen fu bao chi	1
+正丙醇	zheng bing chun	1
+正常浪基面	zheng chang lang ji mian	1
+正常时差	zheng chang shi cha	1
+正断层	zheng duan ceng	1
+蒸发塔	zheng fa ta	1
+蒸发岩相	zheng fa yan xiang	1
+正交值	zheng jiao zhi	1
+蒸汽窜槽	zheng qi cuan cao	1
+蒸汽凝结速率	zheng qi ning jie su lv	1
+蒸汽驱	zheng qi qu	1
+正燃法	zheng ran fa	1
+整体式基盘	zheng ti shi ji pan	1
+正洗	zheng xi	1
+正注	zheng zhu	1
+值班船	zhi ban chuan	1
+支撑剂	zhi cheng ji	1
+支承节	zhi cheng jie	1
+制动功率	zhi dong gong lv	1
+直读粘度计	zhi du nian du ji	1
+滞后效应	zhi hou xiao ying	1
+止回阀	zhi hui fa	1
+直接油气显示	zhi jie you qi xian shi	1
+质量流量计	zhi liang liu liang ji	1
+直馏汽油	zhi liu qi you	1
+直升机起落扇形区	zhi sheng ji qi luo shan xing qu	1
+指纹化合物	zhi wen hua he wu	1
+直线传播	zhi xian chuan bo	1
+滞油区	zhi you qu	1
+指重表	zhi zhong biao	1
+指状沙坝	zhi zhuang sha ba	1
+仲丁醇	zhong ding chun	1
+中间基原油	zhong jian ji yuan you	1
+重力单位	zhong li dan wei	1
+重力基点	zhong li ji dian	1
+重力式基础	zhong li shi ji chu	1
+重力梯度	zhong li ti du	1
+重力型试压工具	zhong li xing shi ya gong ju	1
+重砂矿物分析	zhong sha kuang wu fen xi	1
+中心注水	zhong xin zhu shui	1
+中硬地层	zhong ying de ceng	1
+终止剂	zhong zhi ji	1
+重质原油	zhong zhi yuan you	1
+中子寿命测井	zhong zi shou ming ce jing	1
+帚状前积结构	zhou zhuang qian ji jie gou	1
+注采比	zhu cai bi	1
+注采井数比	zhu cai jing shu bi	1
+逐点激发地震剖面法	zhu dian ji fa di zhen pou mian fa	1
+主滚筒	zhu gun tong	1
+主甲板	zhu jia ban	1
+主流线	zhu liu xian	1
+助凝剂	zhu ning ji	1
+注汽采油工艺	zhu qi cai you gong yi	1
+注气模块	zhu qi mo kuai	1
+注气剖面	zhu qi pou mian	1
+注入流体	zhu ru liu ti	1
+注入水缓蚀剂	zhu ru shui huan shi ji	1
+注水保持压力	zhu shui bao chi ya li	1
+注水泵	zhu shui beng	1
+注水方式	zhu shui fang shi	1
+注水巷道	zhu shui hang dao	1
+注水井动态	zhu shui jing dong tai	1
+注水井井距	zhu shui jing jing ju	1
+注水井增注	zhu shui jing zeng zhu	1
+注水压差	zhu shui ya cha	1
+注水周期	zhu shui zhou qi	1
+注蒸汽周期	zhu zheng qi zhou qi	1
+抓管机	zhua guan ji	1
+转换边界	zhuan huan bian jie	1
+转盘主轴承	zhuan pan zhu zhou cheng	1
+转盘最大转速	zhuan pan zui da zhuan su	1
+转向剂	zhuan xiang ji	1
+桩帽	zhuang mao	1
+装卸油泵	zhuang xie you beng	1
+装油量	zhuang you liang	1
+子波整形	zi bo zheng xing	1
+自定中心振动筛	zi ding zhong xin zhen dong shai	1
+自动控制系统	zi dong kong zhi xi tong	1
+自动调压阀	zi dong tiao ya fa	1
+自动增益控制	zi dong zeng yi kong zhi	1
+自给式压力调节阀	zi ji shi ya li tiao jie fa	1
+自流水	zi liu shui	1
+自然测井	zi ran ce jing	1
+自然电位泥岩基线	zi ran dian wei ni yan ji xian	1
+自由液面修正值	zi you ye mian xiu zheng zhi	1
+资源评价系统方法	zi yuan ping jia xi tong fang fa	1
+纵波	zong bo	1
+纵荡	zong dang	1
+综合回声测距与测深	zong he hui sheng ce ju yu ce shen	1
+总和校验	zong he jiao yan	1
+总孔隙度	zong kong xi du	1
+总滤失系数	zong lv shi xi shu	1
+纵倾	zong qing	1
+组分分析	zu fen fen xi	1
+组分模型	zu fen mo xing	1
+组合	zu he	1
+组合测井	zu he ce jing	1
+钻杆测试筛管	zuan gan ce shi shai guan	1
+钻杆吊卡	zuan gan diao ka	1
+钻杆检查	zuan gan jian cha	1
+钻杆校直装置	zuan gan jiao zhi zhuang zhi	1
+钻杆接头	zuan gan jie tou	1
+钻杆接头螺纹	zuan gan jie tou luo wen	1
+钻机拆卸	zuan ji chai xie	1
+钻机驱动机组	zuan ji qu dong ji zu	1
+钻进	zuan jin	1
+钻井泵	zuan jing beng	1
+钻井泵功率	zuan jing beng gong lv	1
+钻井参数传感装置	zuan jing can shu chuan gan zhuang zhi	1
+钻井船监控摄象机	zuan jing chuan jian kong she xiang ji	1
+钻井地震相剖面图	zuan jing di zhen xiang pou mian tu	1
+钻井钢丝绳	zuan jing gang si sheng	1
+钻井工程	zuan jing gong cheng	1
+钻井工程模拟器	zuan jing gong cheng mo ni qi	1
+钻井进尺	zuan jing jin chi	1
+钻井井口装置	zuan jing jing kou zhuang zhi	1
+钻井可控参数	zuan jing ke kong can shu	1
+钻井理论	zuan jing li lun	1
+钻井设计	zuan jing she ji	1
+钻井数据处理	zuan jing shu ju chu li	1
+钻井液处理剂	zuan jing ye chu li ji	1
+钻井液流变性	zuan jing ye liu bian xing	1
+钻井液密度显示器	zuan jing ye mi du xian shi qi	1
+钻井液絮凝剂	zuan jing ye xu ning ji	1
+钻井液增粘剂	zuan jing ye zeng nian ji	1
+钻入生产层	zuan ru sheng chan ceng	1
+钻时录井	zuan shi lu jing	1
+钻速方程	zuan su fang cheng	1
+钻头导向器	zuan tou dao xiang qi	1
+钻头泥包	zuan tou ni bao	1
+钻头泥包卡钻	zuan tou ni bao ka zuan	1
+钻头水功率	zuan tou shui gong lv	1
+钻头特性	zuan tou te xing	1
+钻头体	zuan tou ti	1
+钻屑含量	zuan xie han liang	1
+钻柱防喷阀	zuan zhu fang pen fa	1
+钻柱特性	zuan zhu te xing	1
+最大钩载	zui da gou zai	1
+最大凸度曲线	zui da tu du qu xian	1
+最大钻井深度	zui da zuan jing shen du	1
+最大钻头水功率工作方式	zui da zuan tou shui gong lv gong zuo fang shi	1
+最低混相压力	zui di hun xiang ya li	1
+最小熵反褶积	zui xiao shang fan zhe ji	1
+最优泥浆排量	zui you ni jiang pai liang	1
+坐底式钻井平台	zuo di shi zuan jing ping tai	1
+作业吃水	zuo ye chi shui	1
+作业条件	zuo ye tiao jian	1
+暗点	an dian	1
+安全卡瓦	an quan ka wa	1
+安全泄压阀	an quan xie ya fa	1
+岸台网络	an tai wang luo	1
+胺型表面活性剂	an xing biao mian huo xing ji	1
+氨氧化催化剂	an yang hua cui hua ji	1
+奥利烷	ao li wan	1
+凹陷	ao xian	1
+百米桩	bai mi zhuang	1
+白土精制	bai tu jing zhi	1
+白云岩	bai yun yan	1
+半合成沸石裂化催化剂	ban he cheng fei shi lie hua cui hua ji	1
+板块构造学	ban kuai gou zao xue	1
+半潜式多用工作船	ban qian shi duo yong gong zuo chuan	1
+伴热输送	ban re shu song	1
+半乳甘露聚糖	ban ru gan lu ju tang	1
+半深海相	ban shen hai xiang	1
+板式换热器	ban shi huan re qi	1
+薄层调谐	bao ceng tiao xie	1
+报废井	bao fei jing	1
+饱和度指数	bao he du zhi shu	1
+饱和凝析油	bao he ning xi you	1
+饱和潜水系统	bao he qian shui xi tong	1
+饱和压力	bao he ya li	1
+保径钻头	bao jing zuan tou	1
+爆炸机	bao zha ji	1
+爆炸灭火法	bao zha mie huo fa	1
+爆炸松扣	bao zha song kou	1
+背斜理论	bei xie li lun	1
+苯胺点	ben an dian	1
+苯加氢	ben jia qing	1
+苯与乙烯烷基化	ben yu yi xi wan ji hua	1
+泵冲速	beng chong su	1
+泵后加砂装置	beng hou jia sha zhuang zhi	1
+泵理论排量	beng li lun pai liang	1
+泵送性	beng song xing	1
+闭合方位	bi he fang wei	1
+闭合面	bi he mian	1
+壁厚千分卡	bi hou qian fen ka	1
+变动水位式	bian dong shui wei shi	1
+变换	bian huan	1
+扁平电缆	bian ping dian lan	1
+边水	bian shui	1
+变向器	bian xiang qi	1
+边缘海	bian yuan hai	1
+表层多次波	biao ceng duo ci bo	1
+表层速度异常	biao ceng su du yi chang	1
+标定罐	biao ding guan	1
+表观粘度	biao guan nian du	1
+表面活性剂体系	biao mian huo xing ji ti xi	1
+表面活性剂型防蜡剂	biao mian huo xing ji xing fang la ji	1
+宾厄姆流体	bin e mu liu ti	1
+丙二醇	bing er chun	1
+并联管网	bing lian guan wang	1
+丙烷脱沥青	bing wan tuo li qing	1
+丙烯氨解氧化流化床反应器	bing xi an jie yang hua liu hua chuang fan ying qi	1
+丙烯醇	bing xi chun	1
+丙烯腈苯乙烯树脂	bing xi jing ben yi xi shu zhi	1
+丙烯歧化	bing xi qi hua	1
+丙烯气相法聚合	bing xi qi xiang fa ju he	1
+丙烯水合	bing xi shui he	1
+丙烯酸酯化	bing xi suan zhi hua	1
+丙烯酰胺	bing xi xian an	1
+薄互层	bo hu ceng	1
+波浪流	bo lang liu	1
+波前法	bo qian fa	1
+博斯蒂克反演	bo si di ke fan yan	1
+波纹塔板	bo wen ta ban	1
+波形曲线显示	bo xing qu xian xian shi	1
+步长	bu chang	1
+补偿地层密度测井	bu chang di ceng mi du ce jing	1
+不极化电极	bu ji hua dian ji	1
+捕液器	bu ye qi	1
+不整合	bu zheng he	1
+采出程度	cai chu cheng du	1
+彩色显示	cai se xian shi	1
+采样保持单元	cai yang bao chi dan yuan	1
+采样率	cai yang lv	1
+采油强度	cai you qiang du	1
+采油曲线	cai you qu xian	1
+采油树导向喇叭口	cai you shu dao xiang la ba kou	1
+采油速率	cai you su lv	1
+参比电极	can bi dian ji	1
+参数集总	can shu ji zong	1
+参数井	can shu jing	1
+舱底水泵	cang di shui beng	1
+舱底污水井	cang di wu shui jing	1
+操作控制系统	cao zuo kong zhi xi tong	1
+侧反射	ce fan she	1
+测罐内油高	ce guan nei you gao	1
+测井技术	ce jing ji shu	1
+测井数据处理	ce jing shu ju chu li	1
+测井速度	ce jing su du	1
+测井响应方程	ce jing xiang ying fang cheng	1
+测量深度	ce liang shen du	1
+测深管	ce shen guan	1
+测试阀	ce shi fa	1
+测线偏离效应	ce xian pian li xiao ying	1
+侧向泄油井	ce xiang xie you jing	1
+侧向运移	ce xiang yun yi	1
+测压面	ce ya mian	1
+侧压系数	ce ya xi shu	1
+层间窜流	ceng jian cuan liu	1
+层间多次波	ceng jian duo ci bo	1
+层内干扰	ceng nei gan rao	1
+层内运移	ceng nei yun yi	1
+层替换	ceng ti huan	1
+层析地震成象	ceng xi di zhen cheng xiang	1
+层状介质	ceng zhuang jie zhi	1
+层状油气藏	ceng zhuang you qi cang	1
+插入式注水泥接箍	cha ru shi zhu shui ni jie gu	1
+差压控制阀	cha ya kong zhi fa	1
+差异分离	cha yi fen li	1
+柴油过滤净化装置	chai you guo lv jing hua zhuang zhi	1
+产量指数递减	chan liang zhi shu di jian	1
+常规岩心分析	chang gui yan xin fen xi	1
+长筒取心	chang tong qu xin	1
+常压舱	chang ya cang	1
+常压重馏分油	chang ya zhong liu fen you	1
+超层序	chao ceng xu	1
+潮差	chao cha	1
+超长电极距测井	chao chang dian ji ju ce jing	1
+超低密度聚乙烯	chao di mi du ju yi xi	1
+超短曲率半径水平井	chao duan qu lv ban jing shui ping jing	1
+超高压变压器油	chao gao ya bian ya qi you	1
+超宽组合	chao kuan zu he	1
+超毛细管空隙	chao mao xi guan kong xi	1
+潮上带	chao shang dai	1
+超声波成象仪	chao sheng bo cheng xiang yi	1
+超压保护	chao ya bao hu	1
+超越离合器	chao yue li he qi	1
+车辆齿轮油	che liang chi lun you	1
+车用汽油	che yong qi you	1
+车装式钻机	che zhuang shi zuan ji	1
+沉垫	chen dian	1
+沉积环境	chen ji huan jing	1
+沉积物和底水	chen ji wu he di shui	1
+沉积岩	chen ji yan	1
+沉降罐	chen jiang guan	1
+成膜型缓蚀剂	cheng mo xing huan shi ji	1
+成熟作用	cheng shu zuo yong	1
+程序液压控制系统	cheng xu ye ya kong zhi xi tong	1
+承压区	cheng ya qu	1
+承压水头	cheng ya shui tou	1
+成岩裂缝	cheng yan lie feng	1
+齿轮传动钻机	chi lun chuan dong zuan ji	1
+齿轮试验机	chi lun shi yan ji	1
+吃水标尺	chi shui biao chi	1
+赤铁矿	chi tie kuang	1
+重叠法	chong die fa	1
+冲激响应	chong ji xiang ying	1
+充气差异电池	chong qi cha yi dian chi	1
+冲砂	chong sha	1
+充填工具	chong tian gong ju	1
+充油丁苯橡胶	chong you ding ben xiang jiao	1
+冲桩	chong zhuang	1
+冲桩管线	chong zhuang guan xian	1
+稠化水驱	chou hua shui qu	1
+稠化水压裂液	chou hua shui ya lie ye	1
+稠化酸	chou hua suan	1
+抽油杆接箍	chou you gan jie gu	1
+抽油杆钳	chou you gan qian	1
+抽油杆悬挂器	chou you gan xuan gua qi	1
+抽油机平衡方式	chou you ji ping heng fang shi	1
+抽油机效率	chou you ji xiao lv	1
+抽油机最大扭矩	chou you ji zui da niu ju	1
+抽油井诊断技术	chou you jing zhen duan ji shu	1
+稠油开采蒸汽发生器	chou you kai cai zheng qi fa sheng qi	1
+触变性流体	chu bian xing liu ti	1
+储层地质学	chu ceng di zhi xue	1
+除钙剂	chu gai ji	1
+除垢剂	chu gou ji	1
+储罐	chu guan	1
+储集岩	chu ji yan	1
+储气罐	chu qi guan	1
+储气库	chu qi ku	1
+除砂	chu sha	1
+出砂层	chu sha ceng	1
+储油罐	chu you guan	1
+出油管导向喇叭口	chu you guan dao xiang la ba kou	1
+储油平台	chu you ping tai	1
+传播效应	chuan bo xiao ying	1
+传热介质油装载泵	chuan re jie zhi you zhuang zai beng	1
+船生噪声	chuan sheng zao sheng	1
+船首绞车	chuan shou jiao che	1
+船用柴油机油	chuan yong chai you ji you	1
+垂直磁力仪	chui zhi ci li yi	1
+垂直叠加	chui zhi die jia	1
+磁暴	ci bao	1
+磁法勘探	ci fa kan tan	1
+磁方位	ci fang wei	1
+磁鼓	ci gu	1
+磁化干扰	ci hua gan rao	1
+磁记录器	ci ji lu qi	1
+磁力低	ci li di	1
+磁力分离器	ci li fen li qi	1
+磁倾角	ci qing jiao	1
+次生孔隙度	ci sheng kong xi du	1
+磁势	ci shi	1
+次石墨	ci shi mo	1
+磁通量	ci tong liang	1
+磁性柱塞抽油泵	ci xing zhu sai chou you beng	1
+丛式井口	cong shi jing kou	1
+促进剂	cu jin ji	1
+催化重整	cui hua chong zheng	1
+催化裂化	cui hua lie hua	1
+脆化温度	cui hua wen du	1
+催化蒸馏	cui hua zheng liu	1
+脆性岩石	cui xing yan shi	1
+存水率	cun shui lv	1
+大地电磁法	da di dian ci fa	1
+大地滤波	da di lv bo	1
+大钩	da gou	1
+打捞工具	da lao gong ju	1
+打捞震击器	da lao zhen ji qi	1
+打捞钻柱	da lao zuan zhu	1
+大陆漂移	da lu piao yi	1
+大钳	da qian	1
+大水量灭火系统	da shui liang mie huo xi tong	1
+打桩船	da zhuang chuan	1
+带式刹车	dai shi sha che	1
+单程距离	dan cheng ju li	1
+单齿额定升降能力	dan chi e ding sheng jiang neng li	1
+单储系数	dan chu xi shu	1
+单点系泊	dan dian xi bo	1
+单井控制储量	dan jing kong zhi chu liang	1
+单井设计	dan jing she ji	1
+单井卫星采油树	dan jing wei xing cai you shu	1
+单舌法撕破强力试验方法	dan she fa si po qiang li shi yan fang fa	1
+淡水钻井液	dan shui zuan jing ye	1
+单斜	dan xie	1
+单元环涡流	dan yuan huan wo liu	1
+单元码	dan yuan ma	1
+单轴绞车	dan zhou jiao che	1
+当量循环密度	dang liang xun huan mi du	1
+挡土墙	dang tu qiang	1
+导管架吊耳	dao guan jia diao er	1
+导管架固定	dao guan jia gu ding	1
+导管架下水	dao guan jia xia shui	1
+导轨油	dao gui you	1
+导缆器	dao lan qi	1
+导向误差	dao xiang wu cha	1
+导向钻头	dao xiang zuan tou	1
+倒装钻具	dao zhuang zuan ju	1
+等浮电缆故障寻找器	deng fu dian lan gu zhang xun zhao qi	1
+等浮电缆图象	deng fu dian lan tu xiang	1
+等渗透率图	deng shen tou lv tu	1
+等效烷烃碳数	deng xiao wan ting tan shu	1
+灯用煤油	deng yong mei you	1
+地层反褶积	di ceng fan zhe ji	1
+地层焦化固砂	di ceng jiao hua gu sha	1
+地层流体压力	di ceng liu ti ya li	1
+地层倾角测井	di ceng qing jiao ce jing	1
+地层视电阻率	di ceng shi dian zu lv	1
+地层水电阻率	di ceng shui dian zu lv	1
+地层微电阻扫描测井	di ceng wei dian zu sao miao ce jing	1
+地层油气藏	di ceng you qi cang	1
+底超	di chao	1
+地磁场	di ci chang	1
+地电剖面	di dian pou mian	1
+低分子烃	di fen zi ting	1
+地基残留冻土层	di ji can liu dong tu ceng	1
+递减系数	di jian xi shu	1
+低截滤波器	di jie lv bo qi	1
+迪克斯公式	di ke si gong shi	1
+地块	di kuai	1
+地垒	di lei	1
+地裂运动	di lie yun dong	1
+滴流床反应器	di liu chuang fan ying qi	1
+地幔隆起	di man long qi	1
+地面示功图	di mian shi gong tu	1
+底漆	di qi	1
+地壳均衡说	di qiao jun heng shuo	1
+地球物理测井学	di qiu wu li ce jing xue	1
+地球资源技术卫星	di qiu zi yuan ji shu wei xing	1
+底水驱动	di shui qu dong	1
+低水位体系域	di shui wei ti xi yu	1
+底水锥进	di shui zhui jin	1
+低通滤波器	di tong lv bo qi	1
+低通现象	di tong xian xiang	1
+底图	di tu	1
+地下聚焦效应	di xia ju jiao xiao ying	1
+低压报警器	di ya bao jing qi	1
+低压火炬	di ya huo ju	1
+低压凝析油罐	di ya ning xi you guan	1
+低压气净化器	di ya qi jing hua qi	1
+低造浆粘土	di zao jiang nian tu	1
+地震测深	di zhen ce shen	1
+地震记录仪	di zhen ji lu yi	1
+地震相分析	di zhen xiang fen xi	1
+地震钻机	di zhen zuan ji	1
+地质录井	di zhi lu jing	1
+地质模型	di zhi mo xing	1
+地质剖面	di zhi pou mian	1
+滴状油罐	di zhuang you guan	1
+电磁测厚仪	dian ci ce hou yi	1
+电磁刹车	dian ci sha che	1
+电磁振动筛	dian ci zhen dong shai	1
+电动绞盘	dian dong jiao pan	1
+电法勘探	dian fa kan tan	1
+电弧钻井	dian hu zuan jing	1
+电化学保护	dian hua xue bao hu	1
+电化学腐蚀	dian hua xue fu shi	1
+电极排列	dian ji pai lie	1
+电解法防海生物污着系统	dian jie fa fang hai sheng wu wu zhuo xi tong	1
+电缆测井服务	dian lan ce jing fu wu	1
+电缆头	dian lan tou	1
+电离层干扰	dian li ceng gan rao	1
+电潜单螺杆泵	dian qian dan luo gan beng	1
+电潜离心泵机组	dian qian li xin beng ji zu	1
+电热清蜡	dian re qing la	1
+电阻率测井	dian zu lv ce jing	1
+掉格	diao ge	1
+吊卡	diao ka	1
+叠加速度	die jia su du	1
+叠前偏移	die qian pian yi	1
+叠瓦状结构	die wa zhuang jie gou	1
+顶部压井法	ding bu ya jing fa	1
+丁二烯苯乙烯嵌段共聚	ding er xi ben yi xi qian duan gong ju	1
+丁腈橡胶	ding jing xiang jiao	1
+定期检验	ding qi jian yan	1
+丁烷脱氢	ding wan tuo qing	1
+丁烯氧化	ding xi yang hua	1
+定向井	ding xiang jing	1
+定向药包	ding xiang yao bao	1
+定向钻井	ding xiang zuan jing	1
+冻胶型调剖剂	dong jiao xing tiao pou ji	1
+动力定位半潜式钻井船	dong li ding wei ban qian shi zuan jing chuan	1
+动力定位模拟控制器	dong li ding wei mo ni kong zhi qi	1
+动力机冷却系统	dong li ji leng que xi tong	1
+动力软管卷盘	dong li ruan guan juan pan	1
+动力仪	dong li yi	1
+动滤失量	dong lv shi liang	1
+动态裂缝尺寸	dong tai lie feng chi cun	1
+动稳性力臂	dong wen xing li bi	1
+动用储量	dong yong chu liang	1
+读卡仪	du ka yi	1
+堵漏垫	du lou dian	1
+短抽油杆	duan chou you gan	1
+短电位	duan dian wei	1
+段塞流	duan sai liu	1
+短弯钻铤	duan wan zuan ting	1
+短涡轮钻具	duan wo lun zuan ju	1
+短源距	duan yuan ju	1
+对苯二甲酸二甲酯	dui ben er jia suan er jia zhi	1
+对比曲线	dui bi qu xian	1
+对比温度	dui bi wen du	1
+对比折射法	dui bi zhe she fa	1
+堆放台	dui fang tai	1
+对口	dui kou	1
+对数比例	dui shu bi li	1
+多触点套管井径仪	duo chu dian tao guan jing jing yi	1
+多道滤波器	duo dao lv bo qi	1
+多级抽油杆柱	duo ji chou you gan zhu	1
+多井分析	duo jing fen xi	1
+多孔隔板法	duo kong ge ban fa	1
+多流量试井	duo liu liang shi jing	1
+多路解编	duo lu jie bian	1
+多相流	duo xiang liu	1
+多效润滑脂	duo xiao run hua zhi	1
+多效添加剂	duo xiao tian jia ji	1
+多用户作业	duo yong hu zuo ye	1
+厄特沃什效应	e te wo shi xiao ying	1
+二层台高度	er ceng tai gao du	1
+二次场电位差	er ci chang dian wei cha	1
+二次生油	er ci sheng you	1
+二维地震	er wei di zhen	1
+二维两相渗流	er wei liang xiang shen liu	1
+二氧化碳驱	er yang hua tan qu	1
+二乙二醇	er yi er chun	1
+发泡剂	fa pao ji	1
+阀体	fa ti	1
+法向入射	fa xiang ru she	1
+阀座拉拔器	fa zuo la ba qi	1
+钒钝化剂	fan dun hua ji	1
+钒镍比	fan nie bi	1
+反射率	fan she lv	1
+反射强度	fan she qiang du	1
+反投影	fan tou ying	1
+反循环	fan xun huan	1
+反循环打捞篮	fan xun huan da lao lan	1
+反演	fan yan	1
+反应器	fan ying qi	1
+反褶积	fan zhe ji	1
+翻转法抢装井口	fan zhuan fa qiang zhuang jing kou	1
+反转凝析现象	fan zhuan ning xi xian xiang	1
+防爆设备	fang bao she bei	1
+防毒面具	fang du mian ju	1
+防风墙	fang feng qiang	1
+防腐层抗流淌温度	fang fu ceng kang liu tang wen du	1
+防火堤	fang huo di	1
+防焦剂	fang jiao ji	1
+防老剂	fang lao ji	1
+防磨接头	fang mo jie tou	1
+防喷器控制系统	fang pen qi kong zhi xi tong	1
+防喷器通径	fang pen qi tong jing	1
+防喷器组	fang pen qi zu	1
+防砂砾石	fang sha li shi	1
+芳烃抽提	fang ting chou ti	1
+方位校正	fang wei jiao zheng	1
+方位控制	fang wei kong zhi	1
+防雾剂	fang wu ji	1
+方向渗透率	fang xiang shen tou lv	1
+方向特性图	fang xiang te xing tu	1
+防锈添加剂	fang xiu tian jia ji	1
+防淤渣剂	fang yu zha ji	1
+方钻杆旋扣器	fang zuan gan xuan kou qi	1
+方钻铤	fang zuan ting	1
+非常规油气资源	fei chang gui you qi zi yuan	1
+非达西渗流	fei da xi shen liu	1
+非混相驱替	fei hun xiang qu ti	1
+非活塞式驱替	fei huo sai shi qu ti	1
+非离子型表面活性剂	fei li zi xing biao mian huo xing ji	1
+分辨率	fen bian lv	1
+分馏	fen liu	1
+分流方程	fen liu fang cheng	1
+分流器	fen liu qi	1
+粪甾烷	fen zai wan	1
+封堵器	feng du qi	1
+封隔液	feng ge ye	1
+风险系数	feng xian xi shu	1
+副标准燃料	fu biao zhun ran liao	1
+浮顶升降试验	fu ding sheng jiang shi yan	1
+覆盖百分比	fu gai bai fen bi	1
+覆盖层	fu gai ceng	1
+负荷磨损指数	fu he mo sun zhi shu	1
+复合平衡抽油机	fu he ping heng chou you ji	1
+腐煤型天然气	fu mei xing tian ran qi	1
+腐泥化作用	fu ni hua zuo yong	1
+辐射力	fu she li	1
+辐射炉	fu she lu	1
+浮式储油装置	fu shi chu you zhuang zhi	1
+腐蚀深度	fu shi shen du	1
+复式涡轮钻具	fu shi wo lun zuan ju	1
+浮筒	fu tong	1
+复位开关	fu wei kai guan	1
+负压闪蒸	fu ya shan zheng	1
+负异常	fu yi chang	1
+复杂岩性	fu za yan xing	1
+腐殖型裂解气	fu zhi xing lie jie qi	1
+钙基润滑脂	gai ji run hua zhi	1
+钙膨润土	gai peng run tu	1
+干点	gan dian	1
+干粉灭火器	gan fen mie huo qi	1
+干酪根	gan lao gen	1
+干酪根降解论	gan lao gen jiang jie lun	1
+干酪根降解数学模拟法	gan lao gen jiang jie shu xue mo ni fa	1
+干喷射	gan pen she	1
+干扰测试	gan rao ce shi	1
+干扰沉降	gan rao chen jiang	1
+干式采油树	gan shi cai you shu	1
+干式自动喷洒灭火系统	gan shi zi dong pen sa mie huo xi tong	1
+干燥剂	gan zao ji	1
+杆状图	gan zhuang tu	1
+钢丝绳防喷器	gang si sheng fang pen qi	1
+钢丝绳直径	gang si sheng zhi jing	1
+高氮沥青	gao dan li qing	1
+高含水油层	gao han shui you ceng	1
+高级地球资源观测系统	gao ji di qiu zi yuan guan ce xi tong	1
+高速层	gao su ceng	1
+高碳青质	gao tan qing zhi	1
+高碳脂肪胺	gao tan zhi fang an	1
+高碳脂肪烃	gao tan zhi fang ting	1
+高温起泡剂	gao wen qi pao ji	1
+高温润滑脂	gao wen run hua zhi	1
+高辛烷值汽油	gao xin wan zhi qi you	1
+高压报警器	gao ya bao jing qi	1
+高压火炬	gao ya huo ju	1
+高压气分液器	gao ya qi fen ye qi	1
+高钻井液钻井液	gao zuan jing ye zuan jing ye	1
+隔离液	ge li ye	1
+隔热层	ge re ceng	1
+隔热管柱	ge re guan zhu	1
+割铣解卡法	ge xi jie ka fa	1
+各向异性系数	ge xiang yi xing xi shu	1
+根部焊道	gen bu han dao	1
+庚烷值	geng wan zhi	1
+工程地质船	gong cheng di zhi chuan	1
+共存水饱和度	gong cun shui bao he du	1
+拱顶油罐	gong ding you guan	1
+共反射点道集	gong fan she dian dao ji	1
+工具面方位	gong ju mian fang wei	1
+功能选单	gong neng xuan dan	1
+供氢裂化	gong qing lie hua	1
+工业凡士林	gong ye fan shi lin	1
+公锥	gong zhui	1
+工作段	gong zuo duan	1
+工作梯	gong zuo ti	1
+沟边组装	gou bian zu zhuang	1
+构造类型	gou zao lei xing	1
+构造旋回	gou zao xuan hui	1
+构造作用	gou zao zuo yong	1
+构造作用力	gou zao zuo yong li	1
+古地磁地层学	gu di ci di ceng xue	1
+固定床反应器	gu ding chuang fan ying qi	1
+固井设备舱	gu jing she bei cang	1
+固控指数	gu kong zhi shu	1
+固砂技术	gu sha ji shu	1
+固砂树脂	gu sha shu zhi	1
+古生物鉴定	gu sheng wu jian ding	1
+固体潮	gu ti chao	1
+固相侵入	gu xiang qin ru	1
+古植物鉴定	gu zhi wu jian ding	1
+刮蜡片	gua la pian	1
+刮蜡器	gua la qi	1
+观测系统	guan ce xi tong	1
+观测现场	guan ce xian chang	1
+管道穿越	guan dao chuan yue	1
+管道定位器	guan dao ding wei qi	1
+管道结蜡	guan dao jie la	1
+管道通过权	guan dao tong guo quan	1
+管拱	guan gong	1
+关井钻杆压力	guan jing zuan gan ya li	1
+管路纵断面图	guan lu zong duan mian tu	1
+管式泵	guan shi beng	1
+管网	guan wang	1
+贯眼完井	guan yan wan jing	1
+灌油栓	guan you shuan	1
+管柱	guan zhu	1
+光纤等浮电缆	guang xian deng fu dian lan	1
+广义互换法	guang yi hu huan fa	1
+硅油	gui you	1
+滚轮方补心	gun lun fang bu xin	1
+滚筒高速离合器	gun tong gao su li he qi	1
+滚筒轴	gun tong zhou	1
+过渡带	guo du dai	1
+过渡带地震勘探	guo du dai di zhen kan tan	1
+过渡流	guo du liu	1
+过油管射孔	guo you guan she kong	1
+海沟	hai gou	1
+海面浮油分散剂	hai mian fu you fen san ji	1
+海上测井拖撬	hai shang ce jing tuo qiao	1
+海上地球物理勘探	hai shang di qiu wu li kan tan	1
+海上结构	hai shang jie gou	1
+海上生产测试设备	hai shang sheng chan ce shi she bei	1
+海上生产系统	hai shang sheng chan xi tong	1
+海上油气勘探	hai shang you qi kan tan	1
+海水泥浆	hai shui ni jiang	1
+海水提升泵	hai shui ti sheng beng	1
+海水脱盐装置	hai shui tuo yan zhuang zhi	1
+海洋测井拖撬	hai yang ce jing tuo qiao	1
+海洋石油技术	hai yang shi you ji shu	1
+海洋重力仪	hai yang zhong li yi	1
+含氮化合物	han dan hua he wu	1
+含气边界	han qi bian jie	1
+含气面积	han qi mian ji	1
+含氢指数	han qing zhi shu	1
+含水率仪	han shui lv yi	1
+含油气大区	han you qi da qu	1
+含油污水舱	han you wu shui cang	1
+含油污水处理设施	han you wu shui chu li she shi	1
+航空液压油	hang kong ye ya you	1
+航空重力测量	hang kong zhong li ce liang	1
+行列注水	hang lie zhu shui	1
+毫秒炉	hao miao lu	1
+核爆炸压裂	he bao zha ya lie	1
+合成表面活性剂	he cheng biao mian huo xing ji	1
+合成聚合物	he cheng ju he wu	1
+合成气	he cheng qi	1
+合成橡胶	he cheng xiang jiao	1
+合成液压液	he cheng ye ya ye	1
+核磁测井	he ci ce jing	1
+核磁共振技术	he ci gong zhen ji shu	1
+合注井	he zhu jing	1
+核子旋进磁力仪	he zi xuan jin ci li yi	1
+黑白图象	hei bai tu xiang	1
+恒流量控制阀	heng liu liang kong zhi fa	1
+横向预测	heng xiang yu ce	1
+红外吸收光谱法	hong wai xi shou guang pu fa	1
+虹吸测斜仪	hong xi ce xie yi	1
+喉道	hou dao	1
+后绘图	hou hui tu	1
+后冷器	hou leng qi	1
+湖底扇	hu di shan	1
+护航船	hu hang chuan	1
+互换位置法	hu huan wei zhi fa	1
+互换原理	hu huan yuan li	1
+弧间盆地	hu jian pen di	1
+湖泊相	hu po xiang	1
+互溶剂	hu rong ji	1
+互溶性	hu rong xing	1
+滑塌相	hua ta xiang	1
+滑套取样器	hua tao qu yang qi	1
+滑脱	hua tuo	1
+滑脱效应	hua tuo xiao ying	1
+化学堵水	hua xue du shui	1
+化学剂注入组块	hua xue ji zhu ru zu kuai	1
+化学清蜡	hua xue qing la	1
+化学示踪剂	hua xue shi zong ji	1
+化学脱盐	hua xue tuo yan	1
+缓冲接头	huan chong jie tou	1
+环带侵入剖面	huan dai qin ru pou mian	1
+环己酮	huan ji tong	1
+环空压力	huan kong ya li	1
+环空闸板	huan kong zha ban	1
+缓慢沉积剖面	huan man chen ji pou mian	1
+缓凝	huan ning	1
+缓凝剂	huan ning ji	1
+环烷烃指数	huan wan ting zhi shu	1
+环线法	huan xian fa	1
+环氧乙烷氨化	huan yang yi wan an hua	1
+还原硫	huan yuan liu	1
+环晕效应	huan yun xiao ying	1
+环状注水	huan zhuang zhu shui	1
+磺化钛氰钴脱硫醇	huang hua tai qing gu tuo liu chun	1
+磺甲基酚醛树脂	huang jia ji fen quan shu zhi	1
+磺酸盐型表面活性剂	huang suan yan xing biao mian huo xing ji	1
+汇点反映法	hui dian fan ying fa	1
+灰度	hui du	1
+回复力矩	hui fu li ju	1
+恢复循环	hui fu xun huan	1
+辉光值	hui guang zhi	1
+回接工具	hui jie gong ju	1
+回接工具外套筒	hui jie gong ju wai tao tong	1
+灰量调节阀	hui liang tiao jie fa	1
+回流冷凝器	hui liu leng ning qi	1
+回填	hui tian	1
+混合泵	hun he beng	1
+混合器	hun he qi	1
+混合润湿性	hun he run shi xing	1
+混凝土加重层	hun ning tu jia zhong ceng	1
+混凝土平台	hun ning tu ping tai	1
+混相驱	hun xiang qu	1
+混油界面	hun you jie mian	1
+混油乳化钻井液	hun you ru hua zuan jing ye	1
+活动基础	huo dong ji chu	1
+活化液	huo hua ye	1
+活塞超行程	huo sai chao xing cheng	1
+活塞式保护器	huo sai shi bao hu qi	1
+火山丘地震相	huo shan qiu di zhen xiang	1
+火烧罐	huo shao guan	1
+极板型下井仪	ji ban xing xia jing yi	1
+系泊导管架	ji bo dao guan jia	1
+系泊缆绳	ji bo lan sheng	1
+挤出成型法	ji chu cheng xing fa	1
+挤出机	ji chu ji	1
+激动井	ji dong jing	1
+激发极化	ji fa ji hua	1
+极化处理	ji hua chu li	1
+计量分离器关断盘	ji liang fen li qi guan duan pan	1
+己内酰胺	ji nei xian an	1
+奇偶校验	ji ou jiao yan	1
+基盘调平工具	ji pan tiao ping gong ju	1
+集气站	ji qi zhan	1
+挤水泥	ji shui ni	1
+挤水泥封隔器	ji shui ni feng ge qi	1
+计算长度	ji suan chang du	1
+计算机化动力仪	ji suan ji hua dong li yi	1
+己烯	ji xi	1
+极限产量	ji xian chan liang	1
+极限含水率	ji xian han shui lv	1
+基线校正	ji xian jiao zheng	1
+机械传动	ji xie chuan dong	1
+机械堵水	ji xie du shui	1
+机械加压割断岩心	ji xie jia ya ge duan yan xin	1
+机械油	ji xie you	1
+机械钻速	ji xie zuan su	1
+极性逆转	ji xing ni zhuan	1
+挤压背斜油气藏	ji ya bei xie you qi cang	1
+挤压聚乙烯防腐层	ji ya ju yi xi fang fu ceng	1
+基岩油气藏	ji yan you qi cang	1
+记忆分量	ji yi fen liang	1
+激振器	ji zhen qi	1
+集中处理站	ji zhong chu li zhan	1
+甲苯	jia ben	1
+甲苯氧化	jia ben yang hua	1
+加长喷嘴钻头	jia chang pen zui zuan tou	1
+甲醇氨脱水	jia chun an tuo shui	1
+甲基叔丁基醚	jia ji shu ding ji mi	1
+甲基异丁基酮	jia ji yi ding ji tong	1
+甲基异丁基酮蜡脱油	jia ji yi ding ji tong la tuo you	1
+加密井	jia mi jing	1
+加强筋	jia qiang jin	1
+加氢补充精制	jia qing bu chong jing zhi	1
+加氢裂化催化剂	jia qing lie hua cui hua ji	1
+加氢脱烷基催化剂	jia qing tuo wan ji cui hua ji	1
+甲醛	jia quan	1
+甲醛和乙醛醛醇缩合	jia quan he yi quan quan chun suo he	1
+加热盘管	jia re pan guan	1
+加热输送	jia re shu song	1
+加速老化试验	jia su lao hua shi yan	1
+甲乙酮脱蜡	jia yi tong tuo la	1
+间苯二酚	jian ben er fen	1
+检查片	jian cha pian	1
+检查样片	jian cha yang pian	1
+间二甲苯	jian er jia ben	1
+间二甲苯裂趸	jian er jia ben lie dun	1
+间隔基盘	jian ge ji pan	1
+间接解释标志	jian jie jie shi biao zhi	1
+监控和数据采集系统	jian kong he shu ju cai ji xi tong	1
+检流计	jian liu ji	1
+检流计系统	jian liu ji xi tong	1
+碱木质素	jian mu zhi su	1
+建设性三角洲	jian she xing san jiao zhou	1
+监视记录	jian shi ji lu	1
+碱洗	jian xi	1
+碱洗塔	jian xi ta	1
+间歇抽油	jian xie chou you	1
+间歇气举	jian xie qi ju	1
+间歇注水	jian xie zhu shui	1
+间歇自喷	jian xie zi pen	1
+减压馏程	jian ya liu cheng	1
+减压渣油	jian ya zha you	1
+减粘裂化	jian zhan lie hua	1
+碱值	jian zhi	1
+降频扫描	jiang pin sao miao	1
+桨式搅拌器	jiang shi jiao ban qi	1
+降斜	jiang xie	1
+浆液反应器	jiang ye fan ying qi	1
+降甾烷	jiang zai wan	1
+绞车	jiao che	1
+绞车猫头	jiao che mao tou	1
+交代作用	jiao dai zuo yong	1
+校后时距曲线	jiao hou shi ju qu xian	1
+交会图技术	jiao hui tu ji shu	1
+胶结指数	jiao jie zhi shu	1
+铰接柱	jiao jie zhu	1
+胶结作用	jiao jie zuo yong	1
+角砾岩	jiao li yan	1
+交联	jiao lian	1
+交流电法	jiao liu dian fa	1
+交流腐蚀	jiao liu fu shi	1
+交流干扰	jiao liu gan rao	1
+角鲨烷	jiao sha wan	1
+胶体安定性	jiao ti an ding xing	1
+胶质	jiao zhi	1
+校直试验	jiao zhi shi yan	1
+接触胶结	jie chu jiao jie	1
+接触角滞后	jie chu jiao zhi hou	1
+阶地	jie di	1
+接地垫	jie di dian	1
+节点系统分析	jie dian xi tong fen xi	1
+介杆	jie gan	1
+解卡浸泡液	jie ka jin pao ye	1
+节流压力	jie liu ya li	1
+节流致冷	jie liu zhi leng	1
+接收点	jie shou dian	1
+接收机动态范围	jie shou ji dong tai fan wei	1
+近场	jin chang	1
+近程定位系统	jin cheng ding wei xi tong	1
+紧密距	jin mi ju	1
+浸蚀	jin shi	1
+金属钝化剂	jin shu dun hua ji	1
+井壁取心	jing bi qu xin	1
+井壁污染	jing bi wu ran	1
+井底定向接头	jing di ding xiang jie tou	1
+静电积累	jing dian ji lei	1
+净化	jing hua	1
+净化水缓冲罐	jing hua shui huan chong guan	1
+井架	jing jia	1
+井架安装车	jing jia an zhuang che	1
+井架公称高度	jing jia gong cheng gao du	1
+井架下底尺寸	jing jia xia di chi cun	1
+晶间腐蚀	jing jian fu shi	1
+井间示踪剂测试	jing jian shi zong ji ce shi	1
+静校正量	jing jiao zheng liang	1
+井控模拟器	jing kong mo ni qi	1
+井口连接器	jing kou lian jie qi	1
+井口帽	jing kou mao	1
+井口模块	jing kou mo kuai	1
+井口时间校正	jing kou shi jian jiao zheng	1
+净气	jing qi	1
+精确定层	jing que ding ceng	1
+静水压力	jing shui ya li	1
+井网密度	jing wang mi du	1
+井位	jing wei	1
+井位标	jing wei biao	1
+井下安全阀	jing xia an quan fa	1
+井下测量	jing xia ce liang	1
+井下磁力仪	jing xia ci li yi	1
+井下电子压力计	jing xia dian zi ya li ji	1
+井下流量计	jing xia liu liang ji	1
+井下配产器	jing xia pei chan qi	1
+井下配水嘴	jing xia pei shui zui	1
+井下声波电视测井	jing xia sheng bo dian shi ce jing	1
+井下轴流涡轮泵	jing xia zhou liu wo lun beng	1
+径向微差井温测井	jing xiang wei cha jing wen ce jing	1
+井斜测量	jing xie ce liang	1
+井斜平面图	jing xie ping mian tu	1
+静压梯度	jing ya ti du	1
+井眼	jing yan	1
+井眼条件	jing yan tiao jian	1
+镜质组反射率	jing zhi zu fan she lv	1
+镜质组反射率测定	jing zhi zu fan she lv ce ding	1
+井组动态分析	jing zu dong tai fen xi	1
+救生艇	jiu sheng ting	1
+救生艇登乘处	jiu sheng ting deng cheng chu	1
+聚丙烯酸酯	ju bing xi suan zhi	1
+聚丙烯无规共聚物	ju bing xi wu gui gong ju wu	1
+局部图象放大	ju bu tu xiang fang da	1
+聚对苯二甲酸丁二醇酯	ju dui ben er jia suan ding er chun zhi	1
+聚二甲基硅氧烷	ju er jia ji gui yang wan	1
+聚合催化剂	ju he cui hua ji	1
+聚合剂加入器	ju he ji jia ru qi	1
+聚合物减阻	ju he wu jian zu	1
+聚季铵盐	ju ji an yan	1
+聚氯乙烯纤维	ju lv yi xi xian wei	1
+聚能射孔弹	ju neng she kong dan	1
+聚酰胺纤维	ju xian an xian wei	1
+局限海	ju xian hai	1
+聚氧乙烯烷基醇醚	ju yang yi xi wan ji chun mi	1
+聚氧乙烯酰胺	ju yang yi xi xian an	1
+聚已二酰已二胺	ju yi er xian yi er an	1
+聚乙烯	ju yi xi	1
+聚酯	ju zhi	1
+绝对渗透率	jue dui shen tou lv	1
+绝对无阻流量	jue dui wu zu liu liang	1
+绝缘胶冻裂点	jue yuan jiao dong lie dian	1
+卡瓦	ka wa	1
+卡西尼重力公式	ka xi ni zhong li gong shi	1
+开发层系	kai fa ceng xi	1
+开发储量	kai fa chu liang	1
+开发方式	kai fa fang shi	1
+开发先导试验区	kai fa xian dao shi yan qu	1
+开发钻井	kai fa zuan jing	1
+开关柜与电机控制中心模块	kai guan gui yu dian ji kong zhi zhong xin mo kuai	1
+开式油气收集工艺	kai shi you qi shou ji gong yi	1
+勘探成本	kan tan cheng ben	1
+抗滑稳性	kang hua wen xing	1
+抗磨添加剂	kang mo tian jia ji	1
+抗磨性	kang mo xing	1
+康氏残炭测定仪	kang shi can tan ce ding yi	1
+可动油图	ke dong you tu	1
+刻度井	ke du jing	1
+可纺性	ke fang xing	1
+可解脱式系泊系统	ke jie tuo shi ji bo xi tong	1
+可控硅整流直流电驱动钻机	ke kong gui zheng liu zhi liu dian qu dong zuan ji	1
+可控源声频大地电磁法	ke kong yuan sheng pin da di dian ci fa	1
+可控震源法	ke kong zhen yuan fa	1
+克拉通	ke la tong	1
+可燃度极限	ke ran du ji xian	1
+可燃气探测系统	ke ran qi tan ce xi tong	1
+可燃气体浓度	ke ran qi ti nong du	1
+可染性	ke ran xing	1
+可燃有机岩	ke ran you ji yan	1
+可退开的捞矛	ke tui kai de lao mao	1
+可移式底座	ke yi shi di zuo	1
+坑蚀	keng shi	1
+空船排水量	kong chuan pai shui liang	1
+孔腹	kong fu	1
+空气钻井	kong qi zuan jing	1
+孔隙大小分布	kong xi da xiao fen bu	1
+孔隙结构	kong xi jie gou	1
+孔隙结构各向异性	kong xi jie gou ge xiang yi xing	1
+孔隙型储集层	kong xi xing chu ji ceng	1
+库埃特流	ku ai te liu	1
+扩散深度	kuo san shen du	1
+喇叭口短节	la ba kou duan jie	1
+蜡堵	la du	1
+捞锚钩	lao mao gou	1
+姥植比	lao zhi bi	1
+勒夫波	le fu bo	1
+累积生产气油比	lei ji sheng chan qi you bi	1
+累积注水量	lei ji zhu shui liang	1
+类异戊二烯	lei yi wu er xi	1
+冷工作业	leng gong zuo ye	1
+冷凝液罐	leng ning ye guan	1
+冷却器	leng que qi	1
+里德蒸气压	li de zheng qi ya	1
+粒度累积分布曲线	li du lei ji fen bu qu xian	1
+立管	li guan	1
+沥青测量	li qing ce liang	1
+沥青脉	li qing mai	1
+沥青溶解度	li qing rong jie du	1
+沥青塞封闭油藏	li qing sai feng bi you cang	1
+历史拟合	li shi ni he	1
+立体异构化	li ti yi gou hua	1
+离心过滤机	li xin guo lv ji	1
+链尺定距	lian chi ding ju	1
+连接盒	lian jie he	1
+联井	lian jing	1
+联立解法	lian li jie fa	1
+链条并车箱	lian tiao bing che xiang	1
+链条抽油机	lian tiao chou you ji	1
+连续催化重整	lian xu cui hua chong zheng	1
+连续气举设备	lian xu qi ju she bei	1
+两相流	liang xiang liu	1
+两翼刮刀钻头	liang yi gua dao zuan tou	1
+裂缝孔隙度分布指数	lie feng kong xi du fen bu zhi shu	1
+裂缝强度指数	lie feng qiang du zhi shu	1
+裂缝延伸	lie feng yan shen	1
+裂缝延伸长度	lie feng yan shen chang du	1
+裂缝油气藏	lie feng you qi cang	1
+裂缝指数	lie feng zhi shu	1
+裂解焦油	lie jie jiao you	1
+邻层影响	lin ceng ying xiang	1
+邻二甲苯	lin er jia ben	1
+临界点	lin jie dian	1
+临界距离	lin jie ju li	1
+临界量	lin jie liang	1
+临界压力	lin jie ya li	1
+临界盐度	lin jie yan du	1
+临界阻尼	lin jie zu ni	1
+膦酸盐防垢剂	lin suan yan fang gou ji	1
+零长	ling chang	1
+流变行为指数	liu bian xing wei zhi shu	1
+流变学	liu bian xue	1
+馏程	liu cheng	1
+流出动态曲线	liu chu dong tai qu xian	1
+流动度控制剂	liu dong du kong zhi ji	1
+流动势	liu dong shi	1
+六方钻杆	liu fang zuan gan	1
+硫化物应力开裂	liu hua wu ying li kai lie	1
+硫容量	liu rong liang	1
+流体参数	liu ti can shu	1
+流体密度	liu ti mi du	1
+流线型抽油泵	liu xian xing chou you beng	1
+流型	liu xing	1
+鲁茨流量计	lu ci liu liang ji	1
+露点曲线	lu dian qu xian	1
+卤化烃喷嘴	lu hua ting pen zui	1
+卤化烃瓶	lu hua ting ping	1
+卤化烃释放报警铃	lu hua ting shi fang bao jing ling	1
+陆壳型盆地	lu ke xing pen di	1
+露天甲板	lu tian jia ban	1
+陆相	lu xiang	1
+轮数	lun shu	1
+螺杆	luo gan	1
+罗经段	luo jing duan	1
+螺纹牙高量表	luo wen ya gao liang biao	1
+裸眼单封隔器测试管柱	luo yan dan feng ge qi ce shi guan zhu	1
+裸眼封隔器	luo yan feng ge qi	1
+裸眼井	luo yan jing	1
+裸眼井测井	luo yan jing ce jing	1
+氯苯	lv ben	1
+滤饼	lv bing	1
+滤饼厚度	lv bing hou du	1
+氯仿沥青	lv fang li qing	1
+氯化石蜡	lv hua shi la	1
+铝基润滑脂	lv ji run hua zhi	1
+滤液酚酞碱度	lv ye fen tai jian du	1
+氯乙烯乳液聚合	lv yi xi ru ye ju he	1
+马达法辛烷值	ma da fa xin wan zhi	1
+马达驱动稳定器	ma da qu dong wen ding qi	1
+马斯卡特法	ma si ka te fa	1
+脉冲反褶积	mai chong fan zhe ji	1
+脉冲宽度调制	mai chong kuan du tiao zhi	1
+幔源气	man yuan qi	1
+锚标	mao biao	1
+冒地斜棱柱体	mao di xie leng zhu ti	1
+锚架	mao jia	1
+锚链张紧器	mao lian zhang jin qi	1
+毛细管粘度计	mao xi guan nian du ji	1
+毛细管压力曲线	mao xi guan ya li qu xian	1
+毛细管阈压	mao xi guan yu ya	1
+煤成气	mei cheng qi	1
+蒙特卡洛法	meng te ka luo fa	1
+密闭输送流程	mi bi shu song liu cheng	1
+密度测井刻度块	mi du ce jing ke du kuai	1
+密度温度系数	mi du wen du xi shu	1
+密封适应性	mi feng shi ying xing	1
+醚化剂	mi hua ji	1
+幂律流体	mi lv liu ti	1
+弥散流	mi san liu	1
+面积波及系数	mian ji bo ji xi shu	1
+面元划分	mian yuan hua fen	1
+鸣震	ming zhen	1
+鸣震波	ming zhen bo	1
+末端阀	mo duan fa	1
+模拟移动床分离器	mo ni yi dong chuang fen li qi	1
+磨铣工具	mo xi gong ju	1
+模型模拟	mo xing mo ni	1
+模型预演	mo xing yu yan	1
+摩阻损失	mo zu sun shi	1
+摩阻系数	mo zu xi shu	1
+目标自动识别	mu biao zi dong shi bie	1
+木质	mu zhi	1
+奈奎斯特频率	nai kui si te pin lv	1
+耐摩擦色牢度	nai mo ca se lao du	1
+耐气候色牢度	nai qi hou se lao du	1
+耐液体性	nai ye ti xing	1
+耐油性	nai you xing	1
+内波纹管隔热管	nei bo wen guan ge re guan	1
+内对口器	nei dui kou qi	1
+内克拉通盆地	nei ke la tong pen di	1
+内涂层油管	nei tu ceng you guan	1
+内涂层钻杆	nei tu ceng zuan gan	1
+能油比	neng you bi	1
+泥火山气	ni huo shan qi	1
+泥浆波	ni jiang bo	1
+泥浆池容积	ni jiang chi rong ji	1
+泥浆池液面指示器	ni jiang chi ye mian zhi shi qi	1
+泥浆池液体增量	ni jiang chi ye ti zeng liang	1
+泥浆处理系统	ni jiang chu li xi tong	1
+泥浆电阻率	ni jiang dian zu lv	1
+泥浆罐	ni jiang guan	1
+泥浆搅拌器	ni jiang jiao ban qi	1
+泥浆流	ni jiang liu	1
+泥浆气体分离器	ni jiang qi ti fen li qi	1
+泥石流沉积	ni shi liu chen ji	1
+逆时偏移	ni shi pian yi	1
+泥线悬挂器	ni xian xuan gua qi	1
+拟压力	ni ya li	1
+泥岩	ni yan	1
+泥质指示	ni zhi zhi shi	1
+年产量	nian chan liang	1
+年代地层学	nian dai di ceng xue	1
+粘度指数改进剂	nian du zhi shu gai jin ji	1
+粘合剂	nian he ji	1
+粘土防膨剂	nian tu fang peng ji	1
+粘土膨胀	nian tu peng zhang	1
+粘土侵	nian tu qin	1
+脲醛树脂	niao quan shu zhi	1
+凝固时间	ning gu shi jian	1
+凝析气	ning xi qi	1
+凝析气油比	ning xi qi you bi	1
+牛轭湖沉积	niu e hu chen ji	1
+扭曲形结构	niu qu xing jie gou	1
+扭压盆地	niu ya pen di	1
+偶极矩	ou ji ju	1
+偶极子反射率	ou ji zi fan she lv	1
+排出空气包	pai chu kong qi bao	1
+排放罐	pai fang guan	1
+排量	pai liang	1
+排列系数	pai lie xi shu	1
+排驱	pai qu	1
+排替压力	pai ti ya li	1
+泡点曲线	pao dian qu xian	1
+炮井	pao jing	1
+泡帽塔	pao mao ta	1
+泡沫发生器	pao mo fa sheng qi	1
+泡沫灭火器	pao mo mie huo qi	1
+泡沫炮遥控盘	pao mo pao yao kong pan	1
+泡沫水泥	pao mo shui ni	1
+泡沫水枪	pao mo shui qiang	1
+泡沫站	pao mo zhan	1
+泡沫钻井液	pao mo zuan jing ye	1
+抛绳装置	pao sheng zhuang zhi	1
+抛丸	pao wan	1
+炮眼充填	pao yan chong tian	1
+配产配注	pei chan pei zhu	1
+盆地分析	pen di fen xi	1
+盆底扇	pen di shan	1
+喷淋塔	pen lin ta	1
+喷砂嘴	pen sha zui	1
+喷射泵	pen she beng	1
+喷射钻井	pen she zuan jing	1
+喷嘴	pen zui	1
+碰固定口	peng gu ding kou	1
+膨润土罐	peng run tu guan	1
+碰压接箍	peng ya jie gu	1
+膨胀水泥	peng zhang shui ni	1
+皮肤毒性	pi fu du xing	1
+披覆褶皱	pi fu zhe zhou	1
+披盖背斜油气藏	pi gai bei xie you qi cang	1
+批量控制器	pi liang kong zhi qi	1
+皮碗式封隔器	pi wan shi feng ge qi	1
+偏苯三甲酸三辛酯	pian ben san jia suan san xin zhi	1
+偏离	pian li	1
+偏心短节	pian xin duan jie	1
+偏心配水器	pian xin pei shui qi	1
+偏心器	pian xin qi	1
+偏移不足	pian yi bu zu	1
+偏移校正剖面	pian yi jiao zheng pou mian	1
+偏重钻铤	pian zhong zuan ting	1
+漂浮软管	piao fu ruan guan	1
+频带宽度	pin dai kuan du	1
+频率效应百分数	pin lv xiao ying bai fen shu	1
+频率域测深	pin lv yu ce shen	1
+频散关系	pin san guan xi	1
+屏蔽电极	ping bi dian ji	1
+平衡点	ping heng dian	1
+平衡井底压力法	ping heng jing di ya li fa	1
+平衡流速	ping heng liu su	1
+平衡正切法	ping heng zheng qie fa	1
+屏流比	ping liu bi	1
+平面波分解	ping mian bo fen jie	1
+平面径向流	ping mian jing xiang liu	1
+平面偏振	ping mian pian zhen	1
+平台海岸无线电系统	ping tai hai an wu xian dian xi tong	1
+平行结构	ping xing jie gou	1
+平行油管柱装置	ping xing you guan zhu zhuang zhi	1
+破冰船	po bing chuan	1
+破损稳性	po sun wen xing	1
+剖面形式	pou mian xing shi	1
+气藏气	qi cang qi	1
+气测井	qi ce jing	1
+七侧向测井	qi ce xiang ce jing	1
+弃船	qi chuan	1
+气顶驱动	qi ding qu dong	1
+气动动力钳	qi dong dong li qian	1
+气动摩擦离合器	qi dong mo ca li he qi	1
+气动平衡	qi dong ping heng	1
+气灰分离器	qi hui fen li qi	1
+气井产能	qi jing chan neng	1
+气举成沟法	qi ju cheng gou fa	1
+气举阀	qi ju fa	1
+气举管柱	qi ju guan zhu	1
+气举启动压力	qi ju qi dong ya li	1
+汽轮机油	qi lun ji you	1
+气苗	qi miao	1
+漆膜	qi mo	1
+起泡	qi pao	1
+气泡	qi pao	1
+气泡比	qi pao bi	1
+气泡流	qi pao liu	1
+气枪控制器	qi qiang kong zhi qi	1
+气枪震源	qi qiang zhen yuan	1
+气砂锚	qi sha mao	1
+汽蚀	qi shi	1
+气锁	qi suo	1
+气锁水泥	qi suo shui ni	1
+气体净化	qi ti jing hua	1
+气体净化催化剂	qi ti jing hua cui hua ji	1
+汽提塔	qi ti ta	1
+气田集气流程	qi tian ji qi liu cheng	1
+气团流	qi tuan liu	1
+起下钻泥浆罐	qi xia zuan ni jiang guan	1
+气相饱和度	qi xiang bao he du	1
+气液两相流	qi ye liang xiang liu	1
+汽油机油	qi you ji you	1
+起钻	qi zuan	1
+浅海地震勘探	qian hai di zhen kan tan	1
+前积反射结构	qian ji fan she jie gou	1
+浅埋阳极地床	qian mai yang ji di chuang	1
+潜水面	qian shui mian	1
+浅滩	qian tan	1
+前缘走廊	qian yuan zou lang	1
+潜在胶质	qian zai jiao zhi	1
+潜在酸	qian zai suan	1
+前置式游梁抽油机	qian zhi shi you liang chou you ji	1
+羟烷基羧甲基化	qiang wan ji suo jia ji hua	1
+羟乙基化	qiang yi ji hua	1
+强隐式法	qiang yin shi fa	1
+强制电流	qiang zhi dian liu	1
+强制排流	qiang zhi pai liu	1
+切削油	qie xiao you	1
+侵入校正	qin ru jiao zheng	1
+侵入直径	qin ru zhi jing	1
+轻柴油	qing chai you	1
+倾覆力臂	qing fu li bi	1
+清管器收发装置	qing guan qi shou fa zhuang zhi	1
+清焦	qing jiao	1
+氢氰酸	qing qing suan	1
+氢碳原子比	qing tan yuan zi bi	1
+氢同位素	qing tong wei su	1
+倾向滑动断层	qing xiang hua dong duan ceng	1
+倾斜距离	qing xie ju li	1
+倾斜式修井机	qing xie shi xiu jing ji	1
+轻质可燃气体探测器	qing zhi ke ran qi ti tan ce qi	1
+球罐散装法	qiu guan san zhuang fa	1
+球接头	qiu jie tou	1
+球面波	qiu mian bo	1
+曲柄	qu bing	1
+曲柄偏置角	qu bing pian zhi jiao	1
+驱动机组底座	qu dong ji zu di zuo	1
+去交混回响	qu jiao hun hui xiang	1
+曲流河沉积	qu liu he chen ji	1
+曲线网格	qu xian wang ge	1
+取心钻压	qu xin zuan ya	1
+区域场校正	qu yu chang jiao zheng	1
+区域地震地层学	qu yu di zhen di ceng xue	1
+区域评价	qu yu ping jia	1
+圈闭	quan bi	1
+圈闭发现率	quan bi fa xian lv	1
+圈闭容积	quan bi rong ji	1
+确定性反褶积	que ding xing fan zhe ji	1
+炔烃加氢反应器	que ting jia qing fan ying qi	1
+群速度	qun su du	1
+裙桩	qun zhuang	1
+燃点	ran dian	1
+燃料型炼油厂	ran liao xing lian you chang	1
+燃料油	ran liao you	1
+燃料油排放罐	ran liao you pai fang guan	1
+绕射波层析成象	rao she bo ceng xi cheng xiang	1
+绕射反射波	rao she fan she bo	1
+绕射求和	rao she qiu he	1
+热补偿器	re bu chang qi	1
+热采方法	re cai fang fa	1
+热传导液	re chuan dao ye	1
+热解色谱法	re jie se pu fa	1
+热酸处理	re suan chu li	1
+热稳定性	re wen ding xing	1
+热稳聚晶金刚石钻头	re wen ju jing jin gang shi zuan tou	1
+热油清蜡车	re you qing la che	1
+热油循环	re you xun huan	1
+热运转	re yun zhuan	1
+人机交互联作解释	ren ji jiao hu lian zuo jie shi	1
+人字架	ren zi jia	1
+溶洞	rong dong	1
+溶剂抽提塔	rong ji chou ti ta	1
+溶剂段塞驱	rong ji duan sai qu	1
+溶解气油比	rong jie qi you bi	1
+溶解烃	rong jie ting	1
+溶孔	rong kong	1
+熔融指数	rong rong zhi shu	1
+柔软剂	rou ruan ji	1
+乳化型液压液	ru hua xing ye ya ye	1
+乳化油输送泵	ru hua you shu song beng	1
+入级检验	ru ji jian yan	1
+铷蒸气磁力仪	ru zheng qi ci li yi	1
+软磁化	ruan ci hua	1
+软管起升吊机	ruan guan qi sheng diao ji	1
+软管束	ruan guan shu	1
+润滑油	run hua you	1
+润滑油氧化安定性测定仪	run hua you yang hua an ding xing ce ding yi	1
+润滑脂	run hua zhi	1
+润滑脂滚筒安定性测定仪	run hua zhi gun tong an ding xing ce ding yi	1
+塞流反应器	sai liu fan ying qi	1
+三次采油	san ci cai you	1
+三分量检波器	san fen liang jian bo qi	1
+三缸单作用泵	san gang dan zuo yong beng	1
+三距交汇	san ju jiao hui	1
+三氯乙烷	san lv yi wan	1
+三氯乙烯	san lv yi xi	1
+伞式流量计	san shi liu liang ji	1
+三萜类	san tie lei	1
+扫描电镜	sao miao dian jing	1
+色谱分析	se pu fen xi	1
+刹带	sha dai	1
+砂滤装置	sha lv zhuang zhi	1
+沙漠相	sha mo xiang	1
+砂桥卡钻	sha qiao ka zuan	1
+砂岩百分含量	sha yan bai fen han liang	1
+筛面倾角	shai mian qing jiao	1
+筛网	shai wang	1
+筛析	shai xi	1
+闪点	shan dian	1
+山前拗陷盆地	shan qian niu xian pen di	1
+扇三角洲相	shan san jiao zhou xiang	1
+扇形滤波器	shan xing lv bo qi	1
+闪蒸	shan zheng	1
+上超	shang chao	1
+上覆岩层压力	shang fu yan ceng ya li	1
+上胶塞	shang jiao sai	1
+上行波	shang xing bo	1
+上游相对渗透率	shang you xiang dui shen tou lv	1
+烧焦试验	shao jiao shi yan	1
+射孔穿透深度	she kong chuan tou shen du	1
+射孔液	she kong ye	1
+射流冲击力	she liu chong ji li	1
+射流等速核	she liu deng su he	1
+射线参数	she xian can shu	1
+射线理论	she xian li lun	1
+深度基准	shen du ji zhun	1
+深度加工	shen du jia gong	1
+深感应测井	shen gan ying ce jing	1
+深冷分离	shen leng fen li	1
+渗流雷诺数	shen liu lei nuo shu	1
+渗漏地层	shen lou di ceng	1
+深水顶超	shen shui ding chao	1
+渗透剂	shen tou ji	1
+渗析作用	shen xi zuo yong	1
+声波变密度测井	sheng bo bian mi du ce jing	1
+声波测井	sheng bo ce jing	1
+生产测井	sheng chan ce jing	1
+生产分离器	sheng chan fen li qi	1
+生产管汇	sheng chan guan hui	1
+生产管柱	sheng chan guan zhu	1
+生产甲板	sheng chan jia ban	1
+生产井	sheng chan jing	1
+生产系列控制盘	sheng chan xi lie kong zhi pan	1
+升沉补偿器	sheng chen bu chang qi	1
+升沉补偿装置	sheng chen bu chang zhuang zhi	1
+生存条件	sheng cun tiao jian	1
+升降条件	sheng jiang tiao jian	1
+生物骨架孔隙	sheng wu gu jia kong xi	1
+生物化学生气阶段	sheng wu hua xue sheng qi jie duan	1
+生物葡聚糖	sheng wu pu ju tang	1
+声响信号器	sheng xiang xin hao qi	1
+生油率	sheng you lv	1
+生油指标	sheng you zhi biao	1
+剩余静校正	sheng yu jing xiao zheng	1
+剩余偏移	sheng yu pian yi	1
+声阻抗差	sheng zu kang cha	1
+视表皮系数	shi biao pi xi shu	1
+时间分辨率	shi jian fen bian lv	1
+试井车	shi jing che	1
+试井解释图版	shi jing jie shi tu ban	1
+视觉三色原理	shi jue san se yuan li	1
+石蜡含油量	shi la han you liang	1
+十六烷值	shi liu wan zhi	1
+视密度	shi mi du	1
+石脑油脱硫装置	shi nao you tuo liu zhuang zhi	1
+石脑油蒸汽裂解	shi nao you zheng qi lie jie	1
+视倾角	shi qing jiao	1
+时深转换	shi shen zhuan huan	1
+实时处理	shi shi chu li	1
+视衰减	shi shuai jian	1
+实验室分析	shi yan shi fen xi	1
+试油	shi you	1
+石油化工厂	shi you hua gong chang	1
+石油及天然气地质学	shi you ji tian ran qi di zhi xue	1
+石油焦	shi you jiao	1
+石油沥青防腐层	shi you li qing fang fu ceng	1
+石油沥青延伸度测定仪	shi you li qing yan shen du ce ding yi	1
+石油树脂	shi you shu zhi	1
+石油酸类	shi you suan lei	1
+石油专业词汇	shi you zhuan ye ci hui	1
+石油浊点测定仪	shi you zhuo dian ce ding yi	1
+试注	shi zhu	1
+十字排列装置	shi zi pai lie zhuang zhi	1
+示踪剂	shi zong ji	1
+示踪剂突破时间	shi zong ji tu po shi jian	1
+首波	shou bo	1
+收发油损耗	shou fa you sun hao	1
+艏尖压载舱	shou jian ya zai cang	1
+收敛压力	shou lian ya li	1
+售油立管	shou you li guan	1
+束缚水	shu fu shui	1
+数据采集单元	shu ju cai ji dan yuan	1
+数据链	shu ju lian	1
+输气管道	shu qi guan dao	1
+输送顺序	shu song shun xu	1
+输油末站	shu you mo zhan	1
+数字传输	shu zi chuan shu	1
+数字磁带测井记录仪	shu zi ci dai ce jing ji lu yi	1
+数字记录测井仪	shu zi ji lu ce jing yi	1
+数字型钻杆接头	shu zi xing zuan gan jie tou	1
+双边离开排列	shuang bian li kai pai lie	1
+双层取心筒	shuang ceng qu xin tong	1
+双根	shuang gen	1
+双金属重整催化剂	shuang jin shu chong zheng cui hua ji	1
+双金属缸套	shuang jin shu gang tao	1
+双矿物模型	shuang kuang wu mo xing	1
+双缆单源法	shuang lan dan yuan fa	1
+双螺杆挤出机	shuang luo gan ji chu ji	1
+双盘浮船	shuang pan fu chuan	1
+双曲线方式	shuang qu xian fang shi	1
+双水模型	shuang shui mo xing	1
+双筒井	shuang tong jing	1
+双线控制井下安全阀	shuang xian kong zhi jing xia an quan fa	1
+双液法调剖剂	shuang ye fa tiao pou ji	1
+双翼控制头	shuang yi kong zhi tou	1
+双油管采油井口	shuang you guan cai you jing kou	1
+双闸板防喷器	shuang zha ban fang pen qi	1
+双作用抽油泵	shuang zuo yong chou you beng	1
+双作用式水力活塞泵	shuang zuo yong shi shui li huo sai beng	1
+水包油型清蜡剂	shui bao you xing qing la ji	1
+水底拖管法	shui di tuo guan fa	1
+水动力圈闭	shui dong li quan bi	1
+水封	shui feng	1
+水灰比	shui hui bi	1
+水基钻井液	shui ji zuan jing ye	1
+水净化	shui jing hua	1
+水力活塞泵	shui li huo sai beng	1
+水力效率	shui li xiao lv	1
+水力压缩式封隔器	shui li ya suo shi feng ge qi	1
+水龙头	shui long tou	1
+水龙头额定工作载荷	shui long tou e ding gong zuo zai he	1
+水龙头中心管	shui long tou zhong xin guan	1
+水敏性评价	shui min xing ping jia	1
+水泥池	shui ni chi	1
+水泥窜槽	shui ni cuan cao	1
+水泥减轻外掺料	shui ni jian qing wai chan liao	1
+水泥浆	shui ni jiang	1
+水泥浆流变学	shui ni jiang liu bian xue	1
+水泥浆泥浆隔离液配伍性	shui ni jiang ni jiang ge li ye pei wu xing	1
+水泥膨胀剂	shui ni peng zhang ji	1
+水泥砂浆	shui ni sha jiang	1
+水泥外加剂	shui ni wai jia ji	1
+水泥造浆量	shui ni zao jiang liang	1
+水平定向钻机	shui ping ding xiang zuan ji	1
+水平极性	shui ping ji xing	1
+水平裂缝	shui ping lie feng	1
+水枪	shui qiang	1
+水侵	shui qin	1
+水侵系数	shui qin xi shu	1
+水驱比	shui qu bi	1
+水渠发送道	shui qu fa song dao	1
+水驱气藏	shui qu qi cang	1
+水系格局	shui xi ge ju	1
+水下安装	shui xia an zhuang	1
+水下常压工作站	shui xia chang ya gong zuo zhan	1
+水下出油管线	shui xia chu you guan xian	1
+水下粘合	shui xia nian he	1
+水下摄象机起下装置	shui xia she xiang ji qi xia zhuang zhi	1
+水下释放塞注水泥系统	shui xia shi fang sai zhu shui ni xi tong	1
+水下系泊装置	shui xia xi bo zhuang zhi	1
+水压驱动	shui ya qu dong	1
+水淹气井	shui yan qi jing	1
+水质标准	shui zhi biao zhun	1
+瞬变磁场	shun bian ci chang	1
+顺磁磁化率	shun ci ci hua lv	1
+瞬时浮点增益	shun shi fu dian zeng yi	1
+瞬时属性	shun shi shu xing	1
+顺应式结构	shun ying shi jie gou	1
+四环萜烷	si huan tie wan	1
+丝扣粘结剂	si kou nian jie ji	1
+死绳固定器	si sheng gu ding qi	1
+丝质体	si zhi ti	1
+司钻房	si zuan fang	1
+司钻控制台	si zuan kong zhi tai	1
+速度检波器	su du jian bo qi	1
+速度门值	su du men zhi	1
+速度谱	su du pu	1
+速度深度模型	su du shen du mo xing	1
+速度下拉	su du xia la	1
+酸化压裂泵	suan hua ya lie beng	1
+酸基压裂液	suan ji ya lie ye	1
+酸溶性完井液	suan rong xing wan jing ye	1
+酸岩反应静态试验	suan yan fan ying jing tai shi yan	1
+酸岩反应速率	suan yan fan ying su lv	1
+算子	suan zi	1
+随机噪声	sui ji zao sheng	1
+碎屑岩	sui xie yan	1
+碎屑岩类储集层	sui xie yan lei chu ji ceng	1
+随钻测量	sui zuan ce liang	1
+随钻测量仪	sui zuan ce liang yi	1
+羧甲基淀粉	suo jia ji dian fen	1
+羧甲基纤维素	suo jia ji xian wei su	1
+塔顶馏出物	ta ding liu chu wu	1
+台背斜	tai bei xie	1
+台地前缘斜坡相	tai di qian yuan xie po xiang	1
+钛铁矿	tai tie kuang	1
+弹簧加压气举阀	tan huang jia ya qi ju fa	1
+弹性介质	tan xing jie zhi	1
+碳质沥青	tan zhi li qing	1
+滩状地震相	tan zhuang di zhen xiang	1
+套管补贴	tao guan bu tie	1
+套管长圆螺纹	tao guan chang yuan luo wen	1
+套管灌泥浆装置	tao guan guan ni jiang zhuang zhi	1
+套管接箍	tao guan jie gu	1
+套筒气枪	tao tong qi qiang	1
+特大油气田	te da you qi tian	1
+提环	ti huan	1
+提捞	ti lao	1
+替载电阻	ti zai dian zu	1
+天车台	tian che tai	1
+天然金刚石取心钻头	tian ran jin gang shi qu xin zuan tou	1
+天然聚合物	tian ran ju he wu	1
+天然气	tian ran qi	1
+天然气成因类型	tian ran qi cheng yin lei xing	1
+天然气导热系数	tian ran qi dao re xi shu	1
+天然气密度	tian ran qi mi du	1
+天然气热裂解	tian ran qi re lie jie	1
+天然气压缩系数	tian ran qi ya suo xi shu	1
+天然气引射器	tian ran qi yin she qi	1
+调节剂	tiao jie ji	1
+调向叠加	tiao xiang die jia	1
+铁磁性岩墙侵入体	tie ci xing yan qiang qin ru ti	1
+烃相	ting xiang	1
+同期运移	tong qi yun yi	1
+同生作用	tong sheng zuo yong	1
+同态滤波	tong tai lv bo	1
+同相轴	tong xiang zhou	1
+同相轴合并	tong xiang zhou he bing	1
+通信集成管	tong xin ji cheng guan	1
+同心圆观测	tong xin yuan guan ce	1
+通用导向架	tong yong dao xiang jia	1
+通用聚苯乙烯	tong yong ju ben yi xi	1
+通用内燃机油	tong yong nei ran ji you	1
+透光率	tou guang lv	1
+透镜状结构	tou jing zhuang jie gou	1
+透平膨胀机	tou ping peng zhang ji	1
+突变压实阶段	tu bian ya shi jie duan	1
+涂漆	tu qi	1
+土壤电阻率	tu rang dian zu lv	1
+土壤腐蚀	tu rang fu shi	1
+土壤盐测量	tu rang yan ce liang	1
+推测储量	tui ce chu liang	1
+退汞效率	tui gong xiao lv	1
+脱模剂	tuo mo ji	1
+脱砂压力	tuo sha ya li	1
+脱水器	tuo shui qi	1
+脱氧塔	tuo yang ta	1
+脱乙烷	tuo yi wan	1
+挖掘效应	wa jue xiao ying	1
+外部边界	wai bu bian jie	1
+外加厚油管	wai jia hou you guan	1
+外加厚油管螺纹	wai jia hou you guan luo wen	1
+外加厚钻杆	wai jia hou zuan gan	1
+外接套总成	wai jie tao zong cheng	1
+外螺纹钻杆接头	wai luo wen zuan gan jie tou	1
+顽磁性	wan ci xing	1
+完井测试	wan jing ce shi	1
+弯螺杆钻具	wan luo gan zuan ju	1
+弯曲井眼	wan qu jing yan	1
+万有引力常量	wan you yin li chang liang	1
+完钻	wan zuan	1
+网格法	wang ge fa	1
+微波定位	wei bo ding wei	1
+微差井径曲线	wei cha jing jing qu xian	1
+微地震测井	wei di zhen ce jing	1
+微电极测井	wei dian ji ce jing	1
+尾端校正	wei duan jiao zheng	1
+尾管	wei guan	1
+尾管悬挂器	wei guan xuan gua qi	1
+微晶高岭土	wei jing gao ling tu	1
+微晶蜡	wei jing la	1
+微球形聚焦测井	wei qiu xing ju jiao ce jing	1
+微乳驱	wei ru qu	1
+微生物采油	wei sheng wu cai you	1
+未熟期	wei shu qi	1
+危险区划分	wei xian qu hua fen	1
+卫星平台	wei xing ping tai	1
+微形旋流器	wei xing xuan liu qi	1
+围油栅卷筒	wei you zha juan tong	1
+稳定渗流	wen ding shen liu	1
+稳心	wen xin	1
+稳性消失角	wen xing xiao shi jiao	1
+涡流消除器	wo liu xiao chu qi	1
+沃伦渗透率模型	wo lun shen tou lv mo xing	1
+涡轮钻具	wo lun zuan ju	1
+无导绳重返井口加强喇叭口	wu dao sheng chong fan jing kou jia qiang la ba kou	1
+雾笛	wu di	1
+五点法注水	wu dian fa zhu shui	1
+无反射结构	wu fan she jie gou	1
+无机碳分析	wu ji tan fen xi	1
+无机盐类分解气	wu ji yan lei fen jie qi	1
+无结构镜质体	wu jie gou jing zhi ti	1
+无接箍套管	wu jie gu tao guan	1
+五十年一遇	wu shi nian yi yu	1
+无水采收率	wu shui cai shou lv	1
+戊烯	wu xi	1
+无线电定位系统	wu xian dian ding wei xi tong	1
+无线电遥测地震数据采集	wu xian dian yao ce di zhen shu ju cai ji	1
+无游梁抽油机	wu you liang chou you ji	1
+污渣磨碎机	wu zha mo sui ji	1
+物质平衡法	wu zhi ping heng fa	1
+系泊刚臂	xi bo gang bi	1
+系泊羊角	xi bo yang jiao	1
+洗舱机	xi cang ji	1
+吸附水	xi fu shui	1
+析蜡点	xi la dian	1
+吸入口滤器	xi ru kou lv qi	1
+吸入压力	xi ru ya li	1
+牺牲剂	xi sheng ji	1
+牺牲阳极电流效率	xi sheng yang ji dian liu xiao lv	1
+吸收边界条件	xi shou bian jie tiao jian	1
+吸水层段	xi shui ceng duan	1
+吸水能力	xi shui neng li	1
+吸水指数	xi shui zhi shu	1
+烯烃	xi ting	1
+系统试井	xi tong shi jing	1
+铣鞋	xi xie	1
+下冲断层	xia chong duan ceng	1
+下相微乳	xia xiang wei ru	1
+下行测井	xia xing ce jing	1
+现场测定	xian chang ce ding	1
+限流法压裂	xian liu fa ya lie	1
+先期砾石充填筛管	xian qi li shi chong tian shai guan	1
+线圈系	xian quan xi	1
+显式算子	xian shi suan zi	1
+显微光度法	xian wei guang du fa	1
+纤维支数	xian wei zhi shu	1
+显微组分	xian wei zu fen	1
+线性组合	xian xing zu he	1
+线质量	xian zhi liang	1
+镶齿钻头	xiang chi zuan tou	1
+相对磁导率	xiang dui ci dao lv	1
+相对吸水量	xiang dui xi shui liang	1
+相干性	xiang gan xing	1
+相干噪声	xiang gan zao sheng	1
+相关虚象	xiang guan xu xiang	1
+相模式	xiang mo shi	1
+巷识别	xiang shi bie	1
+箱式干燥器	xiang shi gan zao qi	1
+箱式显示	xiang shi xian shi	1
+箱式装置	xiang shi zhuang zhi	1
+详探井	xiang tan jing	1
+相位	xiang wei	1
+相位滞后	xiang wei zhi hou	1
+消防控制盘	xiao fang kong zhi pan	1
+消防炮	xiao fang pao	1
+消防水增压泵	xiao fang shui zeng ya beng	1
+小鼠洞	xiao shu dong	1
+硝酸纤维素	xiao suan xian wei su	1
+斜杆	xie gan	1
+斜井钻机	xie jing zuan ji	1
+泄油半径	xie you ban jing	1
+楔状前积体	xie zhuang qian ji ti	1
+楔状相	xie zhuang xiang	1
+信标	xin biao	1
+心滩沉积	xin tan chen ji	1
+型剖面	xing pou mian	1
+修正率	xiu zheng lv	1
+溴指数	xiu zhi shu	1
+蓄热炉热裂解	xu re lu re lie jie	1
+悬点静载荷	xuan dian jing zai he	1
+悬点最大载荷	xuan dian zui da zai he	1
+旋回式生储盖组合	xuan hui shi sheng chu gai zu he	1
+悬链锚腿系泊	xuan lian mao tui xi bo	1
+旋流分离器	xuan liu fen li qi	1
+选排	xuan pai	1
+悬绳器	xuan sheng qi	1
+旋升式底座	xuan sheng shi di zuo	1
+选择加氢催化剂	xuan ze jia qing cui hua ji	1
+选择性润湿	xuan ze xing run shi	1
+选择性压裂	xuan ze xing ya lie	1
+悬重	xuan zhong	1
+旋转粘度计	xuan zhuan nian du ji	1
+旋转燃烧器	xuan zhuan ran shao qi	1
+旋转式气体分离器	xuan zhuan shi qi ti fen li qi	1
+旋转头总成	xuan zhuan tou zong cheng	1
+旋转性孔隙结构	xuan zhuan xing kong xi jie gou	1
+旋转钻机	xuan zhuan zuan ji	1
+雪松烷	xue song wan	1
+循环阀	xun huan fa	1
+循环注气	xun huan zhu qi	1
+牙齿磨损系数	ya chi mo sun xi shu	1
+压井阀	ya jing fa	1
+压井液	ya jing ye	1
+压力降落法试井	ya li jiang luo fa shi jing	1
+压力梯度	ya li ti du	1
+压裂车	ya lie che	1
+压裂管柱	ya lie guan zhu	1
+压裂混砂机	ya lie hun sha ji	1
+压裂液降滤失剂	ya lie ye jiang lv shi ji	1
+压裂液利用效率	ya lie ye li yong xiao lv	1
+压裂液滤失性	ya lie ye lv shi xing	1
+压扭作用	ya niu zuo yong	1
+压实校正	ya shi jiao zheng	1
+压缩系数	ya suo xi shu	1
+亚铁磁性	ya tie ci xing	1
+牙形石鉴定	ya xing shi jian ding	1
+牙形石色变指数	ya xing shi se bian zhi shu	1
+沿层切片	yan ceng qie pian	1
+烟点	yan dian	1
+岩电地层单位	yan dian di ceng dan wei	1
+盐构造作用	yan gou zao zuo yong	1
+严密性试验	yan mi xing shi yan	1
+岩石表面破碎	yan shi biao mian po sui	1
+岩石泊松比	yan shi bo song bi	1
+岩石基质孔隙度	yan shi ji zhi kong xi du	1
+岩石抗压强度	yan shi kang ya qiang du	1
+岩石可钻性	yan shi ke zuan xing	1
+岩石孔隙压缩系数	yan shi kong xi ya suo xi shu	1
+岩石热导率	yan shi re dao lv	1
+盐水顶替	yan shui ding ti	1
+盐水钻井液	yan shui zuan jing ye	1
+烟雾探测报警系统	yan wu tan ce bao jing xi tong	1
+岩相	yan xiang	1
+岩屑运移比	yan xie yun yi bi	1
+岩心直径	yan xin zhi jing	1
+岩性对比	yan xing dui bi	1
+岩性透镜体油气藏	yan xing tou jing ti you qi cang	1
+仰冲	yang chong	1
+氧化还原催化剂	yang hua huan yuan cui hua ji	1
+氧化热裂化	yang hua re lie hua	1
+氧化塔	yang hua ta	1
+氧化型缓蚀剂	yang hua xing huan shi ji	1
+氧化型杀菌剂	yang hua xing sha jun ji	1
+阳离子非离子型表面活性剂	yang li zi fei li zi xing biao mian huo xing ji	1
+阳离子型表面活性剂	yang li zi xing biao mian huo xing ji	1
+阳离子型聚合物	yang li zi xing ju he wu	1
+氧指数	yang zhi shu	1
+遥测地震仪	yao ce di zhen yi	1
+液化天然气运输船	ye hua tian ran qi yun shu chuan	1
+液硫脱气	ye liu tuo qi	1
+叶片式混砂器	ye pian shi hun sha qi	1
+液态窗	ye tai chuang	1
+液体密度计	ye ti mi du ji	1
+野外装备	ye wai zhuang bei	1
+液相聚合釜	ye xiang ju he fu	1
+液压管线	ye ya guan xian	1
+液压控制采油树	ye ya kong zhi cai you shu	1
+液压主控盘	ye ya zhu kong pan	1
+异丙苯	yi bing ben	1
+一步法三维偏移	yi bu fa san wei pian yi	1
+异常	yi chang	1
+异常低压	yi chang di ya	1
+乙醇	yi chun	1
+异丁烷正丁烷比	yi ding wan zheng ding wan bi	1
+异丁烯	yi ding xi	1
+异丁烯分离	yi ding xi fen li	1
+移动式钻井平台	yi dong shi zuan jing ping tai	1
+乙二醇单乙醚	yi er chun dan yi mi	1
+倚方位速度	yi fang wei su du	1
+异构化	yi gou hua	1
+伊利石	yi li shi	1
+仪器接口	yi qi jie kou	1
+已燃区	yi ran qu	1
+乙酸	yi suan	1
+乙烯高压法聚合	yi xi gao ya fa ju he	1
+乙烯基醚	yi xi ji mi	1
+乙烯精馏塔	yi xi jing liu ta	1
+乙烯氧化	yi xi yang hua	1
+乙烯氧氯化	yi xi yang lv hua	1
+一氧化碳助燃剂	yi yang hua tan zhu ran ji	1
+溢油	yi you	1
+阴极保护站	yin ji bao hu zhan	1
+印染助剂	yin ran zhu ji	1
+引鞋	yin xie	1
+饮用水舱	yin yong shui cang	1
+荧光沥青	ying guang li qing	1
+荧光显微镜	ying guang xian wei jing	1
+应急灯	ying ji deng	1
+硬沥青	ying li qing	1
+影区	ying qu	1
+永磁性	yong ci xing	1
+永久导向基盘	yong jiu dao xiang ji pan	1
+永久性完井	yong jiu xing wan jing	1
+油包水乳状液破乳剂	you bao shui ru zhuang ye po ru ji	1
+油藏电模型	you cang dian mo xing	1
+油藏管理测井	you cang guan li ce jing	1
+油藏描述	you cang miao shu	1
+油藏模拟器	you cang mo ni qi	1
+油藏模型	you cang mo xing	1
+油藏数学模型	you cang shu xue mo xing	1
+油藏油	you cang you	1
+油藏总压降	you cang zong ya jiang	1
+油层产出水结垢	you ceng chan chu shui jie gou	1
+油层水力压裂	you ceng shui li ya lie	1
+油层酸处理	you ceng suan chu li	1
+游动阀	you dong fa	1
+有杆抽油装置	you gan chou you zhuang zhi	1
+油管打捞矛	you guan da lao mao	1
+油管堵塞器	you guan du se qi	1
+油管锚	you guan mao	1
+油管压力	you guan ya li	1
+油管柱	you guan zhu	1
+有机成因论	you ji cheng yin lun	1
+油基堵水剂	you ji du shui ji	1
+油基压裂液	you ji ya lie ye	1
+有机质变生作用	you ji zhi bian sheng zuo yong	1
+油浆	you jiang	1
+油井产能方程	you jing chan neng fang cheng	1
+油井清蜡设备	you jing qing la she bei	1
+油井压力产量曲线	you jing ya li chan liang qu xian	1
+油井折算半径	you jing zhe suan ban jing	1
+油泥	you ni	1
+油品里德蒸气压测定仪	you pin li de zheng qi ya ce ding yi	1
+油品调合	you pin tiao he	1
+油品蒸馏测定仪	you pin zheng liu ce ding yi	1
+油气藏	you qi cang	1
+油气藏高度	you qi cang gao du	1
+油气地质勘探	you qi di zhi kan tan	1
+油漆房	you qi fang	1
+油气分离	you qi fen li	1
+油气田	you qi tian	1
+油气田勘探	you qi tian kan tan	1
+油势分析	you shi fen xi	1
+油水界面的非活塞推进	you shui jie mian de fei huo sai tui jin	1
+油田设备	you tian she bei	1
+有效排烃厚度	you xiao pai ting hou du	1
+有效渗透率	you xiao shen tou lv	1
+油源层系	you yuan ceng xi	1
+预白化	yu bai hua	1
+预测间隔	yu ce jian ge	1
+预测误差滤波器	yu ce wu cha lv bo qi	1
+预精制	yu jing zhi	1
+迂曲度	yu qu du	1
+羽扇烷	yu shan wan	1
+预探	yu tan	1
+遇险手持红光信号	yu xian shou chi hong guang xin hao	1
+预压载舱	yu ya zai cang	1
+宇宙论	yu zhou lun	1
+远道变弱效应	yuan dao bian ruo xiao ying	1
+原地成酸体系	yuan di cheng suan ti xi	1
+远地点	yuan di dian	1
+远方参考站	yuan fang can kao zhan	1
+圆弧法	yuan hu fa	1
+原料气压缩机	yuan liao qi ya suo ji	1
+原料油	yuan liao you	1
+原生孔隙	yuan sheng kong xi	1
+原生悬浮物	yuan sheng xuan fu wu	1
+原生油气藏	yuan sheng you qi cang	1
+原始大洋裂谷盆地	yuan shi da yang lie gu pen di	1
+原始规	yuan shi gui	1
+元素对比	yuan su dui bi	1
+原油	yuan you	1
+原油地质储量	yuan you di zhi chu liang	1
+原油分析	yuan you fen xi	1
+原油乳化降粘剂	yuan you ru hua jiang nian ji	1
+原油抑泡剂	yuan you yi pao ji	1
+运移距离	yun yi ju li	1
+孕甾烷	yun zai wan	1
+造扣	zao kou	1
+藻类体	zao lei ti	1
+早期生产系统	zao qi sheng chan xi tong	1
+造山运动	zao shan yun dong	1
+噪声观测剖面	zao sheng guan ce pou mian	1
+造斜点	zao xie dian	1
+造斜工具	zao xie gong ju	1
+增溶参数	zeng rong can shu	1
+憎水	zeng shui	1
+增塑剂	zeng su ji	1
+增斜	zeng xie	1
+增压泵	zeng ya beng	1
+增压风机	zeng ya feng ji	1
+增益道	zeng yi dao	1
+增益恢复	zeng yi hui fu	1
+渣油催化裂化	zha you cui hua lie hua	1
+渣滓油泵	zha zi you beng	1
+站间试压	zhan jian shi ya	1
+粘温系数	zhan wen xi shu	1
+障壁岛	zhang bi dao	1
+张力腿平台	zhang li tui ping tai	1
+张量阻抗	zhang liang zu kang	1
+张应力	zhang ying li	1
+照相录制	zhao xiang lu zhi	1
+折叠式井架	zhe die shi jing jia	1
+褶积	zhe ji	1
+折射静校正量	zhe she jing jiao zheng liang	1
+折算油藏压力	zhe suan you cang ya li	1
+震次	zhen ci	1
+诊断检测	zhen duan jian ce	1
+振幅	zhen fu	1
+真接触角	zhen jie chu jiao	1
+针孔	zhen kong	1
+真空泵油	zhen kong beng you	1
+真空除气器	zhen kong chu qi qi	1
+真空封脂	zhen kong feng zhi	1
+真空干燥器	zhen kong gan zao qi	1
+真空消除器	zhen kong xiao chu qi	1
+针入度比	zhen ru du bi	1
+真速度	zhen su du	1
+震源组合	zhen yuan zu he	1
+真振幅保持	zhen zhen fu bao chi	1
+正丙醇	zheng bing chun	1
+正常浪基面	zheng chang lang ji mian	1
+正常时差	zheng chang shi cha	1
+正断层	zheng duan ceng	1
+蒸发塔	zheng fa ta	1
+蒸发岩相	zheng fa yan xiang	1
+正交值	zheng jiao zhi	1
+蒸汽窜槽	zheng qi cuan cao	1
+蒸汽凝结速率	zheng qi ning jie su lv	1
+蒸汽驱	zheng qi qu	1
+正燃法	zheng ran fa	1
+整体式基盘	zheng ti shi ji pan	1
+正洗	zheng xi	1
+正注	zheng zhu	1
+值班船	zhi ban chuan	1
+支撑剂	zhi cheng ji	1
+支承节	zhi cheng jie	1
+制动功率	zhi dong gong lv	1
+直读粘度计	zhi du nian du ji	1
+滞后效应	zhi hou xiao ying	1
+止回阀	zhi hui fa	1
+直接油气显示	zhi jie you qi xian shi	1
+质量流量计	zhi liang liu liang ji	1
+直馏汽油	zhi liu qi you	1
+直升机起落扇形区	zhi sheng ji qi luo shan xing qu	1
+指纹化合物	zhi wen hua he wu	1
+直线传播	zhi xian chuan bo	1
+滞油区	zhi you qu	1
+指重表	zhi zhong biao	1
+指状沙坝	zhi zhuang sha ba	1
+仲丁醇	zhong ding chun	1
+中间基原油	zhong jian ji yuan you	1
+重力单位	zhong li dan wei	1
+重力基点	zhong li ji dian	1
+重力校正	zhong li jiao zheng	1
+重力式基础	zhong li shi ji chu	1
+重力梯度	zhong li ti du	1
+重力型试压工具	zhong li xing shi ya gong ju	1
+重力异常	zhong li yi chang	1
+重砂矿物分析	zhong sha kuang wu fen xi	1
+中心注水	zhong xin zhu shui	1
+中硬地层	zhong ying di ceng	1
+终止剂	zhong zhi ji	1
+重质原油	zhong zhi yuan you	1
+中子寿命测井	zhong zi shou ming ce jing	1
+帚状前积结构	zhou zhuang qian ji jie gou	1
+注采比	zhu cai bi	1
+注采井数比	zhu cai jing shu bi	1
+逐点激发地震剖面法	zhu dian ji fa di zhen pou mian fa	1
+主滚筒	zhu gun tong	1
+主甲板	zhu jia ban	1
+主流线	zhu liu xian	1
+助凝剂	zhu ning ji	1
+注汽采油工艺	zhu qi cai you gong yi	1
+注气模块	zhu qi mo kuai	1
+注气剖面	zhu qi pou mian	1
+注入流体	zhu ru liu ti	1
+注入水缓蚀剂	zhu ru shui huan shi ji	1
+注水	zhu shui	1
+注水保持压力	zhu shui bao chi ya li	1
+注水泵	zhu shui beng	1
+注水方式	zhu shui fang shi	1
+注水巷道	zhu shui hang dao	1
+注水井	zhu shui jing	1
+注水井动态	zhu shui jing dong tai	1
+注水井井距	zhu shui jing jing ju	1
+注水井增注	zhu shui jing zeng zhu	1
+注水压差	zhu shui ya cha	1
+注水站	zhu shui zhan	1
+注水周期	zhu shui zhou qi	1
+注蒸汽周期	zhu zheng qi zhou qi	1
+抓管机	zhua guan ji	1
+转换边界	zhuan huan bian jie	1
+转盘主轴承	zhuan pan zhu zhou cheng	1
+转盘最大转速	zhuan pan zui da zhuan su	1
+转向剂	zhuan xiang ji	1
+桩帽	zhuang mao	1
+装卸油泵	zhuang xie you beng	1
+装油量	zhuang you liang	1
+子波整形	zi bo zheng xing	1
+自定中心振动筛	zi ding zhong xin zhen dong shai	1
+自动控制系统	zi dong kong zhi xi tong	1
+自动调压阀	zi dong tiao ya fa	1
+自动增益控制	zi dong zeng yi kong zhi	1
+自给式压力调节阀	zi ji shi ya li tiao jie fa	1
+自流水	zi liu shui	1
+自然测井	zi ran ce jing	1
+自然电位泥岩基线	zi ran dian wei ni yan ji xian	1
+自由液面修正值	zi you ye mian xiu zheng zhi	1
+资源评价系统方法	zi yuan ping jia xi tong fang fa	1
+纵波	zong bo	1
+纵荡	zong dang	1
+综合回声测距与测深	zong he hui sheng ce ju yu ce shen	1
+总和校验	zong he jiao yan	1
+总机关	zong ji guan	1
+总孔隙度	zong kong xi du	1
+总滤失系数	zong lv shi xi shu	1
+纵倾	zong qing	1
+组分分析	zu fen fen xi	1
+组分模型	zu fen mo xing	1
+组合	zu he	1
+组合测井	zu he ce jing	1
+钻杆测试筛管	zuan gan ce shi shai guan	1
+钻杆吊卡	zuan gan diao ka	1
+钻杆检查	zuan gan jian cha	1
+钻杆校直装置	zuan gan jiao zhi zhuang zhi	1
+钻杆接头	zuan gan jie tou	1
+钻杆接头螺纹	zuan gan jie tou luo wen	1
+钻机拆卸	zuan ji chai xie	1
+钻机驱动机组	zuan ji qu dong ji zu	1
+钻进	zuan jin	1
+钻井泵	zuan jing beng	1
+钻井泵功率	zuan jing beng gong lv	1
+钻井参数传感装置	zuan jing can shu chuan gan zhuang zhi	1
+钻井船监控摄象机	zuan jing chuan jian kong she xiang ji	1
+钻井地震相剖面图	zuan jing di zhen xiang pou mian tu	1
+钻井钢丝绳	zuan jing gang si sheng	1
+钻井工程	zuan jing gong cheng	1
+钻井工程模拟器	zuan jing gong cheng mo ni qi	1
+钻井进尺	zuan jing jin chi	1
+钻井井口装置	zuan jing jing kou zhuang zhi	1
+钻井可控参数	zuan jing ke kong can shu	1
+钻井理论	zuan jing li lun	1
+钻井设计	zuan jing she ji	1
+钻井数据处理	zuan jing shu ju chu li	1
+钻井液处理剂	zuan jing ye chu li ji	1
+钻井液流变性	zuan jing ye liu bian xing	1
+钻井液密度显示器	zuan jing ye mi du xian shi qi	1
+钻井液絮凝剂	zuan jing ye xu ning ji	1
+钻井液增粘剂	zuan jing ye zeng nian ji	1
+钻入生产层	zuan ru sheng chan ceng	1
+钻时录井	zuan shi lu jing	1
+钻速方程	zuan su fang cheng	1
+钻头导向器	zuan tou dao xiang qi	1
+钻头泥包	zuan tou ni bao	1
+钻头泥包卡钻	zuan tou ni bao ka zuan	1
+钻头水功率	zuan tou shui gong lv	1
+钻头特性	zuan tou te xing	1
+钻头体	zuan tou ti	1
+钻屑含量	zuan xie han liang	1
+钻柱防喷阀	zuan zhu fang pen fa	1
+钻柱特性	zuan zhu te xing	1
+最大钩载	zui da gou zai	1
+最大凸度曲线	zui da tu du qu xian	1
+最大钻井深度	zui da zuan jing shen du	1
+最大钻头水功率工作方式	zui da zuan tou shui gong lv gong zuo fang shi	1
+最低混相压力	zui di hun xiang ya li	1
+最小熵反褶积	zui xiao shang fan zhe ji	1
+最优泥浆排量	zui you ni jiang pai liang	1
+坐底式钻井平台	zuo di shi zuan jing ping tai	1
+作业吃水	zuo ye chi shui	1
+作业条件	zuo ye tiao jian	1
