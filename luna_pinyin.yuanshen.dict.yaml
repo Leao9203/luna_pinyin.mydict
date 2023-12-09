@@ -1885,6 +1885,10 @@ use_preset_vocabulary: true
 赤沙之槛	chi sha zhi jian	1
 蕈兽	xun shou	1
 沙漠书	sha mo shu	1
+蒸气鸟	zheng qi niao	1
+蒸气鸟报	zhengqi niao bao	1
+子弹藤壶	zi dan teng hu	1
+藤壶子弹	teng hu zi dan	1
 
 # 部分NPC名称，如不需要请删除以下部分。
 加扎里	jia zha li	1
@@ -1895,8 +1899,25 @@ use_preset_vocabulary: true
 哲伯莱勒	zhe bai lai le	1
 哲伯莱勒	zhe ba lai le	1
 奔奔	ben ben	1
+蒂玛乌斯	di ma wu si	1
+欧芙	ou fu	1
+阿鲁埃	a lu ai	1
 
-# 整活部分，如不希望出现请删除以下部分。
+# 部分任务名称，如不需要请删除以下部分。
+邪恶的扩张	xie e de kuo zhang	1
+有蟹有还	you xie you huan	1
+游光示现	you guang shi xian	1
+总得喝一杯	zong dei he yi bei	1
+细雨将至	xi yu jiang zhi	1
+水仙十字大冒险	shui xian shi zi da mao xian	1
+富豪游戏	fu hao you xi	1
+愤怒泉眼	fen nu quan yan	1
+黄金梦乡	huang jin meng xiang	1
+阿赫玛尔的秘密	a he ma er de mi mi	1
+映影书写札记	ying ying shu xie zha ji	1
+无生忍	wu sheng ren	1
+
+# 整活部分，如不需要请删除以下部分。
 菲谢尔·冯·露弗施洛斯·那菲多特	fei xie er	1
 阿斯托洛吉斯·莫娜·梅姬斯图斯	mo na	1
 阿斯托洛吉斯·莫娜·梅姬斯图斯	a si tuo luo ji si mo na mei ji si tu si	1
