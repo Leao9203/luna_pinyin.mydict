@@ -1830,8 +1830,6 @@ use_preset_vocabulary: true
 逐月节	zhu yue jie	1
 海灯节	hai deng jie	1
 容彩祭	rong cai ji	 1
-加扎里	jia zha li	1
-兰利遮	lan li zhe	1
 梨多梵谛	li duo fan di	1
 阿弥利多	a mi li duo	1
 悉般多摩	xi ban duo mo	1
@@ -1886,6 +1884,17 @@ use_preset_vocabulary: true
 流浪者的经验	liu lang zhe de jing yan	1
 赤沙之槛	chi sha zhi jian	1
 蕈兽	xun shou	1
+沙漠书	sha mo shu	1
+
+# 部分NPC名称，如不需要请删除以下部分。
+加扎里	jia zha li	1
+兰利遮	lan li zhe	1
+提尔扎德	ti er zha de	1
+婕德	jie de	1
+哲伯莱勒	zhe bo lai le	1
+哲伯莱勒	zhe bai lai le	1
+哲伯莱勒	zhe ba lai le	1
+奔奔	ben ben	1
 
 # 整活部分，如不希望出现请删除以下部分。
 菲谢尔·冯·露弗施洛斯·那菲多特	fei xie er	1
